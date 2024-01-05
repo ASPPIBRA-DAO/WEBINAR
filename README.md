@@ -58,6 +58,6 @@ Marque esta data e prepare-se para ser parte da transformação digital. Estamos
 
 Atenciosamente,
 
-**Sandro Antunes**  
+**Sandro A.A.A**  
 *Co-Fundador*  
 **ASPPIBRA-DAO**
