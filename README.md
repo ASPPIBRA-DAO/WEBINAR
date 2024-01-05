@@ -1,7 +1,6 @@
-# WEBINAR
-World Connection Webinar Brazil 2024
+# 🎉 Convite: 🎉
 
-# 🎉 Convite: Webinar Conexão Mundial Brasil 2024 - Construindo um Futuro Digital Inclusivo! 🌐
+# Webinar Conexão Mundial Brasil 2024 - Construindo um Futuro Digital Inclusivo! 🌐
 
 Olá! 👋
 
