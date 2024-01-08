@@ -31,6 +31,7 @@ Explorando **Web3, Blockchain, Segurança Web, Finanças Descentralizadas**, sus
 - **Sandro Antunes:** Desenvolvedor Web.
 - **Ana Amorim:** Social Mídia.
 - **Ygor Nogueira:** Escrevente Notarial.
+- **Hemilly Rodrigues:** Analista de Blockchain e Web3
 - **Gustavo Novais:** Desenvolvedor Web.
 - **Daniel Azevedo:** Desenvolvedor Web.
 
