@@ -1,6 +1,6 @@
 # 🌐 Webinar Conexão Mundial Brasil 2024 - Uma Jornada para a Inclusão Digital 🚀
 
-## 📩 Convite para Apoio: VIACAO NOSSA SENHORA DO AMPARO LTDA
+## 📩 Convite para Apoio: 
 
 Olá! 🌟
 
