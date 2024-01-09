@@ -8,8 +8,6 @@ No Brasil, um país marcado por desafios relacionados à desigualdade de renda e
 ## O Problema da Desigualdade Fundiária e Renda no Brasil 📊
 Um estudo do IPEA em 2022 ilustra como a estrutura fundiária urbana do Brasil contribui para a desigualdade de renda, com muitas famílias em áreas irregulares sofrendo com a falta de acesso a serviços básicos e segurança jurídica. 🏙️
 
-**Sugestão de Melhoria:** Para tornar este tópico mais impactante, inclua estatísticas ou exemplos específicos que demonstrem a gravidade da situação.
-
 ## Blockchain: A Revolução na Escrituração Imobiliária 🔗
 A blockchain promete transformar o registro de propriedades, simplificando processos e aumentando a transparência e a segurança, algo crucial para combater fraudes e erros no registro imobiliário. 💼
 
