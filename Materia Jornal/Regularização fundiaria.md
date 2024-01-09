@@ -107,14 +107,28 @@ Com o trabalho conjunto de governo, setor privado e sociedade civil, o Brasil po
 A adoção da blockchain na escrituração imobiliária tem o potencial de revolucionar o mercado imobiliário brasileiro, tornando-o mais seguro, eficiente e acessível. Essa tecnologia representa um avanço importante para a inclusão digital e social no Brasil, com o potencial de reduzir a desigualdade de renda e promover um crescimento econômico inclusivo. 🌐💼
 
 ## Convite para Webinar 🎙️
-Para saber mais sobre a adoção da blockchain na escrituração imobiliária, participe do webinar "Escritura Imobiliária em Blockchain: Um Futuro mais Justo e Equitativo", que será realizado no dia 10 de agosto de 2024, às 10h (horário de Brasília). 📆🕙
+Para saber mais sobre a adoção da blockchain na escrituração imobiliária, participe do evento "Webinar Conexão Mundial Brasil 2024 - Construindo um Futuro Digital Inclusivo!".
 
-O webinar contará com a participação de especialistas em blockchain, escrituração imobiliária e inclusão digital. Serão abordados temas como:
+## Detalhes do Evento:
 
-- Os benefícios da blockchain para a escrituração imobiliária
-- Os desafios da adoção da blockchain na escrituração imobiliária
-- O papel do governo, do setor privado e da sociedade civil na adoção da blockchain na escrituração imobiliária
+- **Data:** 10/03/2023 📅
+- **Hora:** 14:00 hrs  🕙
+- **Idiomas:** Português e Inglês
+- **Local:** Online e Espaço Físico (Detalhes a serem confirmados)
+- **Transmissão:** Principais Redes Sociais
 
+## 🌟 Tema do Evento:
+
+Explorando **Web3, Blockchain, Segurança Web, Finanças Descentralizadas**, **sustentabilidade** e **Inclusão Digital** para um Rio de Janeiro mais conectado. Descubra casos de sucesso e como estas tecnologias estão remodelando nosso mundo!
+
+## 📢 Destaques do Evento:
+
+- **🏠 Digitalização de Registros Imobiliários:** Iniciativas de tokenização para segurança e transparência imobiliária.
+- **💳 Carteiras Baseadas em Blockchain para Inclusão Financeira:** Empoderamento através do conhecimento e uso de carteiras digitais.
+- **🌿 Sustentabilidade e Impacto Ambiental:** Explore o papel da Web3 e da tecnologia blockchain no registro de créditos de carbono.
+- **🎓 Iniciativas Educacionais:** Programas para capacitar residentes do Rio em tecnologias emergentes.
+- **🎁 Incentivos aos Participantes:** Distribuição de Airdrop de NFTs e Tokens para engajamento no ecossistema blockchain.
+  
 Para se inscrever, acesse o [Formulário de inscrição](https://forms.gle/UJKDXpdNt3g8SJFs8). 🖋️📲
 
 Espero ver você lá! 🤝👥
