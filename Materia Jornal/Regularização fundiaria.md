@@ -115,6 +115,6 @@ O webinar contará com a participação de especialistas em blockchain, escritur
 - Os desafios da adoção da blockchain na escrituração imobiliária
 - O papel do governo, do setor privado e da sociedade civil na adoção da blockchain na escrituração imobiliária
 
-Para se inscrever, acesse o [link para inscrição](https://exemplo.com/link-para-inscricao). 🖋️📲
+Para se inscrever, acesse o [Formulário de inscrição](https://forms.gle/UJKDXpdNt3g8SJFs8). 🖋️📲
 
 Espero ver você lá! 🤝👥
