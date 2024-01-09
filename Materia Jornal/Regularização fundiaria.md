@@ -90,7 +90,17 @@ Para superar esses desafios, é importante seguir as seguintes recomendações:
 
 Com o trabalho conjunto de governo, setor privado e sociedade civil, o Brasil pode superar os desafios e aproveitar o potencial da blockchain para construir um futuro mais justo e equitativo para todos. 🇧🇷✨
 
+### Conclusão 🏁
+A adoção da blockchain na escrituração imobiliária tem o potencial de revolucionar o mercado imobiliário brasileiro, tornando-o mais seguro, eficiente e acessível. Essa tecnologia representa um avanço importante para a inclusão digital e social no Brasil, com o potencial de reduzir a desigualdade de renda e promover um crescimento econômico inclusivo. 🌐💼
 
-### Conclusão 🎉
-A adoção da blockchain na escrituração imobiliária representa um avanço importante para a inclusão digital e social no Brasil. Esta tecnologia oferece uma solução para a redução da desigualdade de renda e promove um crescimento econômico inclusivo, sinalizando um futuro mais justo e equitativo para todos. 🌟
+Convite para Webinar 🎙️
+Para saber mais sobre a adoção da blockchain na escrituração imobiliária, participe do webinar "Escritura Imobiliária em Blockchain: Um Futuro mais Justo e Equitativo", que será realizado no dia 10 de agosto de 2024, às 10h (horário de Brasília). 📆🕙
 
+O webinar contará com a participação de especialistas em blockchain, escrituração imobiliária e inclusão digital. Serão abordados temas como:
+
+Os benefícios da blockchain para a escrituração imobiliária
+Os desafios da adoção da blockchain na escrituração imobiliária
+O papel do governo, do setor privado e da sociedade civil na adoção da blockchain na escrituração imobiliária
+Para se inscrever, acesse o link: link para inscrição. 🖋️📲
+
+Espero ver você lá! 🤝👥
