@@ -33,8 +33,6 @@ O governo pode oferecer incentivos para a adoção da blockchain na escrituraç�
 
 3. incentivos fiscais oferecidos aos proprietários de imóveis que utilizem a blockchain para registrar suas propriedades, contribuindo assim para a redução de custos em seu registro e incentivando a adoção da tecnologia blockchain. 💳
 
-**Sugestão de Melhoria:** Fornecer exemplos de outros países que implementaram com sucesso incentivos semelhantes para tornar os argumentos mais concretos.
-
 ### Regulamentação 📜
 
 É importante que o governo desenvolva um quadro regulatório claro e consistente para a adoção da blockchain na escrituração imobiliária. Esse quadro regulatório deve garantir o uso seguro e eficaz da blockchain, protegendo, ao mesmo tempo, os direitos dos proprietários de imóveis.
@@ -46,8 +44,6 @@ O quadro regulamentar deve abordar questões como:
 2. Autenticação de transações: O governo deve estabelecer um processo de autenticação de transações de blockchain que seja seguro e eficaz. Isso ajudaria a proteger os proprietários de imóveis contra fraudes e erros. 🔒
 
 3. Privacidade: O governo deve proteger a privacidade dos dados registrados na blockchain. Isso é essencial para garantir que os proprietários de imóveis tenham controle sobre suas informações. 👥
-
-**Sugestão de Melhoria:** Explique como o Brasil está progredindo em direção a essa regulamentação e cite exemplos de marcos legais relevantes em andamento.
 
 ## Legislação Atual 🇧🇷
 
