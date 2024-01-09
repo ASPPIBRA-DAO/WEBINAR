@@ -6,7 +6,7 @@ No Brasil, um país marcado por desafios relacionados à desigualdade de renda e
 **Objetivo do Documento:** Este documento explora os desafios, soluções e impactos da adoção da blockchain na escrituração imobiliária no Brasil.
 
 ## O Problema da Desigualdade Fundiária e Renda no Brasil 📊
-Um estudo do IPEA em 2022 ilustra como a estrutura fundiária urbana do Brasil contribui para a desigualdade de renda, com muitas famílias em áreas irregulares sofrendo com a falta de acesso a serviços básicos e segurança jurídica. 🏙️
+Um estudo do IPEA em 2022 ilustra como a estrutura fundiária urbana do Brasil contribui para a desigualdade de renda e afeta muitas famílias em áreas irregulares, prejudicadas com a falta de acesso a serviços básicos e segurança jurídica. 🏙️
 
 ## Blockchain: A Revolução na Escrituração Imobiliária 🔗
 A blockchain promete transformar o registro de propriedades, simplificando processos e aumentando a transparência e a segurança, algo crucial para combater fraudes e erros no registro imobiliário. 💼
