@@ -39,11 +39,11 @@ O governo pode oferecer incentivos para a adoção da blockchain na escrituraç�
 
 O quadro regulamentar deve abordar questões como:
 
-1. Reconhecimento da blockchain: O governo deve reconhecer a blockchain como uma forma válida de registro de propriedade. Isso é essencial para que a blockchain seja aceita pelas autoridades governamentais e pelos agentes do mercado imobiliário. 📋
+1. Reconhecimento da blockchain: considerar a blockchain como uma forma válida de registro de propriedade é essencial para que a tecnologia seja aceita pelas autoridades governamentais e pelos agentes do mercado imobiliário. 📋
 
-2. Autenticação de transações: O governo deve estabelecer um processo de autenticação de transações de blockchain que seja seguro e eficaz. Isso ajudaria a proteger os proprietários de imóveis contra fraudes e erros. 🔒
+2. Autenticação de transações: estabelecer um processo de autenticação de transações de blockchain que seja seguro e eficaz, auxiliando na proteção dos proprietários de imóveis contra fraudes e erros. 🔒
 
-3. Privacidade: O governo deve proteger a privacidade dos dados registrados na blockchain. Isso é essencial para garantir que os proprietários de imóveis tenham controle sobre suas informações. 👥
+3. Privacidade: proteger a privacidade dos dados registrados na blockchain é essencial para garantir que os proprietários de imóveis tenham controle sobre suas informações. 👥
 
 ## Legislação Atual 🇧🇷
 
@@ -76,8 +76,6 @@ Os desafios legais da adoção da blockchain na escrituração imobiliária incl
 1. Regulamentação: É importante desenvolver um quadro regulatório que seja claro e consistente, para que a blockchain possa ser usada de forma segura e eficaz. 📋
 
 2. Reconhecimento: É importante que a blockchain seja reconhecida como uma forma válida de registro de propriedade, para que seja aceita pelas autoridades governamentais e pelos agentes do mercado imobiliário. 🏛️
-
-**Sugestão de Melhoria:** Explique como o Brasil está trabalhando para superar esses desafios legais e cite exemplos de avanços na regulamentação.
 
 ## Caminhos para Implementação 🚀
 
