@@ -100,6 +100,10 @@ Com o trabalho conjunto de governo, setor privado e sociedade civil, o Brasil po
 A adoção da escrituração imobiliária na blockchain tem o potencial de revolucionar o mercado imobiliário brasileiro, tornando-o mais seguro, eficiente e acessível. Essa tecnologia representa um avanço importante para a inclusão digital e social no Brasil, com o potencial de reduzir a desigualdade de renda e promover um crescimento econômico inclusivo. 🌐💼
 
 ## Convite para Webinar 🎙️
+
+![ASPPIBRA Webinar](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/fb24c26614bd5c9e9279572c9a2d4e848bccb200/Jornal/ASPPIBRA-Webinar.svg)
+
+
 Para saber mais sobre a adoção da escrituração imobiliária na blockchain, participe do evento "Webinar Conexão Mundial Brasil 2024 - Construindo um Futuro Digital Inclusivo!".
 
 ## Detalhes do Evento:
