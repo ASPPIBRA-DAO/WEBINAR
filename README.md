@@ -44,7 +44,7 @@ Reserve seu lugar e prepare-se para uma experiência enriquecedora. Para se insc
 
 - **📧 Email:** suporte@asppibra.com.br
 - **📞 Telefone:** 21 9 9880-0982
-
+- **🟢 WhatsApp** [Grupo WhatsApp](https://chat.whatsapp.com/FF6cs4zKS6BGxhLOyaNgu1)
 ## 🌱 Engajamento Contínuo:
 
 Inspire-se e continue a jornada conosco! Participe da nossa comunidade no Telegram e acesse material educativo continuamente atualizado.
