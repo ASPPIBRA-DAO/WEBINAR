@@ -10,9 +10,14 @@ A ASPPIBRA-DAO está revolucionando o setor imobiliário no Brasil ao usar a tec
 ## O Problema da Desigualdade Fundiária e Renda no Brasil 📊
 Um estudo do IPEA em 2022 ilustra como a estrutura fundiária urbana do Brasil contribui para a desigualdade de renda e afeta muitas famílias em áreas irregulares, prejudicadas com a falta de acesso a serviços básicos e segurança jurídica. 🏙️
 
-## Blockchain: A Revolução na Escrituração Imobiliária 
+## Blockchain: o que é, como funciona 
 
 ![ASPPIBRA BLOCKCHAIN](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-BLOCKCHAIN.svg)
+
+- A blockchain é uma tecnologia de registro distribuída que permite o armazenamento de informações de forma segura e transparente. É composta por uma cadeia de blocos de dados, cada um dos quais contém um registro de transações. Os blocos são ligados entre si por meio de criptografia, o que torna impossível alterar ou excluir informações sem alterar todos os blocos subsequentes.
+- A blockchain funciona de forma descentralizada, o que significa que não há uma entidade central responsável por gerenciar ou armazenar as informações. Em vez disso, as informações são armazenadas em uma rede de computadores, cada um dos quais possui uma cópia da blockchain.
+
+## Blockchain: A Revolução na Escrituração Imobiliária
 
 A blockchain promete transformar o registro de propriedades, simplificando processos e aumentando a transparência e a segurança - algo crucial para combater fraudes e erros no registro imobiliário. 💼
 
