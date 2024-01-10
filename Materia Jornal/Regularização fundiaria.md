@@ -8,7 +8,7 @@ A Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA)
 **Objetivo do Documento:** Este documento explora os desafios, soluções e impactos da adoção da escrituração imobiliária na blockchain no Brasil.
 
 ## Desafios da Desigualdade de Terra e Renda no Brasil: Um Olhar Detalhado 
-De acordo com uma análise detalhada realizada pelo Instituto de Pesquisa Econômica Aplicada (IPEA) em 2022, a configuração atual da estrutura fundiária urbana no Brasil desempenha um papel significativo na perpetuação da desigualdade de renda. Este estudo destaca que um grande número de famílias, especialmente aquelas situadas em áreas urbanas irregulares, enfrentam dificuldades agravadas pela falta de acesso a serviços essenciais e pela ausência de segurança jurídica em relação às suas moradias. Esta situação evidencia um ciclo de desvantagens que impacta diretamente na qualidade de vida e nas oportunidades econômicas dessas comunidades.
+Um estudo de 2022 realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA) revela detalhadamente como a estrutura fundiária urbana no Brasil está intrinsecamente ligada à desigualdade de renda. O relatório destaca que muitas famílias residentes em áreas urbanas irregulares sofrem com o impacto dessa desigualdade, enfrentando dificuldades agravadas pela falta de acesso a serviços básicos e pela ausência de segurança jurídica em relação à posse de suas propriedades. Este cenário enfatiza a necessidade urgente de medidas eficazes para mitigar estas disparidades socioeconômicas.
 
 ## Blockchain: o que é, como funciona 
 
