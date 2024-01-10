@@ -2,6 +2,8 @@
 
 ## Webinar Conexão Mundial Brasil 2024 - Construindo um Futuro Digital Inclusivo! 🌐
 
+![ASPPIBRA Webinar](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/fb24c26614bd5c9e9279572c9a2d4e848bccb200/Jornal/ASPPIBRA-Webinar.svg)
+
 Olá! 👋
 
 Você está convidado(a) para se juntar a nós no **Webinar Conexão Mundial Brasil 2024**, um evento inovador que visa discutir e moldar o futuro da tecnologia e inclusão digital! 🚀
