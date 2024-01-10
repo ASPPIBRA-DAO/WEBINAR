@@ -1,4 +1,6 @@
 # Escritura Imobiliária para Todos: Um Passo Importante para a Inclusão Digital e Social 🌐
+<img src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-ESCRITURA.svg"style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
+
 
 ## Introdução 🚀
 A ASPPIBRA-DAO está revolucionando o setor imobiliário no Brasil ao usar a tecnologia blockchain para tornar a escrituração imobiliária mais acessível e inclusiva. Esta abordagem inovadora enfrenta desafios de desigualdade de renda e complexidades fundiárias urbanas, oferecendo uma solução escalável que promove a inclusão econômica e social. A iniciativa da ASPPIBRA-DAO não só melhora a eficiência e a segurança no registro de propriedades, mas também pavimenta o caminho para um futuro onde todos têm acesso igual a propriedades seguras e reconhecidas legalmente, contribuindo significativamente para a inclusão digital e o crescimento econômico do Brasil. 🏡
@@ -8,7 +10,9 @@ A ASPPIBRA-DAO está revolucionando o setor imobiliário no Brasil ao usar a tec
 ## O Problema da Desigualdade Fundiária e Renda no Brasil 📊
 Um estudo do IPEA em 2022 ilustra como a estrutura fundiária urbana do Brasil contribui para a desigualdade de renda e afeta muitas famílias em áreas irregulares, prejudicadas com a falta de acesso a serviços básicos e segurança jurídica. 🏙️
 
-## Blockchain: A Revolução na Escrituração Imobiliária 🔗
+## Blockchain: A Revolução na Escrituração Imobiliária 
+<img src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-BLOCKCHAIN.svg"style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
+
 A blockchain promete transformar o registro de propriedades, simplificando processos e aumentando a transparência e a segurança - algo crucial para combater fraudes e erros no registro imobiliário. 💼
 
 ## Problemas Atuais no Registro de Imóveis no Brasil 📜
@@ -46,6 +50,8 @@ O quadro regulamentar deve abordar questões como:
 3. Privacidade: proteger a privacidade dos dados registrados na blockchain é essencial para garantir que os proprietários de imóveis tenham controle sobre suas informações. 👥
 
 ## Legislação Atual 🇧🇷
+<img src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-JUSTI%C3%87A.svg"style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
+
 
 O Brasil já tomou algumas medidas para criar um ambiente propício à adoção da escrituração imobiliária na blockchain. Algumas leis relevantes incluem:
 
