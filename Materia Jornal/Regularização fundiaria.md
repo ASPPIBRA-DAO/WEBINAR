@@ -1,6 +1,6 @@
 # Escritura Imobiliária para Todos: Um Passo Importante para a Inclusão Digital e Social 🌐
-<img src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-ESCRITURA.svg"style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
 
+![ASPPIBRA ESCRITURA](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-ESCRITURA.svg)
 
 ## Introdução 🚀
 A ASPPIBRA-DAO está revolucionando o setor imobiliário no Brasil ao usar a tecnologia blockchain para tornar a escrituração imobiliária mais acessível e inclusiva. Esta abordagem inovadora enfrenta desafios de desigualdade de renda e complexidades fundiárias urbanas, oferecendo uma solução escalável que promove a inclusão econômica e social. A iniciativa da ASPPIBRA-DAO não só melhora a eficiência e a segurança no registro de propriedades, mas também pavimenta o caminho para um futuro onde todos têm acesso igual a propriedades seguras e reconhecidas legalmente, contribuindo significativamente para a inclusão digital e o crescimento econômico do Brasil. 🏡
