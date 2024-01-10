@@ -11,7 +11,8 @@ A ASPPIBRA-DAO está revolucionando o setor imobiliário no Brasil ao usar a tec
 Um estudo do IPEA em 2022 ilustra como a estrutura fundiária urbana do Brasil contribui para a desigualdade de renda e afeta muitas famílias em áreas irregulares, prejudicadas com a falta de acesso a serviços básicos e segurança jurídica. 🏙️
 
 ## Blockchain: A Revolução na Escrituração Imobiliária 
-<img src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-BLOCKCHAIN.svg"style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
+
+![ASPPIBRA BLOCKCHAIN](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-BLOCKCHAIN.svg)
 
 A blockchain promete transformar o registro de propriedades, simplificando processos e aumentando a transparência e a segurança - algo crucial para combater fraudes e erros no registro imobiliário. 💼
 
@@ -50,8 +51,8 @@ O quadro regulamentar deve abordar questões como:
 3. Privacidade: proteger a privacidade dos dados registrados na blockchain é essencial para garantir que os proprietários de imóveis tenham controle sobre suas informações. 👥
 
 ## Legislação Atual 🇧🇷
-<img src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-JUSTI%C3%87A.svg"style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
 
+![ASPPIBRA JUSTIÇA](https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Jornal/ASPPIBRA-JUSTI%C3%87A.svg)
 
 O Brasil já tomou algumas medidas para criar um ambiente propício à adoção da escrituração imobiliária na blockchain. Algumas leis relevantes incluem:
 
