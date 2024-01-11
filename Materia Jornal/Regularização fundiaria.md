@@ -138,3 +138,7 @@ Para se inscrever, acesse o [Formulário de inscrição](https://forms.gle/UJKDX
 - **📧 Email:** suporte@asppibra.com.br
 - **🟢 WhatsApp** [Grupo WhatsApp](https://chat.whatsapp.com/FF6cs4zKS6BGxhLOyaNgu1)
 Espero ver você lá! 🤝👥
+
+## créditos
+- **Escrito** [Ana Carolina Amorim](https://www.linkedin.com/in/carol-br/)
+- **Revisado** [ Ana Carolina Oliveira](https://www.linkedin.com/in/ana-carolina-oliveira-37b469138/)
