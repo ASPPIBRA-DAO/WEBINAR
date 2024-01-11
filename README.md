@@ -45,7 +45,6 @@ Além do acesso virtual, o evento contará com um espaço físico dedicado para 
 Reserve seu lugar e prepare-se para uma experiência enriquecedora. Para se inscrever, acesse o [Formulário de inscrição](https://forms.gle/UJKDXpdNt3g8SJFs8). 🖋️📲 ou entre em contato:
 
 - **📧 Email:** suporte@asppibra.com.br
-- **📞 Telefone:** 21 9 9880-0982
 - **🟢 WhatsApp** [Grupo WhatsApp](https://chat.whatsapp.com/FF6cs4zKS6BGxhLOyaNgu1)
 ## 🌱 Engajamento Contínuo:
 
