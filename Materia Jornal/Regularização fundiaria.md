@@ -135,5 +135,6 @@ Explorando **Web3, Blockchain, Segurança Web, Finanças Descentralizadas**, **s
 - **🎁 Incentivos aos Participantes:** Distribuição de Airdrop de NFTs e Tokens para engajamento no ecossistema blockchain.
   
 Para se inscrever, acesse o [Formulário de inscrição](https://forms.gle/UJKDXpdNt3g8SJFs8). 🖋️📲
-
+- **📧 Email:** suporte@asppibra.com.br
+- **🟢 WhatsApp** [Grupo WhatsApp](https://chat.whatsapp.com/FF6cs4zKS6BGxhLOyaNgu1)
 Espero ver você lá! 🤝👥
