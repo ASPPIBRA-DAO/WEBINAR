@@ -4,7 +4,7 @@
 **Creation Date:** 2023-10-26  
 **Language:** English  
 **Format:** Application/PDF  
-**Keywords:** Sample, Document, Metadata  
+**Keywords:** Exemplar, Registro, Documentação, Metadados  
 
 ## Table of Contents
 
