@@ -1,4 +1,4 @@
-# Cadastro Imobiliário Mundial Digital
+# Cadastro Imobiliário no Mundial Digital
 
 **Autor:** ASPPIBRA-DAO  
 **Data de Criação:** 26 de outubro de 2023  
@@ -6,22 +6,22 @@
 **Formato:** .JSON/PDF/NFT  
 **Palavras-chave:** Exemplar, Registro, Documentação, Metadados 
 
-## Table of Contents
+## Índice
 
-1. [Document Information](#document-information)
-2. [Property Ownership](#property-ownership)
-3. [Area Description](#area-description)
-4. [Professionals](#professionals)
-5. [Topography Plans](#topography-plans)
-6. [House Plans](#house-plans)
-7. [Photo Report](#photo-report)
-8. [Construction Licensing](#construction-licensing)
-9. [Sales Value](#sales-value)
-10. [City Hall](#city-hall)
-11. [Registry Office](#registry-office)
-12. [Onus Reais](#onus-reais)
-13. [Notarial Minutes](#notarial-minutes)
-14. [Judicial Note](#judicial-note)
+1. [Informações do documento](#informações-do-documento)
+2. [Propriedade da propriedade](#propriedade-da-propriedade)
+3. [Descrição da área](#descrição-da-área)
+4. [Profissionais](#profissionais)
+5. [Plantas Topográficos](#plantas-topográficos)
+6. [Plantas da casa](#plantas-da-casa)
+7. [Relatório fotográfico](#relatório-fotográfico)
+8. [Licenciamento de Construção](#licenciamento-de-construção)
+9. [Valor de vendas](#valor-de-vendas)
+10. [Prefeitura](#prefeitura)
+11. [Cartório](#cartório)
+12. [Ônus Reais](#ônus-reais)
+13. [Ata Notarial](#ata-notarial)
+14. [Nota Judicial](#nota-judicial)
 
 ## Introdução
 
