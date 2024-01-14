@@ -23,9 +23,11 @@
 13. [Notarial Minutes](#notarial-minutes)
 14. [Judicial Note](#judicial-note)
 
-## Introduction
+## Introdução
 
-This document, authored by ASPPIBRA-DAO, addresses the digital world of real estate registration. It aims to offer a solution for Urban and Rural Land Regularization in Brazil. This solution seeks to ensure the digital inclusion of all property owners and possessors throughout the country. The project complies with LAW No. 13,465, OF JULY 11, 2017, which deals with urban and rural land regularization. The solution utilizes blockchain technology to scale real estate registration on a global scale. It addresses issues related to informality and transparency in property registration, ultimately providing access to inviolable decentralized information. Notably, the document mentions the creation of a unique NFT representing ownership of a house.
+Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a LEI Nº 13.465, DE 11 DE JULHO DE 2017, que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a Lei nº 10.973 de 2004 (Lei de Inovação), proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
+
+A solução apresentada incorpora a tecnologia blockchain como uma ferramenta fundamental para dimensionar o registro imobiliário em escala global. Ao abordar questões relacionadas à informalidade e à transparência no registro de propriedades, o projeto visa proporcionar, em última análise, acesso a informações descentralizadas e invioláveis. Um destaque significativo deste documento é a proposta de criação de um NFT único, que representa a propriedade de uma casa, adicionando uma camada adicional de segurança e autenticidade ao processo.
 
 ## Data Structure
 
