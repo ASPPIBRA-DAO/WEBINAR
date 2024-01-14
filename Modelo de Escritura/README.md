@@ -156,8 +156,8 @@ The .json file is organized into various sections, each serving a specific purpo
 14. **Judicial Note Information:**
     - Details about Judicial Note, including its value, link, and electronic seal.
 
-## Conclusion
+## Conclusão
 
-The .json file "Digital World Real Estate Registration" is a comprehensive document containing structured data related to real estate registration in Brazil. The information is well-organized, and each section serves a specific purpose in providing a detailed overview of the property, its owners, and the professionals involved. The use of blockchain technology is emphasized to ensure transparency and security in the real estate registration process.
+O arquivo .json "Cadastro Imobiliário Mundial Digital" representa uma compilação abrangente de dados estruturados relacionados ao registro imobiliário no Brasil. A organização meticulosa das informações em cada seção proporciona uma visão detalhada do imóvel, seus proprietários e os profissionais envolvidos no processo. A ênfase na utilização da tecnologia blockchain destaca-se como um elemento crucial para assegurar transparência e segurança no processo de registro de imóveis.
 
-This report serves as an educational resource to understand the data structure and primary data contained within the .json file, facilitating better comprehension of the document's content and purpose.
+Este relatório não apenas serve como um documento informativo, mas também se destaca como um recurso educacional valioso. Ele oferece uma análise aprofundada da estrutura dos dados e dos dados primários contidos no arquivo .json. Essa abordagem facilita significativamente uma compreensão mais profunda do conteúdo e da finalidade do documento, contribuindo para a disseminação do conhecimento sobre práticas inovadoras no âmbito do registro imobiliário digital. O caráter educacional deste relatório promove a transparência não apenas nos registros imobiliários, mas também na compreensão e aplicação desses registros.
