@@ -29,84 +29,84 @@ Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre 
 
 A solução apresentada incorpora a tecnologia blockchain como uma ferramenta fundamental para dimensionar o registro imobiliário em escala global. Ao abordar questões relacionadas à informalidade e à transparência no registro de propriedades, o projeto visa proporcionar, em última análise, acesso a informações descentralizadas e invioláveis. Um destaque significativo deste documento é a proposta de criação de um NFT único, que representa a propriedade de uma casa, adicionando uma camada adicional de segurança e autenticidade ao processo.
 
-## Data Structure
+## Estrutura de Dados
 
-The .json file is organized into various sections, each serving a specific purpose. The key sections and their respective substructures are as follows:
+O arquivo .json está organizado em várias seções, cada uma servindo a um propósito específico. As seções principais e suas respectivas subestruturas são as seguintes:
 
-1. **Document Information:**
-   - Title
-   - Author
-   - Creation Date
-   - Keywords
-   - Language
-   - Format
-   - Description
+### 1. Informações do documento:
+   - Título
+   - Autor
+   - Data de criação
+   - Palavras-chave
+   - Linguagem
+   - Formatar
+   - Descrição
 
-2. **Owners:**
-   - Husband Information
-   - Wife Information
-   - Heir Children Information (if applicable)
+### 2. Os Proprietários:
+   - Informações do marido
+   - Informações da esposa
+   - Informações sobre filhos herdeiros (se aplicável)
 
-3. **Property Information:**
-   - Address
-   - Registration Number (for City Hall and Notary Office)
-   - Area Details
-   - Geographic Location
+### 3. Informação de Propriedade:
+   - Endereço
+   - Número de Inscrição (para Prefeitura e Cartório)
+   - Detalhes da área
+   - Localização geográfica
 
-4. **Professionals:**
-   - Surveyor Information
-   - Civil Engineer Information
+### 4. Profissionais:
+   - Informações do topógrafo
+   - Informações do Engenheiro Civil
 
-5. **Area Description:**
-   - Description Value
-   - Topography Plans (including Situation Plan, Cadastral Planimetric Plan, Topographic Plan, and District Plan)
+### 5. Descrição da área:
+   - Descrição Valor
+   - Planos Topográficos (incluindo Plano de Situação, Plano Planimétrico Cadastral, Plano Topográfico e Plano Distrital)
 
-6. **House Plans:**
-   - Description Value
-   - Plans (including House Plan and Engineering Plans)
+### 6. Plantas da casa:
+   - Descrição Valor
+   - Planos (incluindo plano de casa e planos de engenharia)
 
-7. **Photo Report:**
-   - Description
-   - Images (including Front View, Side View, Backyard, and Aerial Photography)
+### 7. Reportagem fotográfica:
+   - Descrição
+   - Imagens (incluindo vista frontal, vista lateral, quintal e fotografia aérea)
 
-8. **Construction Licensing:**
-   - Value
+### 8. Licenciamento de Construção:
+   - Valor
    - Link
-   - Electronic Seal
+   - Selo Eletrônico
 
-9. **Sales Value:**
-   - List Price
-   - Appraised Value
-   - Negotiated Sales Price
-   - Date of Sale
-   - Buyer Information
-   - Payment Method
-   - Terms of Sale
+### 9. Valor de venda:
+   - Preço de tabela
+   - Valor avaliado
+   - Preço de venda negociado
+   - Data de Venda
+   - Informações do comprador
+   - Forma de pagamento
+   - Termos de venda
 
-10. **City Hall Information:**
-    - Address
-    - CNPJ (Tax ID for City Hall)
+### 10. Informações da Prefeitura:
+   - Endereço
+   - CNPJ (CNPJ da Prefeitura)
 
-11. **Registry Office Information:**
-    - Name
-    - Notary Officer Information (Name and Substitute Name)
-    - Address
-    - CNPJ (Tax ID for Registry Office)
+### 11. Informações do cartório:
+   - Nome
+   - Informações do notário (nome e nome substituto)
+   - Endereço
+   - CNPJ (CNPJ do Cartório)
 
-12. **Onus Reais Information:**
-    - Value
-    - Link
-    - Electronic Seal
+### 12. Informações sobre Ônus Reais:
+   - Valor
+   - Link
+   - Selo Eletrônico
 
-13. **Notarial Minutes Information:**
-    - Value
-    - Link
-    - Electronic Seal
+### 13. Informações sobre atas notariais:
+   - Valor
+   - Link
+   - Selo Eletrônico
 
-14. **Judicial Note Information:**
-    - Value
-    - Link
-    - Electronic Seal
+### 14. Informações da Nota Judicial:
+   - Valor
+   - Link
+   - Selo Eletrônico
 
 ## Main Data Highlights
 
