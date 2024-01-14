@@ -1,10 +1,10 @@
-# Digital World Real Estate Registration
+# Registro Imobiliário no Mundo Digital
 
-**Author:** ASPPIBRA-DAO  
-**Creation Date:** 2023-10-26  
-**Language:** English  
-**Format:** Application/PDF  
-**Keywords:** Exemplar, Registro, Documentação, Metadados  
+**Autor:** ASPPIBRA-DAO
+**Data de Criação:** 26 de outubro de 2023
+**Idioma:** Português
+**Formato:** .JSON/PDF/NFT
+**Palavras-chave:** Exemplar, Registro, Documentação, Metadados  
 
 ## Table of Contents
 
