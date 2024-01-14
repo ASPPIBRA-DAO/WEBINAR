@@ -128,8 +128,8 @@
     },
     "construction_licensing": {
         "value": "ART",
-        "link": "https://bafybeigjkvr54ue2rgewwksb7prcpuxly6aklpk7wb35x3wfxfyazrlate.ipfs.w3s.link/%40art.png",
-        "electronic_seal": "00000000000000hats"
+        "link": "https://creaonline.crea-rj.org.br/creaOnLine/home/realizarAtendimentoPublico.do?funcao=autenticarARTpublica",
+        "electronic_seal": "2020210181537"
     },    
     "city_hall": {
         "address": {
