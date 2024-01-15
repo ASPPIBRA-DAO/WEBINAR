@@ -181,7 +181,12 @@
         "Registration": "4807",
         "date of certificate": "16/07/2021",
         "value": "Description",
-        "link": "https://",
+        "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://"
+        ],
         "electronic_seal": "EDWG85399",
         "random_code": "AXN"
     },
@@ -190,7 +195,12 @@
         "sheet": "182/183",
         "date of certificate": "13/11/2017",
         "value": "Description",
-        "link": "https://",
+        "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://"
+        ],
         "electronic_seal": "ECIT57306",
         "random_code": "LRG"
     },
@@ -200,13 +210,23 @@
         "sheet": "155/156",
         "date of certificate": "15/01/2019",
         "value": "Description",
-        "link": "https://",
+        "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://"
+        ],
         "electronic_seal": "ECVY45835",
         "random_code": "XYA"
     },
     "judicial_note": {
         "value": "Description of the Onus Reais exclusive area",
-        "link": "URL",
+        "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://"
+        ],
         "electronic_seal": "00000000000000hats"
     }
     
