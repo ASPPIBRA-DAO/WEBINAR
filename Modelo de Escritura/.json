@@ -93,7 +93,20 @@
     },
     "topography_plans": {
         "date": "16/07/2021",
-        "value": "Description",
+        "USED​_EQUIPMENTS": [
+            "RECEPTOR GNSS L1/L2X900+ CHC",
+            "ESTAÇÃO TOTAL PRECISÃO DE 2TKS 202 GOWIN"
+        ],
+        "BASIC SUPPORT NETWORKS":{
+            "#": "Description",
+            "CHARACTERIZATION OF THE SIRGAS 2000": "Description"
+        },
+        "DESCRIPTION OF SERVICES": {
+            "TECHNICAL STANDARDS AND REFERENCES CONSULTED": "Description",
+            "COORDINATE_TRANSPORTATION": "Description",        
+            "CADASTRAL TOPOGRAPHIC SURVEY": "Description",
+            "DATA PROCESSING": "Description"
+        },
         "plans": {
             "district plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
             "Situation Plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
@@ -129,7 +142,7 @@
     },
     "construction_licensing": {
         "value": "ART",
-        "link": "https://creaonline.crea-rj.org.br/creaOnLine/home/realizarAtendimentoPublico.do?funcao=autenticarARTpublica",
+        "link": "https://",
         "electronic_seal": "2020210181537"
     },    
     "city_hall": {
@@ -168,7 +181,7 @@
         "Registration": "4807",
         "date of certificate": "16/07/2021",
         "value": "Description",
-        "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "link": "https://",
         "electronic_seal": "EDWG85399",
         "random_code": "AXN"
     },
@@ -177,7 +190,7 @@
         "sheet": "182/183",
         "date of certificate": "13/11/2017",
         "value": "Description",
-        "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "link": "https://",
         "electronic_seal": "ECIT57306",
         "random_code": "LRG"
     },
@@ -187,7 +200,7 @@
         "sheet": "155/156",
         "date of certificate": "15/01/2019",
         "value": "Description",
-        "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "link": "https://",
         "electronic_seal": "ECVY45835",
         "random_code": "XYA"
     },
