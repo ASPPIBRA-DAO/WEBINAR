@@ -92,7 +92,8 @@
         }
     },
     "topography_plans": {
-        "value": "Your Unique Area Description with Topography Plans",
+        "date": "16/07/2021",
+        "value": "Description",
         "plans": {
             "district plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
             "Situation Plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
@@ -102,7 +103,7 @@
         }
     },
     "house_plans": {
-        "value": "Your Unique Area Description with House Plans",
+        "value": "Description",
         "plans": {
             "house_plan": "URL to the house plan",
             "engineering_plan": [
