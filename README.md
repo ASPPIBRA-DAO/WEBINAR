@@ -10,7 +10,7 @@ Você está convidado(a) para se juntar a nós no **Webinar Conexão Mundial Bra
 
 ## 📅 Detalhes do Evento:
 
-- **Data:** 10/03/2023
+- **Data:** 10/03/2024
 - **Hora:** 14:00 hrs
 - **Idiomas:** Português e Inglês
 - **Local:** Online e Espaço Físico (Detalhes a serem confirmados)
