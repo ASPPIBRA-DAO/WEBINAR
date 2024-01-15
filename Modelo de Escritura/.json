@@ -1,19 +1,16 @@
 {
+    
     "document": {
         "title": "Digital World Real Estate Registration",
         "author": "ASPPIBRA-DAO",
         "creation_date": "2023-10-26",
         "keywords": ["Exemplary", "Registration", "Documentation", "Metadata"],
         "language": "en",
-        "format": ".JSON/PDF/NFT",
-        "dedication": "With sincere dedication, we express our deep gratitude to ASPPIBRA for its fundamental contribution in the search for innovative solutions in Urban and Rural Land Regularization in Brazil. Your team's tireless commitment and strategic vision played an essential role in the conception and development of this project.
+        "format": [".JSON", ".PDF", ".NFT"],
+        "dedication": "With sincere dedication, we express our deep gratitude to ASPPIBRA for its fundamental contribution in the search for innovative solutions in Urban and Rural Land Regularization in Brazil. Your team's tireless commitment and strategic vision played an essential role in the conception and development of this project.\n\nThis dedication reflects our sincere gratitude for your commitment to presenting a comprehensive view of real estate registration in the digital context. The proposal aims to guarantee the digital inclusion of all owners and property owners, fully aligning with current legislation, in particular LAW No. 13,465, OF JULY 11, 2017.\n\nFurthermore, it is noteworthy that the project is fully in line with Law No. 10,973 of 2004 (Innovation Law), highlighting ASPPIBRA's continuous search to encourage the development and adoption of innovative technologies. The proposal aims not only to modernize but also to substantially improve the processes related to land regularization, fully capitalizing on the potential provided by digital transformation and innovation legislation.\n\nBy dedicating this document to ASPPIBRA, we express not only our gratitude but also our respect for the organization's constant quest to promote significant advances in the management and regularization of properties in the Brazilian urban and rural scenario. This is a testament to ASPPIBRA’s exemplary commitment to positively shaping the future of property registration in the country."
+    }
 
-This dedication reflects our sincere gratitude for your commitment to presenting a comprehensive view of real estate registration in the digital context. The proposal aims to guarantee the digital inclusion of all owners and property owners, fully aligning with current legislation, in particular LAW No. 13,465, OF JULY 11, 2017.
 
-Furthermore, it is noteworthy that the project is fully in line with Law No. 10,973 of 2004 (Innovation Law), highlighting ASPPIBRA's continuous search to encourage the development and adoption of innovative technologies. The proposal aims not only to modernize, but also to substantially improve the processes related to land regularization, fully capitalizing on the potential provided by digital transformation and innovation legislation.
-
-By dedicating this document to ASPPIBRA, we express not only our gratitude, but also our respect for the organization's constant quest to promote significant advances in the management and regularization of properties in the Brazilian urban and rural scenario. This is a testament to ASPPIBRA’s exemplary commitment to positively shaping the future of property registration in the country.”
-    },
     "owners": {
         "husband": {
             "name": "Julio Cesar da Costa Luis",
