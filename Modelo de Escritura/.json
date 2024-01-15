@@ -1,5 +1,4 @@
-{
-    
+{   
     "document": {
         "title": "Digital World Real Estate Registration",
         "author": "ASPPIBRA-DAO",
@@ -7,10 +6,9 @@
         "keywords": ["Exemplary", "Registration", "Documentation", "Metadata"],
         "language": "en",
         "format": [".JSON", ".PDF", ".NFT"],
-        "dedication": "With sincere dedication, we express our deep gratitude to ASPPIBRA for its fundamental contribution in the search for innovative solutions in Urban and Rural Land Regularization in Brazil. Your team's tireless commitment and strategic vision played an essential role in the conception and development of this project.\n\nThis dedication reflects our sincere gratitude for your commitment to presenting a comprehensive view of real estate registration in the digital context. The proposal aims to guarantee the digital inclusion of all owners and property owners, fully aligning with current legislation, in particular LAW No. 13,465, OF JULY 11, 2017.\n\nFurthermore, it is noteworthy that the project is fully in line with Law No. 10,973 of 2004 (Innovation Law), highlighting ASPPIBRA's continuous search to encourage the development and adoption of innovative technologies. The proposal aims not only to modernize but also to substantially improve the processes related to land regularization, fully capitalizing on the potential provided by digital transformation and innovation legislation.\n\nBy dedicating this document to ASPPIBRA, we express not only our gratitude but also our respect for the organization's constant quest to promote significant advances in the management and regularization of properties in the Brazilian urban and rural scenario. This is a testament to ASPPIBRA’s exemplary commitment to positively shaping the future of property registration in the country."
-    }
-
-
+        "acknowledgment": "I sincerely thank everyone who contributed to the creation of this document. I express my gratitude to God and the collaborators who played key roles in its completion. I thank ASPPIBRA for their valuable support and dedication throughout the process. I recognize the work of the topography team, whose survey was essential. I would like to thank the team of engineers for preparing the property plan. Each of you played a significant role, and this document would not have been possible without your joint effort. I sincerely thank you for your commitment, professionalism, and collaboration that made this document successful.",
+        "dedication": "With sincere dedication, we express our deep gratitude to ASPPIBRA for its fundamental contribution to the search for innovative solutions in Urban and Rural Land Regularization in Brazil. The tireless commitment and strategic vision of your team played an essential role in conceiving and developing this project.\n\nThis dedication reflects our sincere gratitude for your commitment to presenting a comprehensive view of real estate registration in the digital context. The proposal aims to ensure the digital inclusion of all property owners, fully aligning with current legislation, particularly LAW No. 13,465, OF JULY 11, 2017.\n\nFurthermore, it is noteworthy that the project fully aligns with Law No. 10,973 of 2004 (Innovation Law), highlighting ASPPIBRA's continuous efforts to encourage the development and adoption of innovative technologies. The proposal aims not only to modernize but also to substantially improve the processes related to land regularization, fully capitalizing on the potential provided by digital transformation and innovation legislation.\n\nBy dedicating this document to ASPPIBRA, we express not only our gratitude but also our respect for the organization's constant quest to promote significant advances in the management and regularization of properties in the Brazilian urban and rural scenario. This is a testament to ASPPIBRA’s exemplary commitment to positively shaping the future of property registration in the country."
+    },    
     "owners": {
         "husband": {
             "name": "Julio Cesar da Costa Luis",
