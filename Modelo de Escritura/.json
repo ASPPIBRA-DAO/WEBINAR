@@ -112,8 +112,8 @@
             "district plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
             "Situation Plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
             "Cadastral planimetric plan": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png",
-            "topographic plan": "URL",
-            "Zoning plan": "URL"
+            "topographic plan": "https://",
+            "Zoning plan": "https://"
         }
     },
     "house_plans": {
@@ -132,8 +132,10 @@
         "images": {
             "Front View": "https://bafybeieier5xq5vj2sxm3467lof7izdzgyb7ts47i4zkzq3dmd5vg5boiy.ipfs.w3s.link/%40casa_01.png",
             "side view": "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
-            "Backyard": ["https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
-                         "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png"],
+            "Backyard": [
+                "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
+                "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png"
+            ],
             "aerial_photography": [
                 "https://bafybeidvihybjcvnfwvpqafki36urtqhiwwnkdy5xzy7ls2zcnoqon54ge.ipfs.w3s.link/%40air_01.png",
                 "https://bafybeigzemav2aajzgtzp5e4u6yh2su376u3w56lsdtjtotes6ltncktbi.ipfs.w3s.link/%40air_02.png",
@@ -143,8 +145,12 @@
     },
     "construction_licensing": {
         "value": "ART",
-        "link": "https://",
-        "electronic_seal": "2020210181537"
+        "electronic_seal": "2020210181537",
+            "link": [
+            "https://bafybeibdq6u4gf26elfx62nntxgrgvidng2vmg5l43j35jgoq6mr67ogy4.ipfs.w3s.link",
+            "https://bafybeigficssrtywgh4mxdyfnxohfaigqzjnrtfdxpmazuas3bhwsszof4.ipfs.w3s.link"
+        ]
+        
     },    
     "city_hall": {
         "address": {
@@ -180,55 +186,59 @@
     "onus_reais": {
         "book": "02",
         "Registration": "4807",
-        "date of certificate": "16/07/2021",
+        "date_of_certificate": "16/07/2021",
+        "electronic_seal": "EDWG85399",
+        "random_code": "AXN",
         "value": "Description",
         "link": [
-            "https://",
-            "https://",
-            "https://",
+            "https://bafkreidi2pl6ig63g45ccgtjnoyspxydypdxzjykwlyewe55psvtzx7ywa.ipfs.w3s.link",
+            "https://bafkreibegclqbpwj3lmjg2uyrv5flztyxaj5kdeeuiiywrvlx4cgcn73jq.ipfs.w3s.link",
+            "https://bafkreie5cylp3yxkrm3acqe7vkfxwo3zxdnl2lekfxjy3vb6s4w6yo2qay.ipfs.w3s.link",
             "https://"
-        ],
-        "electronic_seal": "EDWG85399",
-        "random_code": "AXN"
+        ]        
     },
     "Declaration": {
         "book": "8017",        
         "sheet": "182/183",
-        "date of certificate": "13/11/2017",
+        "date_of_certificate": "13/11/2017",
+        "electronic_seal": "ECIT57306",
+        "random_code": "LRG",
         "value": "Description",
         "link": [
             "https://",
             "https://",
             "https://",
-            "https://"
-        ],
-        "electronic_seal": "ECIT57306",
-        "random_code": "LRG"
+            "https://bafkreihuzo2uy5cf36s7tk7btxshdykoa5l4pesut7rniosbfhyyguqrr4.ipfs.w3s.link"
+        ]        
     },
     "notarial_minutes": {
         "book": "275",
         "act": "136",
         "sheet": "155/156",
-        "date of certificate": "15/01/2019",
+        "date_of_certificate": "15/01/2019",
+        "electronic_seal": "ECVY45835",
+        "random_code": "XYA",
+        "value": "Description",
+        "link": [
+            "https://bafkreiex63y3dncn6tdd5myidx5ui2fc56nr7pr5ximq3aziwapzs3kchu.ipfs.w3s.link",
+            "https://bafkreieabh2qwmnitgvezshasarzfnnodzrvqk3ftf5xxdt5vxcjxxdv3a.ipfs.w3s.link",
+            "https://bafkreiao2tbj5bs7vimievxhos6voytdykxhoa4x5cfzsrzmvhl3p62gd4.ipfs.w3s.link",
+            "https://bafkreibfbzmydlm5b7ttintrn2a2fusnybxq5yaf2m7arnwbvfgrv4ua7a.ipfs.w3s.link"
+        ]        
+    },
+    "judicial_note": {
+        "book": "#",
+        "act": "#",
+        "sheet": "#",
+        "date_of_certificate": "00/00/0000",
+        "electronic_seal": "#",
+        "random_code": "#",
         "value": "Description",
         "link": [
             "https://",
             "https://",
             "https://",
             "https://"
-        ],
-        "electronic_seal": "ECVY45835",
-        "random_code": "XYA"
-    },
-    "judicial_note": {
-        "value": "Description of the Onus Reais exclusive area",
-        "link": [
-            "https://",
-            "https://",
-            "https://",
-            "https://"
-        ],
-        "electronic_seal": "00000000000000hats"
-    }
-    
+        ]        
+    }    
 }
