@@ -9,24 +9,24 @@
         "acknowledgment": "I sincerely thank everyone who contributed to the creation of this document. My gratitude to God and the collaborators who played key roles in its completion. Thanks to ASPPIBRA for their valuable support and dedication throughout the process. Recognition goes to the topography team, whose survey was essential. Special thanks to the team of engineers for preparing the property plan. Each of you played a significant role, and this document would not have been possible without your joint effort. I sincerely thank you for your commitment, professionalism, and collaboration that made this document successful.",
         "dedication": "With sincere dedication, we express our deep gratitude to ASPPIBRA for its fundamental contribution to the search for innovative solutions in Urban and Rural Land Regularization in Brazil. The tireless commitment and strategic vision of your team played an essential role in conceiving and developing this project.\n\nThis dedication reflects our sincere gratitude for your commitment to presenting a comprehensive view of real estate registration in the digital context. The proposal aims to ensure the digital inclusion of all property owners, fully aligning with current legislation, particularly LAW No. 13,465, OF JULY 11, 2017.\n\nFurthermore, it is noteworthy that the project fully aligns with Law No. 10,973 of 2004 (Innovation Law), highlighting ASPPIBRA's continuous efforts to encourage the development and adoption of innovative technologies. The proposal aims not only to modernize but also to substantially improve the processes related to land regularization, fully capitalizing on the potential provided by digital transformation and innovation legislation.\n\nBy dedicating this document to ASPPIBRA, we express not only our gratitude but also our respect for the organization's constant quest to promote significant advances in the management and regularization of properties in the Brazilian urban and rural scenario. This is a testament to ASPPIBRA’s exemplary commitment to positively shaping the future of property registration in the country.",
         "presentation": {
-          "title": "PRESENTATION: ALCANCE SERVICES LTD & PHDL ENGINEERING LTD",
-          "introduction": "With great enthusiasm, we share the results of the joint effort of the Association of Property Owners and Possessors in Brazil, registered under CNPJ 26.325.396/0001-30, and the companies ALCANCE SERVICES LTD (CNPJ: 18.267.079/0001-87) and PHDL ENGINEERING LTD (CNPJ: 40.142.171/0001-70). This collaboration was essential for the development of a project aimed at instructing the Urban Squatter's Rights Action in the municipality of São Gonçalo, in the State of Rio de Janeiro – RJ.",
-          "details": "Below, we present in detail the main services and documents provided by each of the companies, emphasizing our commitment to excellence and the results achieved in this process of great relevance to the local community."
+            "title": "PRESENTATION: ALCANCE SERVICES LTD & PHDL ENGINEERING LTD",
+            "introduction": "With great enthusiasm, we share the results of the joint effort of the Association of Property Owners and Possessors in Brazil, registered under CNPJ 26.325.396/0001-30, and the companies ALCANCE SERVICES LTD (CNPJ: 18.267.079/0001-87) and PHDL ENGINEERING LTD (CNPJ: 40.142.171/0001-70). This collaboration was essential for the development of a project aimed at instructing the Urban Squatter's Rights Action in the municipality of São Gonçalo, in the State of Rio de Janeiro – RJ.",
+            "details": "Below, we present in detail the main services and documents provided by each of the companies, emphasizing our commitment to excellence and the results achieved in this process of great relevance to the local community."
         },
         "object": {
-          "description": "The present contract is related to the acquisition of specialized technical services for conducting a Topographic and Cadastral Survey of the property, preparation of plans, and issuance of an expert report for the precise identification of Lot 2, Block 37, located at Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ)."
+            "description": "The present contract is related to the acquisition of specialized technical services for conducting a Topographic and Cadastral Survey of the property, preparation of plans, and issuance of an expert report for the precise identification of Lot 2, Block 37, located at Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ)."
         },
         "objective": {
-          "description": "The fundamental purpose of this contract is to obtain detailed information about the physical and legal characteristics of the mentioned property, with a primary focus on the precise location of Lot 2, Block 37, at Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ). The aim is to establish a solid database to support informed decisions, ensuring efficiency in the management and future use of this real estate asset."
+            "description": "The fundamental purpose of this contract is to obtain detailed information about the physical and legal characteristics of the mentioned property, with a primary focus on the precise location of Lot 2, Block 37, at Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ). The aim is to establish a solid database to support informed decisions, ensuring efficiency in the management and future use of this real estate asset."
         },
         "purpose": {
-          "description": "The information obtained will be strategically used to formalize the registration of the property in the Land Registry. Additionally, it aims to address various potential demands, including guidance in legal processes, such as the effective conduct of the Urban Squatter's Rights Action. This comprehensive service goes beyond mere property mapping, seeking to establish a robust documentary foundation that not only facilitates legal regularization but also optimizes the effective use of the property. This approach aims to ensure the integrity of the property, aligning meticulously with current urban regulations."
+            "description": "The information obtained will be strategically used to formalize the registration of the property in the Land Registry. Additionally, it aims to address various potential demands, including guidance in legal processes, such as the effective conduct of the Urban Squatter's Rights Action. This comprehensive service goes beyond mere property mapping, seeking to establish a robust documentary foundation that not only facilitates legal regularization but also optimizes the effective use of the property. This approach aims to ensure the integrity of the property, aligning meticulously with current urban regulations."
         },
         "period_of_execution": {
-          "description": "The fieldwork was conducted during the period from December 8, 2017."
+            "description": "The fieldwork was conducted during the period from December 8, 2017."
         },
         "location": {
-          "description": "Figure 6.1 highlights the geographical position of São Gonçalo in the state of Rio de Janeiro, including its main access routes. The figure also indicates the specific location where the topographic study was conducted, providing a comprehensive view of the analyzed region."
+            "description": "Figure 6.1 highlights the geographical position of São Gonçalo in the state of Rio de Janeiro, including its main access routes. The figure also indicates the specific location where the topographic study was conducted, providing a comprehensive view of the analyzed region."
         },
         "terms_and_definitions": {
             "utm_system": "3.9 – UNIVERSAL TRANSVERSE MERCATOR (UTM) PROJECTION SYSTEM: CARTOGRAPHIC REPRESENTATION SYSTEM ADOPTED BY THE BRAZILIAN CARTOGRAPHIC SYSTEM.",
@@ -36,6 +36,9 @@
             "gps": "3.13 – GPS: GLOBAL POSITIONING SYSTEM.",
             "gnss": "3.14 – GNSS: GLOBAL NAVIGATION SATELLITE SYSTEM.",
             "rbmc": "3.15 – RBMC (BRAZILIAN NETWORK OF CONTINUOUS MONITORING OF THE GPS SYSTEM): ESTABLISHED IN 1996, IMPLEMENTED THE CONCEPT OF ACTIVE NETWORKS THROUGH THE CONTINUOUS MONITORING (TRACKING) OF GPS SYSTEM SATELLITES. DAILY, ALL DATA COLLECTED AT RBMC STATIONS ARE AUTOMATICALLY TRANSFERRED AND MADE AVAILABLE TO USERS IN RINEX FORMAT."
+        },
+        "general_conditions": {
+            "description": "8 GENERAL CONDITIONS:\nTOPOGRAPHIC SURVEY, IN ANY OF ITS PURPOSES, MUST INCLUDE THE FOLLOWING PHASES:\n\nA) PLANNING, SELECTION OF METHODS, TEAMS, AND EQUIPMENT;\nB) TOPOGRAPHIC SUPPORT;\nC) DETAILED SURVEY;\nD) CALCULATIONS AND ADJUSTMENTS;\nE) FINAL TOPOGRAPHIC DRAWING (PAPER OR ELECTRONIC FORMAT);\nF) TECHNICAL REPORT (WHEN APPLICABLE)."
         }
     },     
     "owners": {
@@ -123,19 +126,90 @@
     },
     "topography_plans": {
         "date": "16/07/2021",
-        "USED​_EQUIPMENTS": [
-            "RECEPTOR GNSS L1/L2X900+ CHC",
-            "ESTAÇÃO TOTAL PRECISÃO DE 2TKS 202 GOWIN"
+        "used_equipments": [
+          "RECEPTOR GNSS L1/L2X900+ CHC",
+          "ESTAÇÃO TOTAL PRECISÃO DE 2TKS 202 GOWIN"
         ],
-        "BASIC SUPPORT NETWORKS":{
-            "#": "Description",
-            "CHARACTERIZATION OF THE SIRGAS 2000": "Description"
+        "basic_support_networks": {
+          "levies_based_on": "SGB (SISTEMA GEODÉSICO BRASILEIRO)",
+          "horizontal_datum": "SIRGAS 2000",
+          "vertical_datum": "Obtained from the Brazilian official geoidal model adopted by IBGE and calculated with the MAPGEO2010 software developed by the institute."
         },
-        "DESCRIPTION OF SERVICES": {
-            "TECHNICAL STANDARDS AND REFERENCES CONSULTED": "Description",
-            "COORDINATE_TRANSPORTATION": "Description",        
-            "CADASTRAL TOPOGRAPHIC SURVEY": "Description",
-            "DATA PROCESSING": "Description"
+        "sirgas_2000_characterization": {
+          "geodetic_reference_system": "International Terrestrial Reference System (ITRS)",
+          "earth_figure": {
+            "geodetic_reference_system_1980": "Geodetic Reference System 1980 (GRS80)",
+            "semi_major_axis_A": "6.378.137 m",
+            "flattening_F": "1/298,257222101",
+            "origin": "Center of mass of the Earth"
+          },
+          "orientation": {
+            "poles_and_reference_meridian": "Consistent with +0.005 with the directions defined by BIH (Bureau International de l'Heure) in 1984."
+          }
+        },
+        "description_of_services": {
+          "technical_standards_and_references_consulted": [
+            {
+              "organization": "IBGE",
+              "title": "Especificações e Normas Gerais para Levantamento Geodésico",
+              "resolution": "Resolução PR Nº 22 (21/07/1983)",
+              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/bservico1602.pdf"
+            },
+            {
+              "organization": "IBGE",
+              "title": "Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar",
+              "resolution": "Resolução PR Nº 05 (31/03/1993)",
+              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/normas_gps.pdf"
+            },
+            {
+              "organization": "IBGE",
+              "title": "Resolução do Presidente Nº 22/2005, de 25/02/2005 que altera a caracterização do Sistema Geodésico Brasileiro",
+              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/...projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf"
+            },
+            {
+              "organization": "ABNT",
+              "title": "NBR 13133 - Execução de Levantamento Topográfico",
+              "location": "Rio de Janeiro",
+              "year": "Maio de 1994"
+            },
+            {
+              "organization": "ABNT",
+              "title": "NBR 14166 - Rede de Referência Cadastral Municipal – Procedimento",
+              "location": "Rio de Janeiro",
+              "year": "Agosto de 1998"
+            },
+            {
+              "organization": "INCRA",
+              "title": "Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição",
+              "year": "Agosto de 2010",
+              "url": "http://200.252.80.40/credencia/dowload/2_edicao_norma_tecnica_.pdf"
+            },
+            {
+              "organization": "IBGE",
+              "title": "Manual do Usuário Posicionamento por Ponto Preciso",
+              "version": "Versão Março 2009",
+              "url": "http://www.ibge.gov.br/home/geociencias/geodesia/ppp/manual_ppp.pdf"
+            },
+            {
+              "organization": "IBGE",
+              "title": "Recomendações para Levantamentos Relativos Estáticos – GPS",
+              "month": "Abril",
+              "year": "2008",
+              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/recom_gps_internet.pdf"
+            }
+          ]      
+        },
+        "coordinate_transportation": {
+          "initial_support_point_P1": {
+            "description": "Initially, we implanted a basic support point in the survey area, called P1, where coordinates and elevations were transferred for control and support of other topographic works.",
+            "equipment_used": "GNSS (Global Navigation Satellite System) geodetic receiver, dual-frequency (L1/L2), with a minimum tracking time of 1 hour.",
+            "data_adjustment": "Triangulation classic adjustment with data obtained from two RBMC stations: CEEU and BRFT. The processing of these data for tying to the Brazilian Geodetic System (SGB) was performed using Topcon Tools software, with processing report attached.",
+            "elevation_transportation_method": "Static fast GPS geodetic method."
+          },
+          "post-processing_and_adjustment": {
+            "adjustment_software_used": "Topcon Tools for GPS data and MAPGEO 2010 (IBGE) for geoidal height adjustment.",
+            "obtained_quality": "For point P1, after processing and network adjustment, another support point (point P0) was implanted using the static fast GPS method, having point P1 as a control point. From point P1, we implanted 2 more reference stations for works with a total station, using the Real Time Kinematic (RTK) method."
+          }
         },
         "plans": {
             "district plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
