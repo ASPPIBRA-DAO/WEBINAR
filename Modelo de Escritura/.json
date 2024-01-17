@@ -2,6 +2,7 @@
     "document": {
         "title": "Digital World Real Estate Registration",
         "author": "ASPPIBRA-DAO",
+        "requester": "ASPPIBRA",
         "creation_date": "2023-10-26",
         "keywords": ["Exemplary", "Registration", "Documentation", "Metadata"],
         "language": "en",
@@ -82,16 +83,18 @@
             "country": "Brazil (BR)"
         },
         "registration_number": {
-            "city ​_hall": "369835000",
-            "Notary_office": "4.807"
+            "city_hall": "369835000",
+            "notary_office": "4.807"
         },
-        "area": {
-            "total_size": "1,100.00 M²",
-            "right_side_confrontation": "50.00 M on the right side, confronting with Lot 01",
-            "left_side_confrontation": "50.00 M on the right side, confronting with Lot 03",
-            "front_confrontation": "Avenida Almirante Amorim do Vale, with a distance of 22.00 M",
-            "back_confrontation": "Then it covers a distance of 22.00 M at the back and confronts with Lot 05",
-            "perimeter": "142.00 M"
+        "property_characteristics": {
+            "total_size": "1,100.00 m²",
+            "right_side_confrontation": "50.00 m on the right side, confronting with Lot 01",
+            "left_side_confrontation": "50.00 m on the right side, confronting with Lot 03",
+            "front_confrontation": "Avenida Almirante Amorim do Vale, with a distance of 22.00 m",
+            "back_confrontation": "Then it covers a distance of 22.00 m at the back and confronts with Lot 05",
+            "perimeter": "142.00 m",
+            "urban_lot_details": "This is an urban plot of land, flat, duly registered at the 2nd Registry of Real Estate of the 3rd Office under registration number 4.807. The lot measures a total of 22 m in front on Avenida Almirante Amorim do Vale, 22 m at the back, facing Lot 5, 50 m on the right side, facing Lot 01, and 50 m on the left side, facing Lot 03, totaling 1,100 m², according to the Property Tax registration number 369835000.",
+            "building_details": "On the land lot number 02, a building with one floor and divisions suitable for housing was constructed, totaling 63.82 m², according to technical visit and measurement by the Civil Engineer."
         },
         "geographic_location": {
             "latitude": "Your Latitude Value",
@@ -106,8 +109,12 @@
             "buyer_information": "Include the name and contact details of the buyer, if available",
             "payment_method": "Specify the method of payment used for the sale, e.g., cash, mortgage, etc.",
             "terms_of_sale": "Specify any special terms or conditions of the sale, if applicable"
+        },
+        "region_identification_and_characterization": {
+            "region_location": "This is a region inserted in the urban fabric of the Municipality of São Gonçalo with complete infrastructure, predominantly single-family residential occupation, with a normal occupancy pattern and easy access. The region consists of buildings of medium and low construction standards and has medium traffic intensity of vehicles and pedestrians. The observed trade pattern is regular, with the property located near the access to Rua João de Abreu, the main street of the neighborhood.",
+            "services_infrastructure": "It is equipped with all the infrastructure that normally serves urban areas, including water, electricity, sewage, pavement, public transportation, and telephone networks."
         }
-    },
+    },    
     "professionals": {
         "surveyor": {
             "name": "Alexsander da Silva Menezes",
@@ -283,6 +290,20 @@
             "zip_code": "00"
         },
         "CNPJ": "28.636.579/0001-00"
+    },
+    "iptu": {
+        "book": "#",
+        "Registration": "#",
+        "date_of_certificate": "16/07/2021",
+        "electronic_seal": "#",
+        "random_code": "#",
+        "value": "#",
+        "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://"
+        ]        
     },
     "registry_office": {
         "name": "Tabelionato De Notas E 3º Ofício De Registro De Imóveis",
