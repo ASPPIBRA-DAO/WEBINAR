@@ -164,7 +164,7 @@
             {
               "organization": "IBGE",
               "title": "Resolução do Presidente Nº 22/2005, de 25/02/2005 que altera a caracterização do Sistema Geodésico Brasileiro",
-              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/...projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf"
+              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf"
             },
             {
               "organization": "ABNT",
@@ -197,7 +197,7 @@
               "year": "2008",
               "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/recom_gps_internet.pdf"
             }
-          ]      
+          ]
         },
         "coordinate_transportation": {
           "initial_support_point_P1": {
@@ -211,12 +211,28 @@
             "obtained_quality": "For point P1, after processing and network adjustment, another support point (point P0) was implanted using the static fast GPS method, having point P1 as a control point. From point P1, we implanted 2 more reference stations for works with a total station, using the Real Time Kinematic (RTK) method."
           }
         },
+        "cadastral_topographic_survey": {
+          "description": "With the implementation of planimetric references, the field survey work was carried out with a total station with angular precision of 2 through the irradiation method of points. Notable points of the terrain, buildings, sidewalks, thresholds, gutters, curbs, manholes, drainage elements, sewage, trees (including diameter), and other points that we deemed necessary for the proper characterization of the property under this survey were collected."
+        },
+        "data_processing": {
+          "office_data_processing": {
+            "software_communication": "The collected data is transferred to the computer through the software that communicates with the data collector of the GNSS receivers (Windows Mobile Device Center). For total station files, we use the COLET software.",
+            "internal_distribution": "Services are internally distributed for processing (calculation) and digital drawing, according to the technical capacity of the professional required for the best execution of the work.",
+            "preliminary_plotting": "After completing the drawing, a preliminary plotting is performed for review and general observations."
+          },
+          "necessary_equipment": [
+            "GNSS Data Post-Processing Software: Topcon Tools Version 7.5.1",
+            "Topographic Calculation Software: DATAGEOSIS Office, Version 7.5.8.3",
+            "Drawing Software: AutoCAD, Version 2013",
+            "Plotter: HP DesignJet 800"
+          ]
+        },
         "plans": {
-            "district plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
-            "Situation Plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
-            "Cadastral planimetric plan": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png",
-            "topographic plan": "https://",
-            "Zoning plan": "https://"
+          "district_plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
+          "situation_plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
+          "cadastral_planimetric_plan": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png",
+          "topographic_plan": "https://",
+          "zoning_plan": "https://"
         }
     },
     "house_plans": {
