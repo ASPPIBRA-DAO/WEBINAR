@@ -81,11 +81,7 @@
             "zip_code": "24724-560",
             "state": "Rio de Janeiro (RJ)",
             "country": "Brazil (BR)"
-        },
-        "registration_number": {
-            "city_hall": "369835000",
-            "notary_office": "4.807"
-        },
+        },        
         "property_characteristics": {
             "total_size": "1,100.00 m²",
             "right_side_confrontation": "50.00 m on the right side, confronting with Lot 01",
@@ -291,15 +287,11 @@
         },
         "CNPJ": "28.636.579/0001-00"
     },
-    "iptu": {
-        "book": "#",
-        "Registration": "#",
-        "date_of_certificate": "16/07/2021",
-        "electronic_seal": "#",
-        "random_code": "#",
-        "value": "#",
+    "iptu": {        
+        "enrollment": "369835000",
+        "exercise:": "2024",        
         "link": [
-            "https://",
+            "https://bafkreifq55wy3n77yn3zahz2i22vjaegdm7tw2zx7sj47vlibvwdfipco4.ipfs.w3s.link",
             "https://",
             "https://",
             "https://"
@@ -325,7 +317,7 @@
     },
     "onus_reais": {
         "book": "02",
-        "Registration": "4807",
+        "Registration": "4.807",
         "date_of_certificate": "16/07/2021",
         "electronic_seal": "EDWG85399",
         "random_code": "AXN",
@@ -336,7 +328,7 @@
             "https://bafkreie5cylp3yxkrm3acqe7vkfxwo3zxdnl2lekfxjy3vb6s4w6yo2qay.ipfs.w3s.link",
             "https://"
         ]        
-    },
+    },    
     "Declaration": {
         "book": "8017",        
         "sheet": "182/183",
