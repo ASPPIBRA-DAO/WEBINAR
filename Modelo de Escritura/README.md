@@ -50,7 +50,7 @@ Agradeço sinceramente a todos que contribuíram para a criação deste document
 
 ## Apresentação
 
-### Título: APRESENTAÇÃO: ALCANCE SERVICES LTD & PHDL ENGINEERING LTD
+ALCANCE SERVICES LTD & PHDL ENGINEERING LTD
 
 Com grande entusiasmo, compartilhamos os resultados do esforço conjunto da Associação de Proprietários e Possuidores de Imóveis no Brasil, registrada sob CNPJ 26.325.396/0001-30, e das empresas ALCANCE SERVICES LTD (CNPJ: 18.267.079/0001-87) e PHDL ENGINEERING LTD (CNPJ: 40.142.171/0001-70). Essa colaboração foi essencial para o desenvolvimento de um projeto destinado a instruir a Ação de Direitos do Posseiro Urbano no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.
 
@@ -58,31 +58,21 @@ A seguir, apresentamos detalhadamente os principais serviços e documentos forne
 
 ## Objeto
 
-### Descrição
-
 O presente contrato está relacionado à aquisição de serviços técnicos especializados para a realização de um Levantamento Topográfico e Cadastral da propriedade, elaboração de planos e emissão de um laudo pericial para a identificação precisa do Lote 2, Quadra 37, localizado na Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ).
 
 ## Objetivo
-
-### Descrição
 
 O objetivo fundamental deste contrato é obter informações detalhadas sobre as características físicas e legais da propriedade mencionada, com foco principal na localização precisa do Lote 2, Quadra 37, na Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ). O objetivo é estabelecer um banco de dados sólido para apoiar decisões informadas, garantindo eficiência na gestão e uso futuro deste ativo imobiliário.
 
 ## Finalidade
 
-### Descrição
-
 As informações obtidas serão estrategicamente utilizadas para formalizar o registro da propriedade no Cartório de Registro de Imóveis. Além disso, visa atender a diversas demandas potenciais, incluindo orientação em processos legais, como a condução efetiva da Ação de Direitos do Posseiro Urbano. Esse serviço abrangente vai além do mero mapeamento da propriedade, buscando estabelecer uma base documental robusta que não apenas facilita a regularização legal, mas também otimiza o uso efetivo da propriedade. Essa abordagem visa garantir a integridade da propriedade, alinhando meticulosamente com as regulamentações urbanas atuais.
 
 ## Período de Execução
 
-### Descrição
-
 Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 2017.
 
 ## Localização
-
-### Descrição
 
 A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio de Janeiro, incluindo suas principais vias de acesso. A figura também indica a localização específica onde o estudo topográfico foi conduzido, proporcionando uma visão abrangente da região analisada.
 
