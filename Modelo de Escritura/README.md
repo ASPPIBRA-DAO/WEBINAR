@@ -82,7 +82,7 @@ Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 20
 
 Esta seção destaca de maneira expressiva a localização estratégica de São Gonçalo, situado no estado do Rio de Janeiro. O enfoque é direcionado para suas vias de acesso primárias, evidenciando não apenas a posição geográfica, mas também a acessibilidade da região.
 
-A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio de Janeiro, incluindo suas principais vias de acesso. A figura também indica a localização específica onde o estudo topográfico foi conduzido, proporcionando uma visão abrangente da região analisada.
+O relatório fotográfico não se limita a ilustrar apenas a configuração geográfica de São Gonçalo; vai além ao indicar com precisão o local exato onde o estudo topográfico foi conduzido de maneira meticulosa. Essas imagens não apenas capturam visualmente a geografia da região, mas também proporcionam uma visão panorâmica e detalhada do local em análise. Este relatório não é apenas um registro visual, mas uma ferramenta que aprofunda a compreensão da topografia e do ambiente estudado.
 
 ## Endereço
 
