@@ -125,19 +125,92 @@ Este é um lote urbano, plano, devidamente registrado no 2º Cartório de Regist
 
 ## Condições Gerais
 
-### Descrição
-
 8 CONDIÇÕES GERAIS:
 O LEVANTAMENTO TOPOGRÁFICO, EM QUALQUER DE SUAS FINALIDADES, DEVE INCLUIR AS SEGUINTES FASES:
 
-A) PLANEJAMENTO, SELEÇÃO DE MÉTODOS, EQUIPES E EQUIPAMENTOS;
-B) SUPORTE TOPOGRÁFICO;
-C) LEVANTAMENTO DETALHADO;
-D) CÁLCULOS E AJUSTES;
-E) DESENHO TOPOGRÁFICO FINAL (FORMATO PAPEL OU ELETRÔNICO);
-F) RELATÓRIO TÉCNICO (QUANDO APLICÁVEL).
+- A) PLANEJAMENTO, SELEÇÃO DE MÉTODOS, EQUIPES E EQUIPAMENTOS;
+- B) SUPORTE TOPOGRÁFICO;
+- C) LEVANTAMENTO DETALHADO;
+- D) CÁLCULOS E AJUSTES;
+- E) DESENHO TOPOGRÁFICO FINAL (FORMATO PAPEL OU ELETRÔNICO);
+- F) RELATÓRIO TÉCNICO (QUANDO APLICÁVEL).
 
 
+# Planos Topográficos
+
+## Data
+
+- **Data:** 16/07/2021
+
+## Equipamentos Utilizados
+
+- **Receptor GNSS L1/L2X900+ CHC**
+- **Estação Total Precisão de 2TKS 202 GOWIN**
+
+## Redes de Suporte Básicas
+
+- **Levantamentos Baseados em:** SGB (Sistema Geodésico Brasileiro)
+- **Datum Horizontal:** SIRGAS 2000
+- **Datum Vertical:** Obtido do modelo geoidal oficial brasileiro adotado pelo IBGE e calculado com o software MAPGEO2010 desenvolvido pelo instituto.
+
+## Caracterização SIRGAS 2000
+
+- **Sistema de Referência Geodésico:** Sistema de Referência Terrestre Internacional (ITRS)
+- **Figura da Terra:**
+  - Sistema de Referência Geodésico 1980 (GRS80)
+  - Semi-Eixo Maior (A): 6.378.137 m
+  - Achatamento (F): 1/298,257222101
+  - Origem: Centro de Massa da Terra
+- **Orientação:**
+  - Pólos e Meridiano de Referência: Consistente com +0.005 em relação às direções definidas pelo BIH (Bureau International de l'Heure) em 1984.
+
+## Descrição dos Serviços
+
+### Normas Técnicas e Referências Consultadas
+
+- [IBGE - Especificações e Normas Gerais para Levantamento Geodésico](ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/bservico1602.pdf)
+- [IBGE - Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar](ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/normas_gps.pdf)
+- [IBGE - Resolução do Presidente Nº 22/2005, de 25/02/2005 que altera a caracterização do Sistema Geodésico Brasileiro](ftp://geoftp.ibge.gov.br/documentos/geodesia/projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf)
+- [ABNT - NBR 13133 - Execução de Levantamento Topográfico (Maio de 1994)](Rio de Janeiro)
+- [ABNT - NBR 14166 - Rede de Referência Cadastral Municipal – Procedimento (Agosto de 1998)](Rio de Janeiro)
+- [INCRA - Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição (Agosto de 2010)](http://200.252.80.40/credencia/dowload/2_edicao_norma_tecnica_.pdf)
+- [IBGE - Manual do Usuário Posicionamento por Ponto Preciso (Versão Março 2009)](http://www.ibge.gov.br/home/geociencias/geodesia/ppp/manual_ppp.pdf)
+- [IBGE - Recomendações para Levantamentos Relativos Estáticos – GPS (Abril de 2008)](ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/recom_gps_internet.pdf)
+
+## Transporte de Coordenadas
+
+### Ponto de Suporte Inicial (P1)
+
+- **Descrição:**
+  - Inicialmente, implantamos um ponto de suporte básico na área de levantamento, chamado P1, onde coordenadas e elevações foram transferidas para controle e suporte de outros trabalhos topográficos.
+- **Equipamento Utilizado:** Receptor GNSS (Global Navigation Satellite System), dupla frequência (L1/L2), com um tempo mínimo de rastreamento de 1 hora.
+- **Ajuste de Dados:** Ajuste clássico de triangulação com dados obtidos de duas estações RBMC: CEEU e BRFT. O processamento desses dados para vinculação ao Sistema Geodésico Brasileiro (SGB) foi realizado usando o software Topcon Tools, com relatório de processamento anexado.
+- **Método de Transporte de Elevação:** Método GPS geodésico estático rápido.
+
+### Pós-Processamento e Ajuste
+
+- **Software de Ajuste Utilizado:** Topcon Tools para dados GPS e MAPGEO 2010 (IBGE) para ajuste de altura geoidal.
+- **Qualidade Obtida:** Para o ponto P1, após processamento e ajuste de rede, outro ponto de suporte (ponto P0) foi implantado usando o método GPS geodésico estático rápido, tendo o ponto P1 como ponto de controle. A partir do ponto P1, implantamos mais 2 estações de referência para trabalhos com estação total, usando o método Real Time Kinematic (RTK).
+
+## Levantamento Topográfico Cadastral
+
+- **Descrição:**
+  - Com a implantação de referências planimétricas, o trabalho de levantamento em campo foi realizado com uma estação total com precisão angular de 2 através do método de irradiação de pontos. Pontos notáveis do terreno, edifícios, calçadas, soleiras, sarjetas, meio-fios, poços de visita, elementos de drenagem, esgoto, árvores (incluindo diâmetro) e outros pontos que julgamos necessários para a caracterização adequada da propriedade foram coletados.
+
+## Processamento de Dados
+
+### Processamento de Dados em Escritório
+
+- **Comunicação de Software:** Os dados coletados são transferidos para o computador por meio do software que se comunica com o coletor de dados dos receptores GNSS (Windows Mobile Device Center). Para arquivos da estação total, usamos o software COLET.
+- **Distribuição Interna:** Os serviços são distribuídos internamente para processamento (cálculo) e desenho digital, de acordo com a capacidade técnica do profissional necessário para a melhor execução do trabalho.
+- **Plotagem Preliminar:** Após a conclusão do desenho, é realizada uma plotagem preliminar para revisão e observações gerais.
+
+### Equipamentos Necessários
+
+- Receptor GNSS Data Post-Processing Software: Topcon Tools Versão 7.5.1
+- Software de Cálculo Topográfico: DATAGEOSIS Office, Versão 7.5.8.3
+- Software de Desenho: AutoCAD, Versão 2013
+- Plotter: HP DesignJet 800
 
 
 
