@@ -50,9 +50,9 @@ Agradeço sinceramente a todos que contribuíram para a criação deste document
 
 ## Apresentação
 
-ALCANCE SERVICES LTD & PHDL ENGINEERING LTD
+ALCANCE SERVIÇOS LTDA & PHDL ENGENHARIA LTDA
 
-Com grande entusiasmo, compartilhamos os resultados do esforço conjunto da Associação de Proprietários e Possuidores de Imóveis no Brasil, registrada sob CNPJ 26.325.396/0001-30, e das empresas ALCANCE SERVICES LTD (CNPJ: 18.267.079/0001-87) e PHDL ENGINEERING LTD (CNPJ: 40.142.171/0001-70). Essa colaboração foi essencial para o desenvolvimento de um projeto destinado a instruir a Ação de Direitos do Posseiro Urbano no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.
+As empresas ALCANCE SERVIÇOS LTDA e PHDL ENGENHARIA LTDA, em parceria com a Associação de Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA), apresentam os resultados do trabalho realizado para a confecção da documentação do imóvel urbano localizado no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.
 
 A seguir, apresentamos detalhadamente os principais serviços e documentos fornecidos por cada uma das empresas, enfatizando nosso compromisso com a excelência e os resultados alcançados neste processo de grande relevância para a comunidade local.
 
