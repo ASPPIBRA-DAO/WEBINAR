@@ -29,7 +29,7 @@
 
 ## Introdução
 
-Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a **LEI Nº 13.465, DE 11 DE JULHO DE 2017,** que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a **Lei nº 10.973 de 2004 (Lei de Inovação),** proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
+Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a **Lei nº 13.465, de 11 de Julho de 2017,** que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a **Lei nº 10.973 de 2004 (Lei de Inovação),** proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
 
 A solução apresentada incorpora a tecnologia blockchain como uma ferramenta fundamental para dimensionar o registro imobiliário em escala global. Ao abordar questões relacionadas à informalidade e à transparência no registro de propriedades, o projeto visa proporcionar, em última análise, acesso a informações descentralizadas e invioláveis. Um destaque significativo deste documento é a proposta de criação de um NFT único, que representa a propriedade de uma casa, adicionando uma camada adicional de segurança e autenticidade ao processo.
 
@@ -86,7 +86,7 @@ Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 20
 
 A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio de Janeiro, incluindo suas principais vias de acesso. A figura também indica a localização específica onde o estudo topográfico foi conduzido, proporcionando uma visão abrangente da região analisada.
 
-# Descrição da Área
+# Localização Geográfica
 
 ## Endereço
 
@@ -109,16 +109,13 @@ A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio d
 - **Confrontação Traseira:** Em seguida, cobre uma distância de 22,00 m na parte de trás e confronta com o Lote 05
 - **Perímetro:** 142,00 m
 - **número de registro do IPTU:** 369835000
-- **número de registro do RGI:** 4.807 
+- **número de registro do RGI:** 4.807
+- **Latitude:** Seu Valor de Latitude
+- **Longitude:** Seu Valor de Longitude
+- **Sistema Geodésico:** Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, Sistema UTM. O poligonal do Lote 2 de propriedade do Sr. Julio Cesar da Costa Luis começa no ponto designado 0=PP, georreferenciado no Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, coordenadas retangulares relativas, sistema UTM: E=734,657.386M e N=7,459,688,912M. 
 
 Este é um lote urbano, plano, devidamente registrado no 2º Cartório de Registro de Imóveis. O lote mede um total de 1.100,00 m², sendo 22 m de frente na Avenida Almirante Amorim do Vale, 22 m na parte de trás, confrontando com o Lote 5, 50 m do lado direito, confrontando com o Lote 01, e 50 m do lado esquerdo, confrontando com o Lote 03, totalizando 1.100 m², de acordo com o número de registro do IPTU.
 - **Detalhes da Construção:** No lote de terreno número 02, foi construído um edifício com um pavimento e divisões adequadas para moradia, totalizando 63,82 m², de acordo com visita técnica e medição pelo Engenheiro Civil.
-
-## Localização Geográfica
-
-- **Latitude:** Seu Valor de Latitude
-- **Longitude:** Seu Valor de Longitude
-- **Sistema Geodésico:** Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, Sistema UTM. O poligonal do Lote 2 de propriedade do Sr. Julio Cesar da Costa Luis começa no ponto designado 0=PP, georreferenciado no Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, coordenadas retangulares relativas, sistema UTM: E=734,657.386M e N=7,459,688,912M.
 
 ## Identificação e Caracterização da Região
 
