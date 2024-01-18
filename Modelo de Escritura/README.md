@@ -1,10 +1,14 @@
 # Cadastro Imobiliário no Mundial Digital
 
-**Autor:** ASPPIBRA-DAO  
-**Data de Criação:** 26 de outubro de 2023  
-**Idioma:** Português  
-**Formato:** .JSON/PDF/NFT  
-**Palavras-chave:** Exemplar, Registro, Documentação, Metadados 
+## Informações Gerais
+
+- **Título:** Registro Imobiliário no Mundo Digital
+- **Autor:** ASPPIBRA-DAO
+- **Solicitante:** Julio Cesar da Costa Luis
+- **Data de Criação:** 26/10/2023
+- **Palavras-chave:** Exemplar, Registro, Documentação, Metadados
+- **Idioma:** Português
+- **Formato:** .JSON, PDF, NFT
 
 ## Índice
 
@@ -25,136 +29,136 @@
 
 ## Introdução
 
-Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a LEI Nº 13.465, DE 11 DE JULHO DE 2017, que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a Lei nº 10.973 de 2004 (Lei de Inovação), proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
+Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a **LEI Nº 13.465, DE 11 DE JULHO DE 2017,** que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a **Lei nº 10.973 de 2004 (Lei de Inovação),** proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
 
 A solução apresentada incorpora a tecnologia blockchain como uma ferramenta fundamental para dimensionar o registro imobiliário em escala global. Ao abordar questões relacionadas à informalidade e à transparência no registro de propriedades, o projeto visa proporcionar, em última análise, acesso a informações descentralizadas e invioláveis. Um destaque significativo deste documento é a proposta de criação de um NFT único, que representa a propriedade de uma casa, adicionando uma camada adicional de segurança e autenticidade ao processo.
 
-## Estrutura de Dados
+## Dedicatória
 
-O arquivo .json está organizado em várias seções, cada uma servindo a um propósito específico. As seções principais e suas respectivas subestruturas são as seguintes:
+Com sincera dedicação, expressamos nossa profunda gratidão à ASPPIBRA por sua contribuição fundamental na busca por soluções inovadoras na Regularização Fundiária Urbana e Rural no Brasil. O comprometimento incansável e a visão estratégica de sua equipe desempenharam um papel essencial na concepção e desenvolvimento deste projeto.
 
-### 1. Informações do documento:
-   - Título
-   - Autor
-   - Data de criação
-   - Palavras-chave
-   - Linguagem
-   - Formatar
-   - Descrição
+Esta dedicação reflete nossa sincera gratidão pelo compromisso em apresentar uma visão abrangente do registro imobiliário no contexto digital. A proposta visa garantir a inclusão digital de todos os proprietários de imóveis, alinhando-se totalmente à legislação atual, em particular, a LEI Nº 13.465, DE 11 DE JULHO DE 2017.
 
-### 2. Os Proprietários:
-   - Informações do marido
-   - Informações da esposa
-   - Informações sobre filhos herdeiros (se aplicável)
+Além disso, é digno de nota que o projeto está totalmente alinhado com a Lei nº 10.973 de 2004 (Lei da Inovação), destacando os esforços contínuos da ASPPIBRA para incentivar o desenvolvimento e a adoção de tecnologias inovadoras. A proposta visa não apenas modernizar, mas também aprimorar substancialmente os processos relacionados à regularização fundiária, capitalizando totalmente o potencial proporcionado pela transformação digital e pela legislação de inovação.
 
-### 3. Informação de Propriedade:
-   - Endereço
-   - Número de Inscrição (para Prefeitura e Cartório)
-   - Detalhes da área
-   - Localização geográfica
+Ao dedicar este documento à ASPPIBRA, expressamos não apenas nossa gratidão, mas também nosso respeito pela busca constante da organização em promover avanços significativos na gestão e regularização de propriedades no cenário urbano e rural brasileiro. Isso é um testemunho do compromisso exemplar da ASPPIBRA em moldar positivamente o futuro do registro de propriedades no país.
 
-### 4. Profissionais:
-   - Informações do topógrafo
-   - Informações do Engenheiro Civil
+## Agradecimento
 
-### 5. Descrição da área:
-   - Descrição Valor
-   - Planos Topográficos (incluindo Plano de Situação, Plano Planimétrico Cadastral, Plano Topográfico e Plano Distrital)
+Agradeço sinceramente a todos que contribuíram para a criação deste documento. Minha gratidão a Deus e aos colaboradores que desempenharam papéis-chave em sua conclusão. Agradeço à ASPPIBRA por seu valioso apoio e dedicação ao longo do processo. O reconhecimento vai para a equipe de topografia, cujo levantamento foi essencial. Agradeço especialmente à equipe de engenheiros pela preparação do plano da propriedade. Cada um de vocês desempenhou um papel significativo, e este documento não teria sido possível sem o esforço conjunto. Agradeço sinceramente pelo comprometimento, profissionalismo e colaboração que tornaram este documento bem-sucedido.
 
-### 6. Plantas da casa:
-   - Descrição Valor
-   - Planos (incluindo plano de casa e planos de engenharia)
 
-### 7. Reportagem fotográfica:
-   - Descrição
-   - Imagens (incluindo vista frontal, vista lateral, quintal e fotografia aérea)
+## Apresentação
 
-### 8. Licenciamento de Construção:
-   - Valor
-   - Link
-   - Selo Eletrônico
+### Título: APRESENTAÇÃO: ALCANCE SERVICES LTD & PHDL ENGINEERING LTD
 
-### 9. Valor de venda:
-   - Preço de tabela
-   - Valor avaliado
-   - Preço de venda negociado
-   - Data de Venda
-   - Informações do comprador
-   - Forma de pagamento
-   - Termos de venda
+Com grande entusiasmo, compartilhamos os resultados do esforço conjunto da Associação de Proprietários e Possuidores de Imóveis no Brasil, registrada sob CNPJ 26.325.396/0001-30, e das empresas ALCANCE SERVICES LTD (CNPJ: 18.267.079/0001-87) e PHDL ENGINEERING LTD (CNPJ: 40.142.171/0001-70). Essa colaboração foi essencial para o desenvolvimento de um projeto destinado a instruir a Ação de Direitos do Posseiro Urbano no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.
 
-### 10. Informações da Prefeitura:
-   - Endereço
-   - CNPJ (CNPJ da Prefeitura)
+A seguir, apresentamos detalhadamente os principais serviços e documentos fornecidos por cada uma das empresas, enfatizando nosso compromisso com a excelência e os resultados alcançados neste processo de grande relevância para a comunidade local.
 
-### 11. Informações do cartório:
-   - Nome
-   - Informações do notário (nome e nome substituto)
-   - Endereço
-   - CNPJ (CNPJ do Cartório)
+## Objeto
 
-### 12. Informações sobre Ônus Reais:
-   - Valor
-   - Link
-   - Selo Eletrônico
+### Descrição
 
-### 13. Informações sobre atas notariais:
-   - Valor
-   - Link
-   - Selo Eletrônico
+O presente contrato está relacionado à aquisição de serviços técnicos especializados para a realização de um Levantamento Topográfico e Cadastral da propriedade, elaboração de planos e emissão de um laudo pericial para a identificação precisa do Lote 2, Quadra 37, localizado na Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ).
 
-### 14. Informações da Nota Judicial:
-   - Valor
-   - Link
-   - Selo Eletrônico
+## Objetivo
 
-## Main Data Highlights
+### Descrição
 
-1. **Document Information:**
-   - Title: "Digital World Real Estate Registration"
-   - Author: ASPPIBRA-DAO
-   - Creation Date: October 26, 2023
-   - Keywords: Sample, Document, Metadata
-   - Description: Detailed explanation of the document's purpose and significance, including the use of blockchain technology for real estate registration.
+O objetivo fundamental deste contrato é obter informações detalhadas sobre as características físicas e legais da propriedade mencionada, com foco principal na localização precisa do Lote 2, Quadra 37, na Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ). O objetivo é estabelecer um banco de dados sólido para apoiar decisões informadas, garantindo eficiência na gestão e uso futuro deste ativo imobiliário.
 
-2. **Owners:**
-   - Information about the husband, wife, and heir children, including personal details such as names, IDs, birthdates, nationality, and marital status.
+## Finalidade
 
-3. **Property Information:**
-   - Detailed property address, type, registration numbers, area specifications, and geographic location information.
+### Descrição
 
-4. **Professionals:**
-   - Details of the surveyor and civil engineer, including their names and professional credentials.
+As informações obtidas serão estrategicamente utilizadas para formalizar o registro da propriedade no Cartório de Registro de Imóveis. Além disso, visa atender a diversas demandas potenciais, incluindo orientação em processos legais, como a condução efetiva da Ação de Direitos do Posseiro Urbano. Esse serviço abrangente vai além do mero mapeamento da propriedade, buscando estabelecer uma base documental robusta que não apenas facilita a regularização legal, mas também otimiza o uso efetivo da propriedade. Essa abordagem visa garantir a integridade da propriedade, alinhando meticulosamente com as regulamentações urbanas atuais.
 
-5. **Area Description:**
-   - A unique area description and topography plans, including situation plans, cadastral planimetric plans, topographic plans, and district plans.
+## Período de Execução
 
-6. **House Plans:**
-   - A unique area description and house plans, including engineering plans.
+### Descrição
 
-7. **Photo Report:**
-   - A photo report showcasing different areas of the property, including front and side views, the backyard, and aerial photography.
+Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 2017.
 
-8. **Construction Licensing:**
-   - Information about the construction licensing, including its value, link, and electronic seal.
+## Localização
 
-9. **Sales Value:**
-   - Details about the property's pricing, sale date, buyer information, payment method, and terms of sale.
+### Descrição
 
-10. **City Hall Information:**
-    - Details about the City Hall's address and CNPJ.
+A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio de Janeiro, incluindo suas principais vias de acesso. A figura também indica a localização específica onde o estudo topográfico foi conduzido, proporcionando uma visão abrangente da região analisada.
 
-11. **Registry Office Information:**
-    - Details about the Registry Office's name, notary officer information, address, and CNPJ.
+# Descrição da Área
 
-12. **Onus Reais Information:**
-    - Details about Onus Reais, including its value, link, and electronic seal.
+## Endereço
 
-13. **Notarial Minutes Information:**
-    - Details about Notarial Minutes, including its value, link, and electronic seal.
+- **Tipo de Propriedade:** Urbana
+- **Rua:** Avenida Almirante Amorim do Vale
+- **Quadra:** 37
+- **Lote:** 02
+- **Bairro:** Monjolos
+- **Município:** São Gonçalo
+- **CEP:** 24724-560
+- **Estado:** Rio de Janeiro (RJ)
+- **País:** Brasil (BR)
 
-14. **Judicial Note Information:**
-    - Details about Judicial Note, including its value, link, and electronic seal.
+## Características da Propriedade
+
+- **Tamanho Total:** 1.100,00 m²
+- **Confrontação Lateral Direita:** 50,00 m do lado direito, confrontando com o Lote 01
+- **Confrontação Lateral Esquerda:** 50,00 m do lado esquerdo, confrontando com o Lote 03
+- **Confrontação Frontal:** Avenida Almirante Amorim do Vale, com uma distância de 22,00 m
+- **Confrontação Traseira:** Em seguida, cobre uma distância de 22,00 m na parte de trás e confronta com o Lote 05
+- **Perímetro:** 142,00 m
+- **número de registro do IPTU:** 369835000
+- **número de registro do RGI:** 4.807 
+
+Este é um lote urbano, plano, devidamente registrado no 2º Cartório de Registro de Imóveis. O lote mede um total de 1.100,00 m², sendo 22 m de frente na Avenida Almirante Amorim do Vale, 22 m na parte de trás, confrontando com o Lote 5, 50 m do lado direito, confrontando com o Lote 01, e 50 m do lado esquerdo, confrontando com o Lote 03, totalizando 1.100 m², de acordo com o número de registro do IPTU.
+- **Detalhes da Construção:** No lote de terreno número 02, foi construído um edifício com um pavimento e divisões adequadas para moradia, totalizando 63,82 m², de acordo com visita técnica e medição pelo Engenheiro Civil.
+
+## Localização Geográfica
+
+- **Latitude:** Seu Valor de Latitude
+- **Longitude:** Seu Valor de Longitude
+- **Sistema Geodésico:** Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, Sistema UTM. O poligonal do Lote 2 de propriedade do Sr. Julio Cesar da Costa Luis começa no ponto designado 0=PP, georreferenciado no Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, coordenadas retangulares relativas, sistema UTM: E=734,657.386M e N=7,459,688,912M.
+
+## Identificação e Caracterização da Região
+
+- **Localização da Região:** Esta é uma região inserida no tecido urbano do Município de São Gonçalo com infraestrutura completa, ocupação predominantemente residencial unifamiliar, com um padrão normal de ocupação e fácil acesso. A região é composta por edifícios de padrões de construção médios e baixos e possui intensidade média de tráfego de veículos e pedestres. O padrão de comércio observado é regular, com a propriedade localizada próxima ao acesso à Rua João de Abreu, a principal rua do bairro.
+- **Infraestrutura de Serviços:** Está equipada com toda a infraestrutura que normalmente atende áreas urbanas, incluindo água, eletricidade, esgoto, pavimentação, transporte público e redes telefônicas.
+
+
+
+## Termos e Definições
+
+- **Sistema UTM:** 3.9 – SISTEMA DE PROJEÇÃO UNIVERSAL TRANSVERSA (UTM): SISTEMA DE REPRESENTAÇÃO CARTOGRÁFICA ADOTADO PELO SISTEMA CARTOGRÁFICO BRASILEIRO.
+- **Datum Horizontal:** 3.10 – DATUM HORIZONTAL: PLANO DE REFERÊNCIA PRIMÁRIO, AO QUAL A ORIGEM DO SISTEMA DE COORDENADAS SE RELACIONA PARA UMA LOCALIZAÇÃO DADA, EM RELAÇÃO AO GEOIDE.
+- **Datum Vertical:** 3.11 – DATUM VERTICAL: PLANO DE REFERÊNCIA PARA ALTITUDE, DEFINIDO PELA MÉDIA DAS MARÉS NO BRASIL; O DATUM DO MARCO DE MARES DE IMBITUBA ESTÁ ATUALMENTE EM VIGOR.
+- **Georreferenciamento:** 3.12 – GEORREFERENCIAMENTO: ATRIBUIÇÃO DE COORDENADAS GEODÉSICAS AOS ELEMENTOS DEFINIDORES DO OBJETO DE LEVANTAMENTO.
+- **GPS:** 3.13 – GPS: SISTEMA DE POSICIONAMENTO GLOBAL.
+- **GNSS:** 3.14 – GNSS: SISTEMA GLOBAL DE NAVEGAÇÃO POR SATÉLITE.
+- **RBMC:** 3.15 – RBMC (REDE BRASILEIRA DE MONITORAMENTO CONTÍNUO DO SISTEMA GPS): ESTABELECIDO EM 1996, IMPLEMENTOU O CONCEITO DE REDES ATIVAS ATRAVÉS DO MONITORAMENTO CONTÍNUO (RATREAMENTO) DOS SATÉLITES DO SISTEMA GPS. DIARIAMENTE, TODOS OS DADOS COLETADOS NAS ESTAÇÕES RBMC SÃO TRANSFERIDOS AUTOMATICAMENTE E COLOCADOS À DISPOSIÇÃO DOS USUÁRIOS NO FORMATO RINEX.
+
+## Condições Gerais
+
+### Descrição
+
+8 CONDIÇÕES GERAIS:
+O LEVANTAMENTO TOPOGRÁFICO, EM QUALQUER DE SUAS FINALIDADES, DEVE INCLUIR AS SEGUINTES FASES:
+
+A) PLANEJAMENTO, SELEÇÃO DE MÉTODOS, EQUIPES E EQUIPAMENTOS;
+B) SUPORTE TOPOGRÁFICO;
+C) LEVANTAMENTO DETALHADO;
+D) CÁLCULOS E AJUSTES;
+E) DESENHO TOPOGRÁFICO FINAL (FORMATO PAPEL OU ELETRÔNICO);
+F) RELATÓRIO TÉCNICO (QUANDO APLICÁVEL).
+
+
+
+
+
+
+
+
+
 
 ## Conclusão
 
