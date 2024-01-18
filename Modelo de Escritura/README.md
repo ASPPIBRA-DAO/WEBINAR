@@ -45,7 +45,13 @@ Ao dedicar este documento à ASPPIBRA, expressamos não apenas nossa gratidão, 
 
 ## Agradecimento
 
-Agradeço sinceramente a todos que contribuíram para a criação deste documento. Minha gratidão a Deus e aos colaboradores que desempenharam papéis-chave em sua conclusão. Agradeço à ASPPIBRA por seu valioso apoio e dedicação ao longo do processo. O reconhecimento vai para a equipe de topografia, cujo levantamento foi essencial. Agradeço especialmente à equipe de engenheiros pela preparação do plano da propriedade. Cada um de vocês desempenhou um papel significativo, e este documento não teria sido possível sem o esforço conjunto. Agradeço sinceramente pelo comprometimento, profissionalismo e colaboração que tornaram este documento bem-sucedido.
+Com profunda gratidão, expresso meu reconhecimento a Deus, fonte inesgotável de inspiração e guia em todos os momentos. A Ele, atribuo a sabedoria e a força que tornaram possível a criação deste documento.
+
+À ASPPIBRA, minha sincera gratidão por seu valioso apoio e dedicação incansável ao longo de todo o processo. A contribuição da ASPPIBRA foi mais do que essencial; representou um compromisso organizacional robusto e um esforço coletivo para atingir os objetivos propostos.
+
+Um reconhecimento especial é direcionado à excepcional equipe de topografia, cujo levantamento foi crucial na obtenção de informações cruciais. Agradeço profundamente à dedicada equipe de engenheiros pela meticulosa preparação do plano da propriedade, evidenciando um profissionalismo exemplar.
+
+Cada indivíduo envolvido desempenhou um papel significativo, e este documento não teria sido possível sem a colaboração e comprometimento de todos.
 
 
 ## Apresentação
