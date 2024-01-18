@@ -72,11 +72,9 @@ As informações obtidas serão estrategicamente utilizadas para formalizar o re
 
 Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 2017.
 
-## Localização
+# Localização Geográfica
 
 A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio de Janeiro, incluindo suas principais vias de acesso. A figura também indica a localização específica onde o estudo topográfico foi conduzido, proporcionando uma visão abrangente da região analisada.
-
-# Localização Geográfica
 
 ## Endereço
 
@@ -105,6 +103,7 @@ A Figura 6.1 destaca a posição geográfica de São Gonçalo no estado do Rio d
 - **Sistema Geodésico:** Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, Sistema UTM. O poligonal do Lote 2 de propriedade do Sr. Julio Cesar da Costa Luis começa no ponto designado 0=PP, georreferenciado no Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, coordenadas retangulares relativas, sistema UTM: E=734,657.386M e N=7,459,688,912M. 
 
 Este é um lote urbano, plano, devidamente registrado no 2º Cartório de Registro de Imóveis. O lote mede um total de 1.100,00 m², sendo 22 m de frente na Avenida Almirante Amorim do Vale, 22 m na parte de trás, confrontando com o Lote 5, 50 m do lado direito, confrontando com o Lote 01, e 50 m do lado esquerdo, confrontando com o Lote 03, totalizando 1.100 m², de acordo com o número de registro do IPTU.
+
 - **Detalhes da Construção:** No lote de terreno número 02, foi construído um edifício com um pavimento e divisões adequadas para moradia, totalizando 63,82 m², de acordo com visita técnica e medição pelo Engenheiro Civil.
 
 ## Identificação e Caracterização da Região
