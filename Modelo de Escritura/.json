@@ -1,45 +1,45 @@
 {       
-    "document": {
-        "title": "Digital World Real Estate Registration",
-        "author": "ASPPIBRA-DAO",
-        "requester": "Julio Cesar da Costa Luis",
-        "creation_date": "2023-10-26",
-        "keywords": ["Exemplary", "Registration", "Documentation", "Metadata"],
-        "language": "en",
-        "format": [".JSON", "PDF", "NFT"],
-        "acknowledgment": "I sincerely thank everyone who contributed to the creation of this document. My gratitude to God and the collaborators who played key roles in its completion. Thanks to ASPPIBRA for their valuable support and dedication throughout the process. Recognition goes to the topography team, whose survey was essential. Special thanks to the team of engineers for preparing the property plan. Each of you played a significant role, and this document would not have been possible without your joint effort. I sincerely thank you for your commitment, professionalism, and collaboration that made this document successful.",
-        "dedication": "With sincere dedication, we express our deep gratitude to ASPPIBRA for its fundamental contribution to the search for innovative solutions in Urban and Rural Land Regularization in Brazil. The tireless commitment and strategic vision of your team played an essential role in conceiving and developing this project.\n\nThis dedication reflects our sincere gratitude for your commitment to presenting a comprehensive view of real estate registration in the digital context. The proposal aims to ensure the digital inclusion of all property owners, fully aligning with current legislation, particularly LAW No. 13,465, OF JULY 11, 2017.\n\nFurthermore, it is noteworthy that the project fully aligns with Law No. 10,973 of 2004 (Innovation Law), highlighting ASPPIBRA's continuous efforts to encourage the development and adoption of innovative technologies. The proposal aims not only to modernize but also to substantially improve the processes related to land regularization, fully capitalizing on the potential provided by digital transformation and innovation legislation.\n\nBy dedicating this document to ASPPIBRA, we express not only our gratitude but also our respect for the organization's constant quest to promote significant advances in the management and regularization of properties in the Brazilian urban and rural scenario. This is a testament to ASPPIBRA’s exemplary commitment to positively shaping the future of property registration in the country.",
-        "presentation": {
-            "title": "PRESENTATION: ALCANCE SERVICES LTD & PHDL ENGINEERING LTD",
-            "introduction": "With great enthusiasm, we share the results of the joint effort of the Association of Property Owners and Possessors in Brazil, registered under CNPJ 26.325.396/0001-30, and the companies ALCANCE SERVICES LTD (CNPJ: 18.267.079/0001-87) and PHDL ENGINEERING LTD (CNPJ: 40.142.171/0001-70). This collaboration was essential for the development of a project aimed at instructing the Urban Squatter's Rights Action in the municipality of São Gonçalo, in the State of Rio de Janeiro – RJ.",
-            "details": "Below, we present in detail the main services and documents provided by each of the companies, emphasizing our commitment to excellence and the results achieved in this process of great relevance to the local community."
+    "documento": {
+        "titulo": "Registro Imobiliário Digital",
+        "autor": "ASPPIBRA-DAO",
+        "solicitante": "Julio Cesar da Costa Luis",
+        "data_criacao": "2023-10-26",
+        "palavras_chave": ["Exemplar", "Registro", "Documentação", "Metadados"],
+        "idioma": "pt",
+        "formato": [".JSON", "PDF", "NFT"],    
+        "dedicatoria": "Com sincera dedicação, expressamos nossa profunda gratidão à ASPPIBRA por sua contribuição fundamental na busca por soluções inovadoras na Regularização Fundiária Urbana e Rural no Brasil. O comprometimento incansável e a visão estratégica de sua equipe desempenharam um papel essencial na concepção e desenvolvimento deste projeto. Esta dedicação reflete nossa sincera gratidão pelo compromisso em apresentar uma visão abrangente do registro imobiliário no contexto digital. A proposta visa garantir a inclusão digital de todos os proprietários de imóveis, alinhando-se totalmente à legislação atual, em particular, a LEI Nº 13.465, DE 11 DE JULHO DE 2017. Além disso, é digno de nota que o projeto está totalmente alinhado com a Lei nº 10.973 de 2004 (Lei da Inovação), destacando os esforços contínuos da ASPPIBRA para incentivar o desenvolvimento e a adoção de tecnologias inovadoras. A proposta visa não apenas modernizar, mas também aprimorar substancialmente os processos relacionados à regularização fundiária, capitalizando totalmente o potencial proporcionado pela transformação digital e pela legislação de inovação. Ao dedicar este documento à ASPPIBRA, expressamos não apenas nossa gratidão, mas também nosso respeito pela busca constante da organização em promover avanços significativos na gestão e regularização de propriedades no cenário urbano e rural brasileiro. Isso é um testemunho do compromisso exemplar da ASPPIBRA em moldar positivamente o futuro do registro de propriedades no país.",
+        "agradecimento": "Com profunda gratidão, expresso meu reconhecimento a Deus, fonte inesgotável de inspiração e guia em todos os momentos. A Ele, atribuo a sabedoria e a força que tornaram possível a criação deste documento. À ASPPIBRA, minha sincera gratidão por seu valioso apoio e dedicação incansável ao longo de todo o processo. A contribuição da ASPPIBRA foi mais do que essencial; representou um compromisso organizacional robusto e um esforço coletivo para atingir os objetivos propostos. Um reconhecimento especial é direcionado à excepcional equipe de topografia, cujo levantamento foi crucial na obtenção de informações cruciais. Agradeço profundamente à dedicada equipe de engenheiros pela meticulosa preparação do plano da propriedade, evidenciando um profissionalismo exemplar. Cada indivíduo envolvido desempenhou um papel significativo, e este documento não teria sido possível sem a colaboração e comprometimento de todos.",
+        "apresentacao": {
+          "titulo": "ALCANCE SERVIÇOS LTDA & PHDL ENGENHARIA LTDA",
+          "introducao": "As empresas ALCANCE SERVIÇOS LTDA, registrada sob CNPJ: 18.267.079/0001-87, PHDL ENGENHARIA LTDA, registrada sob CNPJ: 40.142.171/0001-70, e Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA), registrada sob CNPJ: 26.325.396/0001-30, em parceria, apresentam os resultados do trabalho realizado para a confecção da documentação do imóvel urbano localizado no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.",
+          "detalhes": "A seguir, apresentamos detalhadamente os principais serviços e documentos fornecidos por cada uma das empresas, enfatizando nosso compromisso com a excelência e os resultados alcançados neste processo de grande relevância para a comunidade local."
         },
-        "object": {
-            "description": "The present contract is related to the acquisition of specialized technical services for conducting a Topographic and Cadastral Survey of the property, preparation of plans, and issuance of an expert report for the precise identification of Lot 2, Block 37, located at Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ)."
+        "objeto": {
+          "descricao": "O presente contrato tem como objeto a aquisição de serviços técnicos de topografia e engenharia especializados para a realização de um Memorial Descritivo. Este memorial incluirá um Levantamento Topográfico e Cadastral da propriedade, a elaboração de Planta Baixa e a emissão de um laudo pericial. O trabalho será focado na identificação precisa do Lote 2, Quadra 37, localizado na Avenida Almirante Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ)."
         },
-        "objective": {
-            "description": "The fundamental purpose of this contract is to obtain detailed information about the physical and legal characteristics of the mentioned property, with a primary focus on the precise location of Lot 2, Block 37, at Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ). The aim is to establish a solid database to support informed decisions, ensuring efficiency in the management and future use of this real estate asset."
+        "objetivo": {
+          "descricao": "O objetivo fundamental deste contrato é obter informações detalhadas sobre as características físicas e legais da propriedade mencionada, com foco principal na localização precisa do Lote 2, Quadra 37, na Avenida Almirante Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ). O objetivo é estabelecer um banco de dados sólido para apoiar decisões informadas, garantindo eficiência na gestão e uso futuro deste ativo imobiliário."
         },
-        "purpose": {
-            "description": "The information obtained will be strategically used to formalize the registration of the property in the Land Registry. Additionally, it aims to address various potential demands, including guidance in legal processes, such as the effective conduct of the Urban Squatter's Rights Action. This comprehensive service goes beyond mere property mapping, seeking to establish a robust documentary foundation that not only facilitates legal regularization but also optimizes the effective use of the property. This approach aims to ensure the integrity of the property, aligning meticulously with current urban regulations."
+        "finalidade": {
+          "descricao": "As informações meticulosamente adquiridas por meio deste documento desempenharão um papel estratégico na formalização do pedido de atualização do registro da propriedade junto ao Cartório de Registro de Imóveis. Este processo transcende a mera atualização cadastral, transformando-se em um instrumento abrangente destinado a atender a diversas demandas potenciais. Destacam-se, entre os propósitos fundamentais, a facilitação da condução efetiva da Ação de Direito Possessório. O intuito é garantir uma base documental robusta que respalde de forma sólida os processos legais envolvidos. A abrangência deste serviço vai além da conformidade legal; busca-se estabelecer uma base documental que não apenas otimize a regularização legal da propriedade, mas também sirva como modelo e incentivo para sua utilização efetiva em todos os casos de ação de Usucapião."
         },
-        "period_of_execution": {
-            "description": "The fieldwork was conducted during the period from December 8, 2017."
+        "periodo_de_execucao": {
+          "descricao": "Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 2017."
         },
-        "location": {
-            "description": "Figure 6.1 highlights the geographical position of São Gonçalo in the state of Rio de Janeiro, including its main access routes. The figure also indicates the specific location where the topographic study was conducted, providing a comprehensive view of the analyzed region."
+        "localizacao": {
+          "descricao": "Esta seção destaca de maneira expressiva a localização estratégica de São Gonçalo, situado no estado do Rio de Janeiro. O enfoque é direcionado para suas vias de acesso primárias, evidenciando não apenas a posição geográfica, mas também a acessibilidade da região. O relatório fotográfico não se limita a ilustrar apenas a configuração geográfica de São Gonçalo; vai além ao indicar com precisão o local exato onde o estudo topográfico foi conduzido de maneira meticulosa. Essas imagens não apenas capturam visualmente a geografia da região, mas também proporcionam uma visão panorâmica e detalhada do local em análise. Este relatório não é apenas um registro visual, mas uma ferramenta que aprofunda a compreensão da topografia e do ambiente estudado."
         },
-        "terms_and_definitions": {
-            "utm_system": "3.9 – UNIVERSAL TRANSVERSE MERCATOR (UTM) PROJECTION SYSTEM: CARTOGRAPHIC REPRESENTATION SYSTEM ADOPTED BY THE BRAZILIAN CARTOGRAPHIC SYSTEM.",
-            "horizontal_datum": "3.10 – HORIZONTAL DATUM: PRIMARY REFERENCE PLANE, TO WHICH THE COORDINATE SYSTEM ORIGIN RELATES FOR A GIVEN LOCATION, IN RELATION TO THE GEOID.",
-            "vertical_datum": "3.11 – VERTICAL DATUM: REFERENCE PLANE FOR ALTITUDE, DEFINED BY THE AVERAGE TIDE IN BRAZIL; THE IMBITUBA TIDE GAUGE DATUM IS CURRENTLY IN EFFECT.",
-            "georeferencing": "3.12 – GEOREFERENCING: ASSIGNMENT OF GEODETIC COORDINATES TO THE DEFINING ELEMENTS OF THE SURVEY OBJECT.",
-            "gps": "3.13 – GPS: GLOBAL POSITIONING SYSTEM.",
-            "gnss": "3.14 – GNSS: GLOBAL NAVIGATION SATELLITE SYSTEM.",
-            "rbmc": "3.15 – RBMC (BRAZILIAN NETWORK OF CONTINUOUS MONITORING OF THE GPS SYSTEM): ESTABLISHED IN 1996, IMPLEMENTED THE CONCEPT OF ACTIVE NETWORKS THROUGH THE CONTINUOUS MONITORING (TRACKING) OF GPS SYSTEM SATELLITES. DAILY, ALL DATA COLLECTED AT RBMC STATIONS ARE AUTOMATICALLY TRANSFERRED AND MADE AVAILABLE TO USERS IN RINEX FORMAT."
+        "termos_e_definicoes": {
+          "sistema_utm": "SISTEMA DE PROJEÇÃO UNIVERSAL TRANSVERSA (UTM): SISTEMA DE REPRESENTAÇÃO CARTOGRÁFICA ADOTADO PELO SISTEMA CARTOGRÁFICO BRASILEIRO.",
+          "datum_horizontal": "PLANO DE REFERÊNCIA PRIMÁRIO, AO QUAL A ORIGEM DO SISTEMA DE COORDENADAS SE RELACIONA PARA UMA LOCALIZAÇÃO DADA, EM RELAÇÃO AO GEOIDE.",
+          "datum_vertical": "PLANO DE REFERÊNCIA PARA ALTITUDE, DEFINIDO PELA MÉDIA DAS MARÉS NO BRASIL; O DATUM DO MARCO DE MARES DE IMBITUBA- SC ESTÁ ATUALMENTE EM VIGOR.",
+          "georreferenciamento": "ATRIBUIÇÃO DE COORDENADAS GEODÉSICAS AOS ELEMENTOS DEFINIDORES DO OBJETO DE LEVANTAMENTO.",
+          "gps": "SISTEMA DE POSICIONAMENTO GLOBAL.",
+          "gnss": "SISTEMA GLOBAL DE NAVEGAÇÃO POR SATÉLITE.",
+          "rbmc": "(REDE BRASILEIRA DE MONITORAMENTO CONTÍNUO DO SISTEMA GPS): ESTABELECIDO EM 1996, IMPLEMENTOU O CONCEITO DE REDES ATIVAS ATRAVÉS DO MONITORAMENTO CONTÍNUO (RASTREAMENTO) DOS SATÉLITES DO SISTEMA GPS. DIARIAMENTE, TODOS OS DADOS COLETADOS NAS ESTAÇÕES RBMC SÃO TRANSFERIDOS AUTOMATICAMENTE E COLOCADOS À DISPOSIÇÃO DOS USUÁRIOS NO FORMATO RINEX."
         },
-        "general_conditions": {
-            "description": "8 GENERAL CONDITIONS:\nTOPOGRAPHIC SURVEY, IN ANY OF ITS PURPOSES, MUST INCLUDE THE FOLLOWING PHASES:\n\nA) PLANNING, SELECTION OF METHODS, TEAMS, AND EQUIPMENT;\nB) TOPOGRAPHIC SUPPORT;\nC) DETAILED SURVEY;\nD) CALCULATIONS AND ADJUSTMENTS;\nE) FINAL TOPOGRAPHIC DRAWING (PAPER OR ELECTRONIC FORMAT);\nF) TECHNICAL REPORT (WHEN APPLICABLE)."
+        "condicoes_gerais": {
+          "descricao": "O levantamento topográfico, em qualquer uma de suas finalidades, deve compreender as seguintes fases:\n\nA) Planejamento, seleção de métodos, equipes e aparelhagem;\nB) Apoio topográfico;\nC) Levantamento de detalhes;\nD) Cálculos e ajustes;\nE) Desenho topográfico final (mídia papel ou em formato eletrônico);\nF) Relatório técnico (quando aplicável)."
         }
     },     
     "owners": {
@@ -70,173 +70,159 @@
             }
         ]
     },
-    "area_description": {
-        "address": {
-            "property_type": "Urban",
-            "street": "Avenida Almirante Amorim do Vale",
-            "block": "37",
-            "lot": "02",
-            "neighborhood": "Monjolos",
-            "municipality": "São Gonçalo",
-            "zip_code": "24724-560",
-            "state": "Rio de Janeiro (RJ)",
-            "country": "Brazil (BR)"
-        },        
-        "property_characteristics": {
-            "total_size": "1,100.00 m²",
-            "right_side_confrontation": "50.00 m on the right side, confronting with Lot 01",
-            "left_side_confrontation": "50.00 m on the right side, confronting with Lot 03",
-            "front_confrontation": "Avenida Almirante Amorim do Vale, with a distance of 22.00 m",
-            "back_confrontation": "Then it covers a distance of 22.00 m at the back and confronts with Lot 05",
-            "perimeter": "142.00 m",
-            "urban_lot_details": "This is an urban plot of land, flat, duly registered at the 2nd Registry of Real Estate of the 3rd Office under registration number 4.807. The lot measures a total of 22 m in front on Avenida Almirante Amorim do Vale, 22 m at the back, facing Lot 5, 50 m on the right side, facing Lot 01, and 50 m on the left side, facing Lot 03, totaling 1,100 m², according to the Property Tax registration number 369835000.",
-            "building_details": "On the land lot number 02, a building with one floor and divisions suitable for housing was constructed, totaling 63.82 m², according to technical visit and measurement by the Civil Engineer."
-        },
-        "geographic_location": {
-            "latitude": "Your Latitude Value",
-            "longitude": "Your Longitude Value",
-            "geodetic_system": "Brazilian Geodesic System, Datum – SIRGAS 2000, MC-45º W, UTM System The polygonal of Lot 2 owned by Mr. Julio Cesar da Costa Luis begins at the mark designated 0=PP, georeferenced in the Brazilian Geodesic System, Datum – SIRGAS 2000, MC-45º W, relative rectangular plane coordinates, UTM system: E=734,657.386M and N=7,459,688,912M."
-        },
-        "sales_value": {
-            "list_price": "Specify the list price of the property",
-            "appraised_value": "Specify the appraised value of the property",
-            "negotiated_sales_price": "Specify the negotiated sales price, if different from the list price",
-            "date_of_sale": "Specify the date when the property was sold",
-            "buyer_information": "Include the name and contact details of the buyer, if available",
-            "payment_method": "Specify the method of payment used for the sale, e.g., cash, mortgage, etc.",
-            "terms_of_sale": "Specify any special terms or conditions of the sale, if applicable"
-        },
-        "region_identification_and_characterization": {
-            "region_location": "This is a region inserted in the urban fabric of the Municipality of São Gonçalo with complete infrastructure, predominantly single-family residential occupation, with a normal occupancy pattern and easy access. The region consists of buildings of medium and low construction standards and has medium traffic intensity of vehicles and pedestrians. The observed trade pattern is regular, with the property located near the access to Rua João de Abreu, the main street of the neighborhood.",
-            "services_infrastructure": "It is equipped with all the infrastructure that normally serves urban areas, including water, electricity, sewage, pavement, public transportation, and telephone networks."
-        }
-    },    
     "professionals": {
         "surveyor": {
             "name": "Alexsander da Silva Menezes",
             "crea": "Surveyor's CREA Number",
-            "rg": "Surveyor's RG Number",
-            "CPF": "Surveyor's CPF Number",
+            "rg": "00.000.000-0",
+            "CPF": "000.000.000-00",
             "CNPJ": "18.267.079/0001-87"
         },
         "civil_engineer": {
             "name": "Daiana da Silva de Lima",
             "crea": "2021100702 (RJ)",
-            "rg": "Engineer's RG Number",
-            "CPF": "Engineer's CPF Number",
+            "rg": "00.000.000-0",
+            "CPF": "000.000.000-00",
             "CNPJ": "40.142.171/0001-70"
         }
-    },
-    "topography_plans": {
-        "date": "16/07/2021",
-        "used_equipments": [
-          "RECEPTOR GNSS L1/L2X900+ CHC",
-          "ESTAÇÃO TOTAL PRECISÃO DE 2TKS 202 GOWIN"
-        ],
-        "basic_support_networks": {
-          "levies_based_on": "SGB (SISTEMA GEODÉSICO BRASILEIRO)",
-          "horizontal_datum": "SIRGAS 2000",
-          "vertical_datum": "Obtained from the Brazilian official geoidal model adopted by IBGE and calculated with the MAPGEO2010 software developed by the institute."
+    },        
+    "localizacao_geografica": {
+        "endereco": {
+            "tipo_propriedade": "Urbana",
+            "rua": "Avenida Almirante Amorim do Vale",
+            "quadra": "37",
+            "lote": "02",
+            "bairro": "Monjolos",
+            "municipio": "São Gonçalo",
+            "cep": "24724-560",
+            "estado": "Rio de Janeiro (RJ)",
+            "pais": "Brasil (BR)"
         },
-        "sirgas_2000_characterization": {
-          "geodetic_reference_system": "International Terrestrial Reference System (ITRS)",
-          "earth_figure": {
-            "geodetic_reference_system_1980": "Geodetic Reference System 1980 (GRS80)",
-            "semi_major_axis_A": "6.378.137 m",
-            "flattening_F": "1/298,257222101",
-            "origin": "Center of mass of the Earth"
+        "caracteristicas_propriedade": {
+            "tamanho_total": "1.100,00 m²",
+            "confrontacao_lateral_direita": "50,00 m do lado direito, confrontando com o Lote 01",
+            "confrontacao_lateral_esquerda": "50,00 m do lado esquerdo, confrontando com o Lote 03",
+            "confrontacao_frontal": "Avenida Almirante Amorim do Vale, com uma distância de 22,00 m",
+            "confrontacao_traseira": "Em seguida, cobre uma distância de 22,00 m na parte de trás e confronta com o Lote 05",
+            "perimetro": "142,00 m",
+            "detalhes_lote_urbano": "Este é um lote urbano, plano, devidamente registrado no 2º Cartório de Registro de Imóveis do 3º Ofício sob o número de registro 4.807. O lote mede um total de 22 m na frente da Avenida Almirante Amorim do Vale, 22 m no fundo, confrontando com o Lote 5, 50 m no lado direito, confrontando com o Lote 01, e 50 m no lado esquerdo, confrontando com o Lote 03, totalizando 1.100 m², de acordo com o número de registro do IPTU 369835000.",
+            "detalhes_construcao": "No lote de terreno número 02, foi construído um edifício com um pavimento e divisões adequadas para moradia, totalizando 63,82 m², de acordo com visita técnica e medição pelo Engenheiro Civil."
+        },
+        "localizacao_geografica": {
+            "latitude": "Sua Latitude",
+            "longitude": "Sua Longitude",
+            "sistema_geodesico": "Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, Sistema UTM. O poligonal do Lote 2 de propriedade do Sr. Julio Cesar da Costa Luis começa no ponto designado 0=PP, georreferenciado no Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, coordenadas retangulares relativas, sistema UTM: E=734,657.386M e N=7,459,688,912M."
+        },
+        "identificacao_caracterizacao_regiao": {
+            "localizacao_regiao": "Esta é uma região inserida no tecido urbano do município de São Gonçalo, com infraestrutura completa, ocupação predominantemente residencial unifamiliar, com um padrão normal de ocupação e fácil acesso. A região é composta por edifícios de padrão médio e baixo de construção e tem intensidade média de tráfego de veículos e pedestres. O padrão de comércio observado é regular, com a propriedade localizada próxima ao acesso à Rua João de Abreu, a principal rua do bairro.",
+            "infraestrutura_servicos": "Está equipada com toda a infraestrutura que normalmente atende áreas urbanas, incluindo água, eletricidade, esgoto, pavimentação, transporte público e redes telefônicas."
+        }
+    },  
+    "topography_plans": {
+        "equipamentos_utilizados": [
+          "Receptor GNSS L1/L2X900+ CHC",
+          "Estação Total Precisão de 2TKS 202 Gowin"
+        ],
+        "redes_apoio_basico": {
+          "levantamentos_base": "SGB (Sistema Geodésico Brasileiro)",
+          "datum_horizontal": "SIRGAS 2000",
+          "datum_vertical": "Obtido do Modelo Geoidal Oficial Brasileiro adotado pelo IBGE e calculado com o software MapGeo2010 desenvolvido pelo próprio Instituto"
+        },
+        "caracterizacao_sirgas_2000": {
+          "sistema_geodesico_referencia": "Sistema de Referência Terrestre Internacional – ITRS (International Terrestrial Reference System)",
+          "figura_geometrica_terra": {
+            "elipsoide_grs80": "Elipsóide do Sistema Geodésico de Referência de 1980 (Geodetic Reference System 1980 – GRS80)",
+            "semi_eixo_maior_a": "6.378.137 m",
+            "achatamento_f": "1/298,257222101",
+            "origem": "Centro de massa da Terra"
           },
-          "orientation": {
-            "poles_and_reference_meridian": "Consistent with +0.005 with the directions defined by BIH (Bureau International de l'Heure) in 1984."
+          "orientacao": {
+            "polos_meridiano_referencia": "Consistentes em +0,005 com as direções definidas pelo BIH (Bureau International de l'Heure), em 1984"
           }
         },
-        "description_of_services": {
-          "technical_standards_and_references_consulted": [
+        "descricao_servicos": {
+          "normas_tecnicas_referencias_consultadas": [
             {
-              "organization": "IBGE",
-              "title": "Especificações e Normas Gerais para Levantamento Geodésico",
-              "resolution": "Resolução PR Nº 22 (21/07/1983)",
+              "organizacao": "IBGE",
+              "titulo": "Especificações e Normas Gerais para Levantamento Geodésico",
+              "resolucao": "Resolução PR Nº 22 (21/07/1983)",
               "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/bservico1602.pdf"
             },
             {
-              "organization": "IBGE",
-              "title": "Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar",
-              "resolution": "Resolução PR Nº 05 (31/03/1993)",
+              "organizacao": "IBGE",
+              "titulo": "Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar",
+              "resolucao": "Resolução PR Nº 05 (31/03/1993)",
               "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/normas_gps.pdf"
             },
             {
-              "organization": "IBGE",
-              "title": "Resolução do Presidente Nº 22/2005, de 25/02/2005 que altera a caracterização do Sistema Geodésico Brasileiro",
+              "organizacao": "IBGE",
+              "titulo": "Resolução do Presidente Nº 22/2005, de 25/02/2005, que altera a caracterização do Sistema Geodésico Brasileiro",
               "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf"
             },
             {
-              "organization": "ABNT",
-              "title": "NBR 13133 - Execução de Levantamento Topográfico",
-              "location": "Rio de Janeiro",
-              "year": "Maio de 1994"
+              "organizacao": "ABNT",
+              "titulo": "NBR 13133 - Execução de Levantamento Topográfico",
+              "local": "Rio de Janeiro",
+              "ano": "Maio de 1994"
             },
             {
-              "organization": "ABNT",
-              "title": "NBR 14166 - Rede de Referência Cadastral Municipal – Procedimento",
-              "location": "Rio de Janeiro",
-              "year": "Agosto de 1998"
+              "organizacao": "ABNT",
+              "titulo": "NBR 14166 - Rede de Referência Cadastral Municipal – Procedimento",
+              "local": "Rio de Janeiro",
+              "ano": "Agosto de 1998"
             },
             {
-              "organization": "INCRA",
-              "title": "Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição",
-              "year": "Agosto de 2010",
+              "organizacao": "INCRA",
+              "titulo": "Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição",
+              "ano": "Agosto de 2010",
               "url": "http://200.252.80.40/credencia/dowload/2_edicao_norma_tecnica_.pdf"
             },
             {
-              "organization": "IBGE",
-              "title": "Manual do Usuário Posicionamento por Ponto Preciso",
-              "version": "Versão Março 2009",
+              "organizacao": "IBGE",
+              "titulo": "Manual do Usuário Posicionamento por Ponto Preciso",
+              "versao": "Versão Março 2009",
               "url": "http://www.ibge.gov.br/home/geociencias/geodesia/ppp/manual_ppp.pdf"
             },
             {
-              "organization": "IBGE",
-              "title": "Recomendações para Levantamentos Relativos Estáticos – GPS",
-              "month": "Abril",
-              "year": "2008",
+              "organizacao": "IBGE",
+              "titulo": "Recomendações para Levantamentos Relativos Estáticos – GPS",
+              "mes": "Abril",
+              "ano": "2008",
               "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/recom_gps_internet.pdf"
             }
           ]
         },
-        "coordinate_transportation": {
-          "initial_support_point_P1": {
-            "description": "Initially, we implanted a basic support point in the survey area, called P1, where coordinates and elevations were transferred for control and support of other topographic works.",
-            "equipment_used": "GNSS (Global Navigation Satellite System) geodetic receiver, dual-frequency (L1/L2), with a minimum tracking time of 1 hour.",
-            "data_adjustment": "Triangulation classic adjustment with data obtained from two RBMC stations: CEEU and BRFT. The processing of these data for tying to the Brazilian Geodetic System (SGB) was performed using Topcon Tools software, with processing report attached.",
-            "elevation_transportation_method": "Static fast GPS geodetic method."
-          },
-          "post-processing_and_adjustment": {
-            "adjustment_software_used": "Topcon Tools for GPS data and MAPGEO 2010 (IBGE) for geoidal height adjustment.",
-            "obtained_quality": "For point P1, after processing and network adjustment, another support point (point P0) was implanted using the static fast GPS method, having point P1 as a control point. From point P1, we implanted 2 more reference stations for works with a total station, using the Real Time Kinematic (RTK) method."
+        "transporte_de_coordenadas": {
+          "marco_de_apoio_inicial_P1": {
+            "descricao": "Inicialmente, implantamos na área do levantamento um marco de apoio básico, que denominamos P1, onde foram transferidas as coordenadas e cotas para controle e apoio aos demais trabalhos topográficos.",
+            "equipamento_utilizado": "Receptor GNSS (Global Navigation Satellite System), tipo geodésico de dupla frequência (L1/L2), com tempo de rastreio mínimo de 1 hora. Após descarregarmos os dados obtidos do rastreio do ponto P1, estes foram ajustados através da triangulação clássica com dados obtidos de duas estações da RBMC (Rede Brasileira de Monitoramento Contínuo do Sistema GPS), a saber: CEEU e BRFT, cujos os relatórios encontram-se em anexo. Triangulando os dados de campo com os dados da RBMC, o processamento desses dados para amarração ao Sistema Geodésico Brasileiro (SGB) foi realizado através do software Topcon Tools, com relatório de processamento apresentado em anexo. O transporte de cotas para o marco de apoio básico também foi realizado com GPS geodésico, pelo método estático rápido.",
+            "pos_processamento_e_ajuste": {
+              "software_utilizado": "Topcon Tools para dados GPS e MAPGEO 2010 (IBGE) para ajuste da altura geoidal.",
+              "obtencao_de_qualidade": "As qualidades obtidas para as observações após processamento e ajuste de rede foram para o ponto P1. Na sequência dos trabalhos, implantamos mais 01 (um) marco de apoio imediato (ponto P0), utilizando equipamento receptor GNSS L1/L2, pelo método estático rápido, tendo como ponto de controle o marco de apoio básico P1. Partindo do ponto P1, implantamos mais 02 (duas) estações de referência para os trabalhos com estação total, pelo método RTK (Real Time Kinematic)."
+            }
           }
         },
-        "cadastral_topographic_survey": {
-          "description": "With the implementation of planimetric references, the field survey work was carried out with a total station with angular precision of 2 through the irradiation method of points. Notable points of the terrain, buildings, sidewalks, thresholds, gutters, curbs, manholes, drainage elements, sewage, trees (including diameter), and other points that we deemed necessary for the proper characterization of the property under this survey were collected."
+        "levantamento_topografico_cadastral": {
+          "descricao": "Após a implantação das referências planialtimétricas, realizamos o levantamento em campo utilizando equipamento do tipo estação total, com precisão angular de 2 graus, por meio do método de irradiação de pontos. Durante este processo, coletamos os pontos notáveis do terreno, edificações, calçadas, soleiras, sarjetas, meio-fio, caixas de passagens, elementos de drenagem, esgoto, árvores (incluindo diâmetro) e demais pontos que julgamos necessários para a completa caracterização do imóvel objeto deste levantamento."
         },
-        "data_processing": {
-          "office_data_processing": {
-            "software_communication": "The collected data is transferred to the computer through the software that communicates with the data collector of the GNSS receivers (Windows Mobile Device Center). For total station files, we use the COLET software.",
-            "internal_distribution": "Services are internally distributed for processing (calculation) and digital drawing, according to the technical capacity of the professional required for the best execution of the work.",
-            "preliminary_plotting": "After completing the drawing, a preliminary plotting is performed for review and general observations."
+        "processamento_de_dados": {
+          "processamento_de_dados_em_escritorio": {
+            "comunicacao_de_software": "No escritório, os dados coletados são transferidos para o computador através do software que se comunica com a coletora de dados dos receptores GNSS (Windows Mobile Device Center). Para os arquivos da estação total, utilizamos o software Colet. Os serviços são distribuídos internamente para o processamento (cálculo) e desenho em meio digital, de acordo com a capacidade técnica do profissional necessária para a melhor execução dos trabalhos. Após o término do desenho, é realizada uma plotagem preliminar para a revisão e observações gerais."
           },
-          "necessary_equipment": [
-            "GNSS Data Post-Processing Software: Topcon Tools Version 7.5.1",
-            "Topographic Calculation Software: DATAGEOSIS Office, Version 7.5.8.3",
-            "Drawing Software: AutoCAD, Version 2013",
-            "Plotter: HP DesignJet 800"
+          "equipamentos_necessarios": [
+            "Software de Pós-Processamento de Dados GNSS: Topcon Tools Versão 7.5.1",
+            "Software de Cálculo Topográfico: Datageosis Office, Versão 7.5.8.3",
+            "Software de Desenho: AutoCAD, Versão 2013",
+            "Plotadora: HP DesignJet 800"
           ]
-        },
-        "plans": {
-          "district_plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
-          "situation_plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
-          "cadastral_planimetric_plan": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png",
-          "topographic_plan": "https://",
-          "zoning_plan": "https://"
         }
+    },
+    "plans": {
+        "district_plan": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png",
+        "situation_plan": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
+        "cadastral_planimetric_plan": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png",
+        "topographic_plan": "https://",
+        "zoning_plan": "https://"
     },
     "house_plans": {
         "value": "Description",
