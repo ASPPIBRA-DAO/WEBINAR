@@ -72,7 +72,9 @@ O objetivo fundamental deste contrato é obter informações detalhadas sobre as
 
 ## Finalidade
 
-As informações obtidas serão estrategicamente utilizadas para formalizar o registro da propriedade no Cartório de Registro de Imóveis. Além disso, visa atender a diversas demandas potenciais, incluindo orientação em processos legais, como a condução efetiva da Ação de Direitos do Posseiro Urbano. Esse serviço abrangente vai além do mero mapeamento da propriedade, buscando estabelecer uma base documental robusta que não apenas facilita a regularização legal, mas também otimiza o uso efetivo da propriedade. Essa abordagem visa garantir a integridade da propriedade, alinhando meticulosamente com as regulamentações urbanas atuais.
+As informações meticulosamente adquiridas por meio deste documento desempenharão um papel estratégico na formalização do pedido de atualização do registro da propriedade junto ao Cartório de Registro de Imóveis. Este processo transcende a mera atualização cadastral, transformando-se em um instrumento abrangente destinado a atender a diversas demandas potenciais.
+
+Destacam-se, entre os propósitos fundamentais, a facilitação da condução efetiva da Ação de Direito Possessório. O intuito é garantir uma base documental robusta que respalde de forma sólida os processos legais envolvidos. A abrangência deste serviço vai além da conformidade legal; busca-se estabelecer uma base documental que não apenas otimize a regularização legal da propriedade, mas também sirva como modelo e incentivo para sua utilização efetiva em todos os casos de ação de Usucapião.
 
 ## Período de Execução
 
