@@ -64,7 +64,7 @@ A seguir, apresentamos detalhadamente os principais serviços e documentos forne
 
 ## Objeto
 
-O presente contrato está relacionado à aquisição de serviços técnicos especializados para a realização de um Levantamento Topográfico e Cadastral da propriedade, elaboração de planos e emissão de um laudo pericial para a identificação precisa do Lote 2, Quadra 37, localizado na Avenida Alm Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ).
+O presente contrato tem como objeto a aquisição de serviços técnicos de topografia e engenharia especializados para a realização de um Memorial Descritivo. Este memorial incluirá um Levantamento Topográfico e Cadastral da propriedade, a elaboração de Planta Baixa e a emissão de um laudo pericial. O trabalho será focado na identificação precisa do Lote 2, Quadra 37, localizado na Avenida Almirante Amorim do Vale/Monjolos, São Gonçalo, Rio de Janeiro (RJ).
 
 ## Objetivo
 
