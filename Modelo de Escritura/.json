@@ -157,13 +157,14 @@
             {
               "organizacao": "IBGE",
               "titulo": "Resolução do Presidente Nº 22/2005, de 25/02/2005, que altera a caracterização do Sistema Geodésico Brasileiro",
-              "url": "ftp://geoftp.ibge.gov.br/documentos/geodesia/projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf"
+              "url": "https://bafybeiap42o5iaa5oh6nr6mtzal5zru7dmdffr7lzbekiuctet55g5m6le.ipfs.w3s.link/rpr_01_25fev2005.pdf"
             },
             {
               "organizacao": "ABNT",
               "titulo": "NBR 13133 - Execução de Levantamento Topográfico",
               "local": "Rio de Janeiro",
-              "ano": "Maio de 1994"
+              "ano": "Maio de 1994",
+              "url": "https://bafybeiekkozoylbowixomuetvzqicoxdszrtz4y4grktxf4agiqlnpogle.ipfs.w3s.link/NBR13133.pdf"
             },
             {
               "organizacao": "ABNT",
