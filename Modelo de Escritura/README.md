@@ -129,17 +129,15 @@ O terreno urbano de número 02 da Quadra 37, caracterizado como plano, encontra-
 - **Localização da Região:** Esta é uma região inserida no tecido urbano do Município de São Gonçalo com infraestrutura completa, ocupação predominantemente residencial unifamiliar, com um padrão normal de ocupação e fácil acesso. A região é composta por edifícios de padrões de construção médios e baixos e possui intensidade média de tráfego de veículos e pedestres. O padrão de comércio observado é regular, com a propriedade localizada próxima ao acesso à Rua João de Abreu, a principal rua do bairro.
 - **Infraestrutura de Serviços:** Está equipada com toda a infraestrutura que normalmente atende áreas urbanas, incluindo água, eletricidade, esgoto, pavimentação, transporte público e redes telefônicas.
 
-
-
 ## Termos e Definições
 
-- **Sistema UTM:** 3.9 – SISTEMA DE PROJEÇÃO UNIVERSAL TRANSVERSA (UTM): SISTEMA DE REPRESENTAÇÃO CARTOGRÁFICA ADOTADO PELO SISTEMA CARTOGRÁFICO BRASILEIRO.
-- **Datum Horizontal:** 3.10 – DATUM HORIZONTAL: PLANO DE REFERÊNCIA PRIMÁRIO, AO QUAL A ORIGEM DO SISTEMA DE COORDENADAS SE RELACIONA PARA UMA LOCALIZAÇÃO DADA, EM RELAÇÃO AO GEOIDE.
-- **Datum Vertical:** 3.11 – DATUM VERTICAL: PLANO DE REFERÊNCIA PARA ALTITUDE, DEFINIDO PELA MÉDIA DAS MARÉS NO BRASIL; O DATUM DO MARCO DE MARES DE IMBITUBA ESTÁ ATUALMENTE EM VIGOR.
-- **Georreferenciamento:** 3.12 – GEORREFERENCIAMENTO: ATRIBUIÇÃO DE COORDENADAS GEODÉSICAS AOS ELEMENTOS DEFINIDORES DO OBJETO DE LEVANTAMENTO.
-- **GPS:** 3.13 – GPS: SISTEMA DE POSICIONAMENTO GLOBAL.
-- **GNSS:** 3.14 – GNSS: SISTEMA GLOBAL DE NAVEGAÇÃO POR SATÉLITE.
-- **RBMC:** 3.15 – RBMC (REDE BRASILEIRA DE MONITORAMENTO CONTÍNUO DO SISTEMA GPS): ESTABELECIDO EM 1996, IMPLEMENTOU O CONCEITO DE REDES ATIVAS ATRAVÉS DO MONITORAMENTO CONTÍNUO (RATREAMENTO) DOS SATÉLITES DO SISTEMA GPS. DIARIAMENTE, TODOS OS DADOS COLETADOS NAS ESTAÇÕES RBMC SÃO TRANSFERIDOS AUTOMATICAMENTE E COLOCADOS À DISPOSIÇÃO DOS USUÁRIOS NO FORMATO RINEX.
+- **Sistema UTM:** Sistema de Projeção Universal Transversa (UTM): Sistema de representação cartográfica adotado pelo Sistema Cartográfico Brasileiro.
+- **Datum Horizontal:** Plano de referência primário, ao qual a origem do sistema de coordenadas se relaciona para uma localização dada, em relação ao geoide.
+- **Datum Vertical:** Plano de referência para altitude, definido pela média das marés no Brasil; o datum do marco de mares de Imbituba-SC está atualmente em vigor.
+- **Georreferenciamento:** Atribuição de coordenadas geodésicas aos elementos definidores do objeto de levantamento.
+- **GPS:** Sistema de Posicionamento Global.
+- **GNSS:** Sistema Global de Navegação por Satélite.
+- **RBMC:** Rede Brasileira de Monitoramento Contínuo do Sistema GPS (RBMC): Estabelecido em 1996, implementou o conceito de redes ativas através do monitoramento contínuo (rastreamento) dos satélites do Sistema GPS. Diariamente, todos os dados coletados nas estações RBMC são transferidos automaticamente e colocados à disposição dos usuários no formato RINEX.
 
 ## Condições Gerais
 
