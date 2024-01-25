@@ -141,16 +141,14 @@ O terreno urbano de número 02 da Quadra 37, caracterizado como plano, encontra-
 
 ## Condições Gerais
 
-8 CONDIÇÕES GERAIS:
-O LEVANTAMENTO TOPOGRÁFICO, EM QUALQUER DE SUAS FINALIDADES, DEVE INCLUIR AS SEGUINTES FASES:
+O levantamento topográfico, em qualquer de suas finalidades, deve incluir as seguintes fases:
 
-- A) PLANEJAMENTO, SELEÇÃO DE MÉTODOS, EQUIPES E EQUIPAMENTOS;
-- B) SUPORTE TOPOGRÁFICO;
-- C) LEVANTAMENTO DETALHADO;
-- D) CÁLCULOS E AJUSTES;
-- E) DESENHO TOPOGRÁFICO FINAL (FORMATO PAPEL OU ELETRÔNICO);
-- F) RELATÓRIO TÉCNICO (QUANDO APLICÁVEL).
-
+- A) Planejamento, seleção de métodos, equipes e equipamentos;
+- B) Suporte topográfico;
+- C) Levantamento detalhado;
+- D) Cálculos e ajustes;
+- E) Desenho topográfico final (formato papel ou eletrônico);
+- F) Relatório técnico (quando aplicável).
 
 # Planos Topográficos
 
