@@ -58,7 +58,7 @@ Cada indivíduo envolvido desempenhou um papel significativo, e este documento n
 
 ALCANCE SERVIÇOS LTDA & PHDL ENGENHARIA LTDA
 
-As empresas **ALCANCE SERVIÇOS LTDA, registrada sob CNPJ: 18.267.079/0001-87,** **PHDL ENGENHARIA LTDA, registrada sob CNPJ: 40.142.171/0001-70,** **e Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA), registrada sob CNPJ: 26.325.396/0001-30,** em colaboração, apresentam os resultados do trabalho realizado para a elaboração da documentação do imóvel urbano localizado no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.
+As empresas **ALCANCE SERVIÇOS LTDA, registrada sob CNPJ: 18.267.079/0001-87,** **PHDL ENGENHARIA LTDA, registrada sob CNPJ: 40.142.171/0001-70,** e **Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA), registrada sob CNPJ: 26.325.396/0001-30,** em colaboração, apresentam os resultados do trabalho realizado para a elaboração da documentação do imóvel urbano localizado no município de São Gonçalo, no Estado do Rio de Janeiro – RJ.
 
 A seguir, detalhamos os principais serviços e documentos fornecidos por cada uma das empresas, destacando nosso comprometimento com a excelência e os resultados obtidos nesse processo de grande importância para a comunidade local.
 
