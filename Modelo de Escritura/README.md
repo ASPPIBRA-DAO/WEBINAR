@@ -150,47 +150,55 @@ O levantamento topográfico, em qualquer de suas finalidades, deve incluir as se
 - E) Desenho topográfico final (formato papel ou eletrônico);
 - F) Relatório técnico (quando aplicável).
 
-# Planos Topográficos
-
-## Data
-
-- **Data:** 16/07/2021
-
 ## Equipamentos Utilizados
 
 - **Receptor GNSS L1/L2X900+ CHC**
 - **Estação Total Precisão de 2TKS 202 GOWIN**
 
-## Redes de Suporte Básicas
+## Redes de Apoio Básico
 
-- **Levantamentos Baseados em:** SGB (Sistema Geodésico Brasileiro)
-- **Datum Horizontal:** SIRGAS 2000
-- **Datum Vertical:** Obtido do modelo geoidal oficial brasileiro adotado pelo IBGE e calculado com o software MAPGEO2010 desenvolvido pelo instituto.
+Os levantamentos tiveram como base o SGB (Sistema Geodésico Brasileiro), Datum Horizontal SIRGAS 2000. O Datum Vertical adotado é obtido do Modelo Geoidal Oficial Brasileiro adotado pelo IBGE e calculado com o software MapGeo2010 desenvolvido pelo próprio Instituto.
 
-## Caracterização SIRGAS 2000
+## Caracterização do SIRGAS 2000
 
-- **Sistema de Referência Geodésico:** Sistema de Referência Terrestre Internacional (ITRS)
-- **Figura da Terra:**
-  - Sistema de Referência Geodésico 1980 (GRS80)
-  - Semi-Eixo Maior (A): 6.378.137 m
+- **Sistema Geodésico de Referência:** Sistema de Referência Terrestre Internacional (ITRS)
+- **Figura Geométrica para a Terra:**
+  - Elipsóide do Sistema Geodésico de Referência de 1980 (Geodetic Reference System 1980 – GRS80)
+  - Semi-eixo maior (A): 6.378.137 m
   - Achatamento (F): 1/298,257222101
-  - Origem: Centro de Massa da Terra
+  - Origem: Centro de massa da Terra
 - **Orientação:**
-  - Pólos e Meridiano de Referência: Consistente com +0.005 em relação às direções definidas pelo BIH (Bureau International de l'Heure) em 1984.
+  - Pólos e meridiano de referência consistentes em +0,005 com as direções definidas pelo BIH (Bureau International de l'Heure) em 1984.
 
 ## Descrição dos Serviços
 
-### Normas Técnicas e Referências Consultadas
+### Normas Técnicas e Referências Bibliográficas
 
-- [IBGE - Especificações e Normas Gerais para Levantamento Geodésico](ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/bservico1602.pdf)
-- [IBGE - Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar](ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/normas_gps.pdf)
-- [IBGE - Resolução do Presidente Nº 22/2005, de 25/02/2005 que altera a caracterização do Sistema Geodésico Brasileiro](ftp://geoftp.ibge.gov.br/documentos/geodesia/projeto_mudanca_referencial_geodesico/legislacao/rpr_01_25fev2005.pdf)
-- [ABNT - NBR 13133 - Execução de Levantamento Topográfico (Maio de 1994)](Rio de Janeiro)
-- [ABNT - NBR 14166 - Rede de Referência Cadastral Municipal – Procedimento (Agosto de 1998)](Rio de Janeiro)
-- [INCRA - Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição (Agosto de 2010)](http://200.252.80.40/credencia/dowload/2_edicao_norma_tecnica_.pdf)
-- [IBGE - Manual do Usuário Posicionamento por Ponto Preciso (Versão Março 2009)](http://www.ibge.gov.br/home/geociencias/geodesia/ppp/manual_ppp.pdf)
-- [IBGE - Recomendações para Levantamentos Relativos Estáticos – GPS (Abril de 2008)](ftp://geoftp.ibge.gov.br/documentos/geodesia/pdf/recom_gps_internet.pdf)
+Para a execução dos serviços topográficos, observamos as seguintes normas técnicas e referências bibliográficas:
 
+IBGE: Instituto Brasileiro de Geografia e Estatística. Especificações e Normas Gerais para Levantamento Geodésico. Resolução PR Nº 22 (21/07/1983). https://bafybeiepnalinpuyqbrirxct5wluvyev6ohauq5dnciu6zi7gnsak2jy7q.ipfs.w3s.link/RESOLU%C3%87%C3%83O%20%E2%88%92%20PR%20no%2022%2C%20de%2021-07-83.pdf
+        
+
+IBGE: Instituto Brasileiro de Geografia e Estatística. Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar. Resolução PR Nº 05 (31/03/1993). https://bafybeiggxoy2tyejt2jyi5il542x4nisj6l6xno7a2yjp3pzaxgrtx4hv4.ipfs.w3s.link/legisla_normagps_d.pdf
+            
+
+IBGE: Instituto Brasileiro de Geografia e Estatística. Resolução do Presidente Nº 22/2005, de 25/02/2005, que altera a caracterização do Sistema Geodésico Brasileiro. https://bafybeiap42o5iaa5oh6nr6mtzal5zru7dmdffr7lzbekiuctet55g5m6le.ipfs.w3s.link/rpr_01_25fev2005.pdf
+            
+
+ABNT: Associação Brasileira de Normas Técnicas. NBR 13133. Execução de Levantamento Topográfico. Rio de Janeiro, maio de 1994. https://bafybeiekkozoylbowixomuetvzqicoxdszrtz4y4grktxf4agiqlnpogle.ipfs.w3s.link/NBR13133.pdf
+            
+
+ABNT: Associação Brasileira de Normas Técnicas. NBR 14166. Rede de Referência Cadastral Municipal – Procedimento. Rio de Janeiro, agosto de 1998. https://bafybeiatkxghj524xng7yb6mzhyiu7ffj64ufyxzjxfr745md4r4e6zy6a.ipfs.w3s.link/NBR14166.pdf
+            
+
+INCRA: Instituto Nacional de Colonização e Reforma Agrária. Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição. Fevereiro de 2010. https://bafybeiarzt5573jsjtlrzapiibqmurutjs3owdrqdgso7ufe65ad2spmsa.ipfs.w3s.link/norma_tecnica_georreferenciamento.pdf
+            
+
+IBGE: Instituto Brasileiro de Geografia e Estatística. Manual do Usuário Posicionamento por Ponto Preciso. Versão março 2009. https://bafybeihh43vomdllxrd7e2mdnhdjubru5xuwfrslwl6k5xhyxelkrm4htu.ipfs.w3s.link/manual_ppp.pdf
+            
+
+IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Levantamentos Relativos Estáticos – GPS. Abril de 2008. https://bafybeia36jxjlspkwdhwexg2fhn4y7elqykxzt4ge2752suqjdtcxwiigy.ipfs.w3s.link/recom_gps_internet.pdf
+            
 ## Transporte de Coordenadas
 
 ### Ponto de Suporte Inicial (P1)
