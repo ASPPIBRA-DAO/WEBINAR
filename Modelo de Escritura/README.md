@@ -176,28 +176,21 @@ Os levantamentos tiveram como base o SGB (Sistema Geodésico Brasileiro), Datum 
 
 Para a execução dos serviços topográficos, observamos as seguintes normas técnicas e referências bibliográficas:
 
-IBGE: Instituto Brasileiro de Geografia e Estatística. Especificações e Normas Gerais para Levantamento Geodésico. Resolução PR Nº 22 (21/07/1983). https://bafybeiepnalinpuyqbrirxct5wluvyev6ohauq5dnciu6zi7gnsak2jy7q.ipfs.w3s.link/RESOLU%C3%87%C3%83O%20%E2%88%92%20PR%20no%2022%2C%20de%2021-07-83.pdf
-        
+IBGE: Instituto Brasileiro de Geografia e Estatística. Especificações e Normas Gerais para Levantamento Geodésico. [Resolução PR Nº 22 (21/07/1983).](https://bafybeiepnalinpuyqbrirxct5wluvyev6ohauq5dnciu6zi7gnsak2jy7q.ipfs.w3s.link/RESOLU%C3%87%C3%83O%20%E2%88%92%20PR%20no%2022%2C%20de%2021-07-83.pdf)
 
-IBGE: Instituto Brasileiro de Geografia e Estatística. Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar. Resolução PR Nº 05 (31/03/1993). https://bafybeiggxoy2tyejt2jyi5il542x4nisj6l6xno7a2yjp3pzaxgrtx4hv4.ipfs.w3s.link/legisla_normagps_d.pdf
-            
+IBGE: Instituto Brasileiro de Geografia e Estatística. Especificações e Normas Gerais para Levantamento GPS: Versão Preliminar. [Resolução PR Nº 05 (31/03/1993).](https://bafybeiggxoy2tyejt2jyi5il542x4nisj6l6xno7a2yjp3pzaxgrtx4hv4.ipfs.w3s.link/legisla_normagps_d.pdf)
 
-IBGE: Instituto Brasileiro de Geografia e Estatística. Resolução do Presidente Nº 22/2005, de 25/02/2005, que altera a caracterização do Sistema Geodésico Brasileiro. https://bafybeiap42o5iaa5oh6nr6mtzal5zru7dmdffr7lzbekiuctet55g5m6le.ipfs.w3s.link/rpr_01_25fev2005.pdf
-            
+IBGE: Instituto Brasileiro de Geografia e Estatística. Resolução do Presidente Nº 22/2005, de 25/02/2005, que altera a caracterização do Sistema Geodésico Brasileiro. [Resolução PR Nº 22/2005.](https://bafybeiap42o5iaa5oh6nr6mtzal5zru7dmdffr7lzbekiuctet55g5m6le.ipfs.w3s.link/rpr_01_25fev2005.pdf)
 
-ABNT: Associação Brasileira de Normas Técnicas. NBR 13133. Execução de Levantamento Topográfico. Rio de Janeiro, maio de 1994. https://bafybeiekkozoylbowixomuetvzqicoxdszrtz4y4grktxf4agiqlnpogle.ipfs.w3s.link/NBR13133.pdf
-            
+ABNT: Associação Brasileira de Normas Técnicas. NBR 13133. Execução de Levantamento Topográfico. Rio de Janeiro, maio de 1994. [NBR 13133.](https://bafybeiekkozoylbowixomuetvzqicoxdszrtz4y4grktxf4agiqlnpogle.ipfs.w3s.link/NBR13133.pdf)
 
-ABNT: Associação Brasileira de Normas Técnicas. NBR 14166. Rede de Referência Cadastral Municipal – Procedimento. Rio de Janeiro, agosto de 1998. https://bafybeiatkxghj524xng7yb6mzhyiu7ffj64ufyxzjxfr745md4r4e6zy6a.ipfs.w3s.link/NBR14166.pdf
-            
+ABNT: Associação Brasileira de Normas Técnicas. NBR 14166. Rede de Referência Cadastral Municipal – Procedimento. Rio de Janeiro, agosto de 1998. [NBR 14166.](https://bafybeiatkxghj524xng7yb6mzhyiu7ffj64ufyxzjxfr745md4r4e6zy6a.ipfs.w3s.link/NBR14166.pdf)
 
-INCRA: Instituto Nacional de Colonização e Reforma Agrária. Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição. Fevereiro de 2010. https://bafybeiarzt5573jsjtlrzapiibqmurutjs3owdrqdgso7ufe65ad2spmsa.ipfs.w3s.link/norma_tecnica_georreferenciamento.pdf
-            
+INCRA: Instituto Nacional de Colonização e Reforma Agrária. Norma Técnica para Georreferenciamento de Imóveis Rurais – 2ª Edição. Fevereiro de 2010. [Norma Técnica.](https://bafybeiarzt5573jsjtlrzapiibqmurutjs3owdrqdgso7ufe65ad2spmsa.ipfs.w3s.link/norma_tecnica_georreferenciamento.pdf)
 
-IBGE: Instituto Brasileiro de Geografia e Estatística. Manual do Usuário Posicionamento por Ponto Preciso. Versão março 2009. https://bafybeihh43vomdllxrd7e2mdnhdjubru5xuwfrslwl6k5xhyxelkrm4htu.ipfs.w3s.link/manual_ppp.pdf
-            
+IBGE: Instituto Brasileiro de Geografia e Estatística. Manual do Usuário Posicionamento por Ponto Preciso. Versão março 2009. [Manual do Usuário.](https://bafybeihh43vomdllxrd7e2mdnhdjubru5xuwfrslwl6k5xhyxelkrm4htu.ipfs.w3s.link/manual_ppp.pdf)
 
-IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Levantamentos Relativos Estáticos – GPS. Abril de 2008. https://bafybeia36jxjlspkwdhwexg2fhn4y7elqykxzt4ge2752suqjdtcxwiigy.ipfs.w3s.link/recom_gps_internet.pdf
+IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Levantamentos Relativos Estáticos – GPS. Abril de 2008. [Recomendações GPS.](https://bafybeia36jxjlspkwdhwexg2fhn4y7elqykxzt4ge2752suqjdtcxwiigy.ipfs.w3s.link/recom_gps_internet.pdf)
             
 ## Transporte de Coordenadas
 
@@ -206,8 +199,14 @@ IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Lev
 - **Descrição:**
   - Inicialmente, implantamos um ponto de suporte básico na área de levantamento, chamado P1, onde coordenadas e elevações foram transferidas para controle e suporte de outros trabalhos topográficos.
 - **Equipamento Utilizado:** Receptor GNSS (Global Navigation Satellite System), dupla frequência (L1/L2), com um tempo mínimo de rastreamento de 1 hora.
-- **Ajuste de Dados:** Ajuste clássico de triangulação com dados obtidos de duas estações RBMC: CEEU e BRFT. O processamento desses dados para vinculação ao Sistema Geodésico Brasileiro (SGB) foi realizado usando o software Topcon Tools, com relatório de processamento anexado.
+- **Ajuste de Dados:** Ajuste clássico de triangulação com dados obtidos de duas estações RBMC: CEEU e BRFT. O processamento desses dados para vinculação ao Sistema Geodésico Brasileiro (SGB) foi realizado usando o software Topcon Tools, com relatório de processamento apresentado em anexo.
 - **Método de Transporte de Elevação:** Método GPS geodésico estático rápido.
+
+O pós-processamento e ajuste dos dados de GPS foram realizados no software Topcon Tools. Para o ajuste da altura geoidal (GPS) para altura ortométrica (topografia), utilizamos o software MapGeo 2010 (IBGE).
+
+As qualidades obtidas para as observações após processamento e ajuste de rede foram para o ponto P1. Na sequência dos trabalhos, implantamos mais 01 (um) marco de apoio imediato (ponto P0), utilizando equipamento receptor GNSS L1/L2, pelo método estático rápido, tendo como ponto de controle o marco de apoio básico P1. Partindo do ponto P1, implantamos mais 02 (duas) estações de referência para os trabalhos com estação total, pelo método RTK (Real Time Kinematic).
+
+
 
 ### Pós-Processamento e Ajuste
 
