@@ -73,7 +73,6 @@ O objetivo fundamental deste contrato é obter informações detalhadas sobre as
 ## Finalidade
 
 As informações meticulosamente adquiridas por meio deste documento desempenharão um papel estratégico na formalização do pedido de atualização do registro da propriedade junto ao Cartório de Registro de Imóveis. Este processo transcende a mera atualização cadastral, transformando-se em um instrumento abrangente destinado a atender a diversas demandas potenciais.
-
 Destacam-se, entre os propósitos fundamentais, a facilitação da condução efetiva da Ação de Direito Possessório. O intuito é garantir uma base documental robusta que respalde de forma sólida os processos legais envolvidos. A abrangência deste serviço vai além da conformidade legal; busca-se estabelecer uma base documental que não apenas otimize a regularização legal da propriedade, mas também sirva como modelo e incentivo para sua utilização efetiva em todos os casos de ação de Usucapião.
 
 ## Período de Execução
@@ -101,20 +100,29 @@ O relatório fotográfico não se limita a ilustrar apenas a configuração geog
 ## Características da Propriedade
 
 - **Tamanho Total:** 1.100,00 m²
-- **Confrontação Lateral Direita:** 50,00 m do lado direito, confrontando com o Lote 01
-- **Confrontação Lateral Esquerda:** 50,00 m do lado esquerdo, confrontando com o Lote 03
-- **Confrontação Frontal:** Avenida Almirante Amorim do Vale, com uma distância de 22,00 m
-- **Confrontação Traseira:** Em seguida, cobre uma distância de 22,00 m na parte de trás e confronta com o Lote 05
+- **Confrontação Lateral Direita:** 50,00 m, confrontando com o Lote 01
+- **Confrontação Lateral Esquerda:** 50,00 m, confrontando com o Lote 03
+- **Confrontação Frontal:** 22,00 m, confrontando Av. Almirante Amorim do Vale
+- **Confrontação Fundo:** 22,00 m, confrontando com o Lote 05
 - **Perímetro:** 142,00 m
-- **número de registro do IPTU:** 369835000
-- **número de registro do RGI:** 4.807
-- **Latitude:** Seu Valor de Latitude
-- **Longitude:** Seu Valor de Longitude
-- **Sistema Geodésico:** Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, Sistema UTM. O poligonal do Lote 2 de propriedade do Sr. Julio Cesar da Costa Luis começa no ponto designado 0=PP, georreferenciado no Sistema Geodésico Brasileiro, Datum – SIRGAS 2000, MC-45º W, coordenadas retangulares relativas, sistema UTM: E=734,657.386M e N=7,459,688,912M. 
+- **Número de Registro do IPTU:** 369835000
+- **Número de Registro do RGI:** 4.807
+- **Latitude:** -22,810144
+- **Longitude:** -42,943313
+- **Zona UTM:** 23.K
+- **MC:** -45º W
+- **Latitude UTM:** 711097,00 M E
+- **Longitude UTM:** 7476024,00 M S
+- **Sistema Geodésico Brasileiro:** Datum – SIRGAS 2000
 
-Este é um lote urbano, plano, devidamente registrado no 2º Cartório de Registro de Imóveis. O lote mede um total de 1.100,00 m², sendo 22 m de frente na Avenida Almirante Amorim do Vale, 22 m na parte de trás, confrontando com o Lote 5, 50 m do lado direito, confrontando com o Lote 01, e 50 m do lado esquerdo, confrontando com o Lote 03, totalizando 1.100 m², de acordo com o número de registro do IPTU.
+O terreno urbano de número 02 da Quadra 37, caracterizado como plano, encontra-se devidamente registrado no 2º Cartório de Registro de Imóveis e pertence ao Sr. Julio Cesar da Costa Luis. O ponto de início, designado como P0, está georreferenciado com suas coordenadas retangulares em relação ao sistema UTM. Foram identificados pontos adicionais significativos ao redor da área contratual, os quais foram demarcados no relatório fotográfico e representados por diferentes cores.
 
-- **Detalhes da Construção:** No lote de terreno número 02, foi construído um edifício com um pavimento e divisões adequadas para moradia, totalizando 63,82 m², de acordo com visita técnica e medição pelo Engenheiro Civil.
+    🟦 P0 711057,00 M E/ 7476074,00 M S
+    🟪 P1 711085.00 M E/ 7476018.00 M S
+    🟩 P2 710812.00 M E/ 7475998.00 M S
+    🟨 P3 710956.00 M E/ 7475592.00 M S
+
+**Detalhes da Construção:** No lote de terreno número 02, foi construído um edifício com um pavimento e divisões adequadas para moradia, totalizando 63,82 m², de acordo com visita técnica e medição pelo Engenheiro Civil.
 
 ## Identificação e Caracterização da Região
 
