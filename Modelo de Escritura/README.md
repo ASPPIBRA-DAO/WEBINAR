@@ -199,12 +199,24 @@ IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Lev
 - **Descrição:**
   - Inicialmente, implantamos um ponto de suporte básico na área de levantamento, chamado P1, onde coordenadas e elevações foram transferidas para controle e suporte de outros trabalhos topográficos.
 - **Equipamento Utilizado:** Receptor GNSS (Global Navigation Satellite System), dupla frequência (L1/L2), com um tempo mínimo de rastreamento de 1 hora.
-- **Ajuste de Dados:** Ajuste clássico de triangulação com dados obtidos de duas estações RBMC: CEEU e BRFT. O processamento desses dados para vinculação ao Sistema Geodésico Brasileiro (SGB) foi realizado usando o software Topcon Tools, com relatório de processamento apresentado em anexo.
+- **Ajuste de Dados:** Ajuste clássico de triangulação com dados obtidos de duas estações RBMC: CEEU e BRFT. O processamento desses dados para vinculação ao Sistema Geodésico Brasileiro (SGB) foi realizado usando o software Topcon Tools, com relatório de processamento anexado.
 - **Método de Transporte de Elevação:** Método GPS geodésico estático rápido.
 
-O pós-processamento e ajuste dos dados de GPS foram realizados no software Topcon Tools. Para o ajuste da altura geoidal (GPS) para altura ortométrica (topografia), utilizamos o software MapGeo 2010 (IBGE).
+### Pós-Processamento e Ajuste
 
-As qualidades obtidas para as observações após processamento e ajuste de rede foram para o ponto P1. Na sequência dos trabalhos, implantamos mais 01 (um) marco de apoio imediato (ponto P0), utilizando equipamento receptor GNSS L1/L2, pelo método estático rápido, tendo como ponto de controle o marco de apoio básico P1. Partindo do ponto P1, implantamos mais 02 (duas) estações de referência para os trabalhos com estação total, pelo método RTK (Real Time Kinematic).
+- **Software Utilizado:** Topcon Tools para o ajuste dos dados de GPS.
+- **Ajuste de Altura Geoidal:** Utilizamos o software MapGeo 2010 (IBGE) para o ajuste da altura geoidal (GPS) para altura ortométrica (topografia).
+
+### Implantação Adicional de Marcos de Apoio
+
+- **Ponto P1:**
+  - Qualidades obtidas após processamento e ajuste de rede.
+- **Ponto P0:**
+  - Implantado como marco de apoio imediato, utilizando equipamento receptor GNSS L1/L2, pelo método estático rápido, com o P1 como ponto de controle.
+- **Estações de Referência:**
+  - Implantação de 02 estações de referência para trabalhos com estação total, pelo método RTK (Real Time Kinematic).
+
+
 
 
 
