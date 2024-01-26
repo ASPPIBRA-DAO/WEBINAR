@@ -12,34 +12,34 @@
 
 ## Índice
 
-1. [Introdução](#introdução) ....................................................... 07
-2. [Dedicatória](#dedicatória) ................................................... 09
-3. [Agradecimento](#agradecimento) .............................................. 10
-4. [Apresentação](#apresentação) ................................................. 10
-5. [Objeto](#objeto) .............................................................. 11
-6. [Objetivo](#objetivo) ........................................................... 11
-7. [Finalidade](#finalidade) ....................................................... 13
-8. [Período de Execução](#período-de-execução) .................................... 14
-9. [Localização Geográfica](#localização-geográfica) .............................. 15
-10. [Endereço](#endereço) ......................................................... 16
-11. [Características da Propriedade](#características-da-propriedade) ............ 17
-12. [Identificação e Caracterização da Região](#identificação-e-caracterização-da-região) ............................................. 18
-13. [Termos e Definições](#termos-e-definições) .................................... 06
-14. [Condições Gerais](#condições-gerais) ......................................... 06
-15. [Equipamentos Utilizados](#equipamentos-utilizados) ........................... 06
-16. [Redes de Apoio Básico](#redes-de-apoio-básico) ............................... 06
-17. [Caracterização do SIRGAS 2000](#caracterização-do-sirgas-2000) ............. 08
-18. [Descrição dos Serviços](#descrição-dos-serviços) ............................. 08
-    - [Normas Técnicas e Referências Bibliográficas](#normas-técnicas-e-referências-bibliográficas) ....................... 08
-19. [Transporte de Coordenadas](#transporte-de-coordenadas) ...................... 08
-    - [Ponto de Suporte Inicial (P1)](#ponto-de-suporte-inicial-p1) ............ 09
-    - [Pós-Processamento e Ajuste](#pós-processamento-e-ajuste) ................ 10
-    - [Implantação Adicional de Marcos de Apoio](#implantação-adicional-de-marcos-de-apoio) ......................... 11
-    - [Pós-Processamento e Ajuste](#pós-processamento-e-ajuste) ................ 11
-20. [Levantamento Topográfico Planialtimétrico Cadastral](#levantamento-topográfico-planialtimétrico-cadastral) ........... 19
-    - [Processamento de Dados no Escritório](#processamento-de-dados-no-escritório) ..................................... 20
-    - [Equipamentos Necessários para a Realização Dessa Etapa](#equipamentos-necessários-para-a-realização-dessa-etapa) ... 21
-21. [Conclusão](#conclusão) ......................................................... 22
+1. [Introdução](#introdução)
+2. [Dedicatória](#dedicatória)
+3. [Agradecimento](#agradecimento)
+4. [Apresentação](#apresentação)
+5. [Objeto](#objeto)
+6. [Objetivo](#objetivo)
+7. [Finalidade](#finalidade)
+8. [Período de Execução](#período-de-execução)
+9. [Localização Geográfica](#localização-geográfica)
+10. [Endereço](#endereço)
+11. [Características da Propriedade](#características-da-propriedade)
+12. [Identificação e Caracterização da Região](#identificação-e-caracterização-da-região)
+13. [Termos e Definições](#termos-e-definições)
+14. [Condições Gerais](#condições-gerais)
+15. [Equipamentos Utilizados](#equipamentos-utilizados)
+16. [Redes de Apoio Básico](#redes-de-apoio-básico)
+17. [Caracterização do SIRGAS 2000](#caracterização-do-sirgas-2000)
+18. [Descrição dos Serviços](#descrição-dos-serviços)
+    - [Normas Técnicas e Referências Bibliográficas](#normas-técnicas-e-referências-bibliográficas)
+19. [Transporte de Coordenadas](#transporte-de-coordenadas)
+    - [Ponto de Suporte Inicial (P1)](#ponto-de-suporte-inicial-p1)
+    - [Pós-Processamento e Ajuste](#pós-processamento-e-ajuste)
+    - [Implantação Adicional de Marcos de Apoio](#implantação-adicional-de-marcos-de-apoio)
+    - [Pós-Processamento e Ajuste](#pós-processamento-e-ajuste)
+20. [Levantamento Topográfico Planialtimétrico Cadastral](#levantamento-topográfico-planialtimétrico-cadastral)
+    - [Processamento de Dados no Escritório](#processamento-de-dados-no-escritório)
+    - [Equipamentos Necessários para a Realização Dessa Etapa](#equipamentos-necessários-para-a-realização-dessa-etapa)
+21. [Conclusão](#conclusão)
 
 ## Introdução
 
