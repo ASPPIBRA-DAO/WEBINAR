@@ -41,7 +41,6 @@
     - [Equipamentos Necessários para a Realização Dessa Etapa](#equipamentos-necessários-para-a-realização-dessa-etapa)
 21. [Conclusão](#conclusão)
 
-
 ## Introdução
 
 Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a **Lei nº 13.465, de 11 de Julho de 2017,** que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a **Lei nº 10.973 de 2004 (Lei de Inovação),** proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
