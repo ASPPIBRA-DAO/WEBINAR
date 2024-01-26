@@ -79,7 +79,7 @@ Destacam-se, entre os propósitos fundamentais, a facilitação da condução ef
 
 Os trabalhos de campo foram realizados durante o período de 8 de dezembro de 2017.
 
-# Localização Geográfica
+## Localização Geográfica
 
 Esta seção destaca de maneira expressiva a localização estratégica de São Gonçalo, situado no estado do Rio de Janeiro. O enfoque é direcionado para suas vias de acesso primárias, evidenciando não apenas a posição geográfica, mas também a acessibilidade da região.
 
