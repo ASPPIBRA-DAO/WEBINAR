@@ -29,8 +29,7 @@
 15. [Equipamentos Utilizados](#equipamentos-utilizados)
 16. [Redes de Apoio Básico](#redes-de-apoio-básico)
 17. [Caracterização do SIRGAS 2000](#caracterização-do-sirgas-2000)
-18. [Descrição dos Serviços](#descrição-dos-serviços)
-    - [Normas Técnicas e Referências Bibliográficas](#normas-técnicas-e-referências-bibliográficas)
+18. [Normas Técnicas e Referências Bibliográficas](#normas-técnicas-e-referências-bibliográficas)
 19. [Transporte de Coordenadas](#transporte-de-coordenadas)
     - [Ponto de Suporte Inicial (P1)](#ponto-de-suporte-inicial-p1)
     - [Pós-Processamento e Ajuste](#pós-processamento-e-ajuste)
@@ -184,9 +183,7 @@ Os levantamentos tiveram como base o SGB (Sistema Geodésico Brasileiro), Datum 
 - **Orientação:**
   - Pólos e meridiano de referência consistentes em +0,005 com as direções definidas pelo BIH (Bureau International de l'Heure) em 1984.
 
-## Descrição dos Serviços
-
-### Normas Técnicas e Referências Bibliográficas
+## Normas Técnicas e Referências Bibliográficas
 
 Para a execução dos serviços topográficos, observamos as seguintes normas técnicas e referências bibliográficas:
 
