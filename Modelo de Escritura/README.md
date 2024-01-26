@@ -216,34 +216,29 @@ IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Lev
 - **Estações de Referência:**
   - Implantação de 02 estações de referência para trabalhos com estação total, pelo método RTK (Real Time Kinematic).
 
-
-
-
-
 ### Pós-Processamento e Ajuste
 
 - **Software de Ajuste Utilizado:** Topcon Tools para dados GPS e MAPGEO 2010 (IBGE) para ajuste de altura geoidal.
 - **Qualidade Obtida:** Para o ponto P1, após processamento e ajuste de rede, outro ponto de suporte (ponto P0) foi implantado usando o método GPS geodésico estático rápido, tendo o ponto P1 como ponto de controle. A partir do ponto P1, implantamos mais 2 estações de referência para trabalhos com estação total, usando o método Real Time Kinematic (RTK).
 
-## Levantamento Topográfico Cadastral
+## Levantamento Topográfico Planialtimétrico Cadastral
 
 - **Descrição:**
-  - Com a implantação de referências planimétricas, o trabalho de levantamento em campo foi realizado com uma estação total com precisão angular de 2 através do método de irradiação de pontos. Pontos notáveis do terreno, edifícios, calçadas, soleiras, sarjetas, meio-fios, poços de visita, elementos de drenagem, esgoto, árvores (incluindo diâmetro) e outros pontos que julgamos necessários para a caracterização adequada da propriedade foram coletados.
+  - Após a implantação das referências planialtimétricas, realizamos o levantamento em campo utilizando equipamento do tipo estação total, com precisão angular de 2 graus, por meio do método de irradiação de pontos. Durante este processo, coletamos os pontos notáveis do terreno, edificações, calçadas, soleiras, sarjetas, meio-fio, caixas de passagens, elementos de drenagem, esgoto, árvores (incluindo diâmetro) e demais pontos que julgamos necessários para a completa caracterização do imóvel objeto deste levantamento.
 
-## Processamento de Dados
-
-### Processamento de Dados em Escritório
+### Processamento de Dados no Escritório
 
 - **Comunicação de Software:** Os dados coletados são transferidos para o computador por meio do software que se comunica com o coletor de dados dos receptores GNSS (Windows Mobile Device Center). Para arquivos da estação total, usamos o software COLET.
 - **Distribuição Interna:** Os serviços são distribuídos internamente para processamento (cálculo) e desenho digital, de acordo com a capacidade técnica do profissional necessário para a melhor execução do trabalho.
 - **Plotagem Preliminar:** Após a conclusão do desenho, é realizada uma plotagem preliminar para revisão e observações gerais.
 
-### Equipamentos Necessários
+### Equipamentos Necessários para a realização dessa etapa:
 
-- Receptor GNSS Data Post-Processing Software: Topcon Tools Versão 7.5.1
-- Software de Cálculo Topográfico: DATAGEOSIS Office, Versão 7.5.8.3
+- Software de Pós-Processamento de Dados GNSS: Topcon Tools Versão 7.5.1
+- Software de Cálculo Topográfico: Datageosis Office, Versão 7.5.8.3
 - Software de Desenho: AutoCAD, Versão 2013
-- Plotter: HP DesignJet 800
+- Plotadora: HP DesignJet 800
+
 
 
 
