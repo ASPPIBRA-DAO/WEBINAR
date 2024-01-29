@@ -214,58 +214,37 @@ IBGE: Instituto Brasileiro de Geografia e Estatística. Recomendações para Lev
             
 ## Transporte de Coordenadas
 
-### Ponto de Suporte Inicial (P1)
+Inicialmente, instalamos um marco de apoio básico na área de levantamento, designado como P1. Esse ponto serviu como referência para transferir as coordenadas e cotas necessárias para o controle e suporte das atividades topográficas subsequentes.
 
-- **Descrição:**
-  - Inicialmente, implantamos um ponto de suporte básico na área de levantamento, chamado P1, onde coordenadas e elevações foram transferidas para controle e suporte de outros trabalhos topográficos.
-- **Equipamento Utilizado:** Receptor GNSS (Global Navigation Satellite System), dupla frequência (L1/L2), com um tempo mínimo de rastreamento de 1 hora.
-- **Ajuste de Dados:** Ajuste clássico de triangulação com dados obtidos de duas estações RBMC: CEEU e BRFT. O processamento desses dados para vinculação ao Sistema Geodésico Brasileiro (SGB) foi realizado usando o software Topcon Tools, com relatório de processamento anexado.
-- **Método de Transporte de Elevação:** Método GPS geodésico estático rápido.
+Para a transferência das coordenadas para o marco de apoio básico P1, utilizamos um equipamento receptor GNSS (Global Navigation Satellite System), do tipo geodésico de dupla frequência (L1/L2), com um tempo mínimo de rastreio de 1 hora. Após a coleta dos dados de rastreamento do ponto P1, esses dados foram ajustados por meio de triangulação clássica, utilizando informações de duas estações da RBMC (Rede Brasileira de Monitoramento Contínuo do Sistema GPS), a saber: CEEU e BRFT, cujos relatórios encontram-se em anexo.
 
-### Pós-Processamento e Ajuste
+Ao triangular os dados de campo com os da RBMC, procedemos ao processamento destes para amarração ao Sistema Geodésico Brasileiro (SGB), utilizando eficientemente o software Topcon Tools. O transporte das cotas até o marco de apoio básico também foi realizado com precisão, empregando um GPS geodésico por meio do método estático rápido.
 
-- **Software Utilizado:** Topcon Tools para o ajuste dos dados de GPS.
-- **Ajuste de Altura Geoidal:** Utilizamos o software MapGeo 2010 (IBGE) para o ajuste da altura geoidal (GPS) para altura ortométrica (topografia).
+Os estágios subsequentes do projeto envolveram o pós-processamento e ajuste minucioso dos dados de GPS por meio do software Topcon Tools, além da adaptação da altura geoidal (GPS) para altura ortométrica (topografia) com o auxílio do software MapGeo 2010 (IBGE). Os resultados obtidos para as observações após o processamento e ajuste da rede foram particularmente favoráveis para o ponto P1.
 
-### Implantação Adicional de Marcos de Apoio
+Continuando com os trabalhos, adicionamos mais um marco de apoio imediato, denominado P0, utilizando um receptor GNSS L1/L2 e empregando o método estático rápido. Este novo ponto foi crucial, tendo o P1 como ponto de controle. Prosseguimos então para a implantação de duas estações de referência destinadas aos trabalhos com estação total, empregando o método RTK (Real Time Kinematic).
 
-- **Ponto P1:**
-  - Qualidades obtidas após processamento e ajuste de rede.
-- **Ponto P0:**
-  - Implantado como marco de apoio imediato, utilizando equipamento receptor GNSS L1/L2, pelo método estático rápido, com o P1 como ponto de controle.
-- **Estações de Referência:**
-  - Implantação de 02 estações de referência para trabalhos com estação total, pelo método RTK (Real Time Kinematic).
+Utilizando o sistema Google Earth, foram adicionados 2 pontos UTM extras de referência para facilitar a identificação da área do imóvel em pesquisas futuras. Esses pontos foram caracterizados por cores e coordenadas UTM, conforme descrito no relatório fotográfico aéreo.
 
-### Pós-Processamento e Ajuste
+Em resumo, o processo envolveu a meticulosa implantação de marcos de apoio, transferência e ajuste de coordenadas, utilizando tecnologias geodésicas de alta precisão, culminando em resultados confiáveis e eficientes para o levantamento topográfico realizado.
 
-- **Software de Ajuste Utilizado:** Topcon Tools para dados GPS e MAPGEO 2010 (IBGE) para ajuste de altura geoidal.
-- **Qualidade Obtida:** Para o ponto P1, após processamento e ajuste de rede, outro ponto de suporte (ponto P0) foi implantado usando o método GPS geodésico estático rápido, tendo o ponto P1 como ponto de controle. A partir do ponto P1, implantamos mais 2 estações de referência para trabalhos com estação total, usando o método Real Time Kinematic (RTK).
-
-## Levantamento Topográfico Planialtimétrico Cadastral
+## 6.11 Levantamento Topográfico Planialtimétrico Cadastral
 
 - **Descrição:**
   - Após a implantação das referências planialtimétricas, realizamos o levantamento em campo utilizando equipamento do tipo estação total, com precisão angular de 2 graus, por meio do método de irradiação de pontos. Durante este processo, coletamos os pontos notáveis do terreno, edificações, calçadas, soleiras, sarjetas, meio-fio, caixas de passagens, elementos de drenagem, esgoto, árvores (incluindo diâmetro) e demais pontos que julgamos necessários para a completa caracterização do imóvel objeto deste levantamento.
 
-### Processamento de Dados no Escritório
+### 6.12 Processamento de Dados no Escritório
 
 - **Comunicação de Software:** Os dados coletados são transferidos para o computador por meio do software que se comunica com o coletor de dados dos receptores GNSS (Windows Mobile Device Center). Para arquivos da estação total, usamos o software COLET.
 - **Distribuição Interna:** Os serviços são distribuídos internamente para processamento (cálculo) e desenho digital, de acordo com a capacidade técnica do profissional necessário para a melhor execução do trabalho.
 - **Plotagem Preliminar:** Após a conclusão do desenho, é realizada uma plotagem preliminar para revisão e observações gerais.
 
-### Equipamentos Necessários para a realização dessa etapa:
+### 6.13 Equipamentos Necessários para a realização dessa etapa:
 
 - Software de Pós-Processamento de Dados GNSS: Topcon Tools Versão 7.5.1
 - Software de Cálculo Topográfico: Datageosis Office, Versão 7.5.8.3
 - Software de Desenho: AutoCAD, Versão 2013
 - Plotadora: HP DesignJet 800
-
-
-
-
-
-
-
-
 
 ## Conclusão
 
