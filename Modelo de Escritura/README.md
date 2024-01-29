@@ -49,21 +49,9 @@
 15. [**Normas Técnicas e Referências Bibliográficas**](#normas-técnicas-e-referências-bibliográficas)
 16. [**Acervo Digital**](#acervo-digital)
 
-## Introdução
-
-Este documento, elaborado pela ASPPIBRA-DAO, propõe uma visão detalhada sobre o registro imobiliário no mundo digital. Seu objetivo primordial é apresentar uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. Essa proposta visa assegurar a inclusão digital de todos os proprietários e possuidores de imóveis em todo o país, em conformidade com a **Lei nº 13.465, de 11 de Julho de 2017,** que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a **Lei nº 10.973 de 2004 (Lei de Inovação),** proporcionando incentivos para o desenvolvimento e a adoção de tecnologias inovadoras.
-
-A solução apresentada incorpora a tecnologia blockchain como uma ferramenta fundamental para dimensionar o registro imobiliário em escala global. Ao abordar questões relacionadas à informalidade e à transparência no registro de propriedades, o projeto visa proporcionar, em última análise, acesso a informações descentralizadas e invioláveis. Um destaque significativo deste documento é a proposta de criação de um NFT único, que representa a propriedade de uma casa, adicionando uma camada adicional de segurança e autenticidade ao processo.
-
 ## Dedicatória
 
-Com sincera dedicação, expressamos nossa profunda gratidão à ASPPIBRA por sua contribuição fundamental na busca por soluções inovadoras na Regularização Fundiária Urbana e Rural no Brasil. O comprometimento incansável e a visão estratégica de sua equipe desempenharam um papel essencial na concepção e desenvolvimento deste projeto.
-
-Esta dedicação reflete nossa sincera gratidão pelo compromisso em apresentar uma visão abrangente do registro imobiliário no contexto digital. A proposta visa garantir a inclusão digital de todos os proprietários de imóveis, alinhando-se totalmente à legislação atual, em particular, a LEI Nº 13.465, DE 11 DE JULHO DE 2017.
-
-Além disso, é digno de nota que o projeto está totalmente alinhado com a Lei nº 10.973 de 2004 (Lei da Inovação), destacando os esforços contínuos da ASPPIBRA para incentivar o desenvolvimento e a adoção de tecnologias inovadoras. A proposta visa não apenas modernizar, mas também aprimorar substancialmente os processos relacionados à regularização fundiária, capitalizando totalmente o potencial proporcionado pela transformação digital e pela legislação de inovação.
-
-Ao dedicar este documento à ASPPIBRA, expressamos não apenas nossa gratidão, mas também nosso respeito pela busca constante da organização em promover avanços significativos na gestão e regularização de propriedades no cenário urbano e rural brasileiro. Isso é um testemunho do compromisso exemplar da ASPPIBRA em moldar positivamente o futuro do registro de propriedades no país.
+Dedicamos este trabalho à ASPPIBRA com profunda gratidão. Sua contribuição crucial e visão estratégica foram fundamentais para o desenvolvimento inovador na Regularização Fundiária Urbana e Rural no Brasil. Expressamos nossa sincera gratidão pelo compromisso em promover uma visão abrangente do registro imobiliário digital, alinhada à legislação atual, especialmente a **LEI Nº 13.465, DE 11 DE JULHO DE 2017.** Este projeto também reflete o total alinhamento com a Lei da Inovação **Lei nº 10.973/2004,** destacando os esforços contínuos da ASPPIBRA para impulsionar o desenvolvimento tecnológico. Ao dedicar este documento à ASPPIBRA, reconhecemos e respeitamos a busca constante da organização por avanços na gestão de propriedades no Brasil, um testemunho de seu compromisso exemplar em moldar positivamente o futuro do registro imobiliário no país.
 
 ## Agradecimento
 
@@ -75,6 +63,11 @@ Um reconhecimento especial é direcionado à excepcional equipe de topografia, c
 
 Cada indivíduo envolvido desempenhou um papel significativo, e este documento não teria sido possível sem a colaboração e comprometimento de todos.
 
+## Introdução
+
+Neste documento, preparado pela ASPPIBRA-DAO, é apresentada uma visão abrangente sobre a digitalização do registro imobiliário no cenário digital. O objetivo principal é oferecer uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. A proposta busca garantir a inclusão digital de todos os proprietários e ocupantes de imóveis em todo o país, aderindo à **Lei nº 13.465, de 11 de julho de 2017,** que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a **Lei nº 10.973 de 2004** (Lei de Inovação), incentivando o desenvolvimento e adoção de tecnologias inovadoras.
+
+A solução apresentada inclui o uso da tecnologia blockchain como uma ferramenta essencial para ampliar o registro imobiliário globalmente. Ao lidar com questões relacionadas à informalidade e transparência no registro de propriedades, o projeto tem como objetivo fornecer acesso a informações descentralizadas e invioláveis. Um destaque importante deste documento é a proposta de criação de um NFT único que representa a propriedade residencial, adicionando uma camada adicional de segurança e autenticidade ao processo.
 
 ## Apresentação
 
