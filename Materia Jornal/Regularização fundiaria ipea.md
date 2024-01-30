@@ -1,5 +1,7 @@
 # "Solução de R$ 202,13 Bilhões: Como a ASPPIBRA-DAO Pretende Revolucionar o Setor Imobiliário no Brasil"
 
+![ASPPIBRA ESCRITURA](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-ESCRITURA.svg)
+
 ## Introdução
 
 O Brasil enfrenta desafios persistentes de desigualdade e ineficiências no setor imobiliário, mas uma nova luz de esperança surge com os resultados de um estudo recente conduzido pelo Instituto de Pesquisa Econômica Aplicada (Ipea) em 2023. Revelou-se que o movimento de regularização fundiária no país não só possui o potencial de impulsionar a economia nacional em 2,4 pontos percentuais, mas também apresenta uma oportunidade única para a transformação positiva. A digitalização de registros imobiliários é uma peça fundamental nesse cenário, com o potencial de injetar impressionantes R$ 202 bilhões na economia brasileira. Essa iniciativa não apenas promete criar novas oportunidades econômicas, mas também tem o poder de contribuir significativamente para a redução da desigualdade, abrindo caminho para um futuro mais inclusivo e próspero para todos os brasileiros.
@@ -10,6 +12,8 @@ O Brasil enfrenta desafios persistentes de desigualdade e ineficiências no seto
 A ASPPIBRA-DAO desempenha um papel fundamental ao liderar a revolução na regularização fundiária e digitalização de registros imobiliários no Brasil. Além de apresentar um modelo de relatório técnico abrangente, a organização desbravou novos caminhos ao obter seu primeiro caso de sucesso em 2019, no município de São Gonçalo, bairro Monjos. Nesse pioneirismo, a ASPPIBRA-DAO não apenas executou um trabalho completo de confecção e acompanhamento de registro junto aos órgãos competentes, mas também marcou sua presença inovadora ao realizar a digitalização dos documentos para registro imobiliário em blockchain.
 
 ## Registro em Blockchain: 
+
+![ASPPIBRA BLOCKCHAIN](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-BLOCKCHAIN.svg)
 
 Na sua segunda fase, a ASPPIBRA-DAO avança oferecendo serviços de digitalização do registro imobiliário em blockchain. Esse passo não apenas promove a acessibilidade da população a tecnologias inovadoras, mas também abre as portas para a participação em serviços financeiros descentralizados, conhecidos como DeFi. Ao unir nossa visão de inclusão digital e financeira com a eficiente digitalização de registros imobiliários, estamos pavimentando o caminho para um futuro mais justo e próspero para todos os brasileiros. Com a tecnologia blockchain, estamos garantindo não apenas a segurança e a transparência dos registros, mas também democratizando o acesso aos recursos financeiros e tecnológicos necessários para construir um país mais justo e igualitário.
 
@@ -50,6 +54,8 @@ Nossos esforços estão voltados para a conclusão do aplicativo "Mundo Digital,
 Apoie a construção do aplicativo tornando-se membro da ASPPIBRA-DAO e adquirindo seus tokens de governança; sua participação é crucial para alcançarmos 100% dos brasileiros que ainda não conseguem interagir com aplicações Web3.
 
 **Participe do Webinar Conexão Mundial Brasil 2024**
+
+![ASPPIBRA Webinar](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/fb24c26614bd5c9e9279572c9a2d4e848bccb200/Jornal/ASPPIBRA-Webinar.svg)
 
 **Detalhes:**
 - **Data:** 10/03/2023 📅
