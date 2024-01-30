@@ -9,7 +9,7 @@ O Brasil enfrenta desafios persistentes de desigualdade e ineficiências no seto
 
 ### O Papel da ASPPIBRA-DAO:
 
-A ASPPIBRA-DAO desempenha um papel fundamental ao liderar a revolução na regularização fundiária e digitalização de registros imobiliários no Brasil. Além de apresentar um modelo de relatório técnico abrangente, a organização desbravou novos caminhos ao obter seu primeiro caso de sucesso em 2019, no município de São Gonçalo, bairro Monjos. Nesse pioneirismo, a ASPPIBRA-DAO não apenas executou um trabalho completo de confecção e acompanhamento de registro junto aos órgãos competentes, mas também marcou sua presença inovadora ao realizar a digitalização dos documentos para registro imobiliário em blockchain.
+A ASPPIBRA-DAO desempenha um papel fundamental ao liderar a revolução na regularização fundiária e digitalização de registros imobiliários no Brasil. Além de apresentar um modelo de relatório técnico abrangente, a organização desbravou novos caminhos ao obter seu primeiro caso de sucesso em 2019, no município de São Gonçalo, bairro Monjolos. Nesse pioneirismo, a ASPPIBRA-DAO não apenas executou um trabalho completo de confecção e acompanhamento de registro junto aos órgãos competentes, mas também marcou sua presença inovadora ao realizar a digitalização dos documentos para registro imobiliário em blockchain.
 
 ## Registro em Blockchain: 
 
