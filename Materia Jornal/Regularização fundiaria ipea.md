@@ -78,3 +78,5 @@ Apoie a construção do aplicativo tornando-se membro da ASPPIBRA-DAO e adquirin
 
 Não perca a oportunidade de fazer parte dessa inovação digital e contribuir para o futuro inclusivo do Brasil! 🌐🚀
 
+## créditos
+- **Escrito e Revisado** [Ana Carolina Amorim](https://www.linkedin.com/in/carol-br/)
