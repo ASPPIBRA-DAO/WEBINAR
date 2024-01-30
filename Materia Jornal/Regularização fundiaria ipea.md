@@ -1,4 +1,4 @@
-# "Solução de R$ 202,13 Bilhões: Como a ASPPIBRA-DAO Pretende Revolucionar o Setor Imobiliário no Brasil"
+# Solução de R$ 202,13 Bilhões: Como a ASPPIBRA-DAO Pretende Revolucionar o Setor Imobiliário no Brasil
 
 ![ASPPIBRA ESCRITURA](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-ESCRITURA.svg)
 
