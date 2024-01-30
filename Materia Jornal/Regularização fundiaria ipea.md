@@ -1,6 +1,6 @@
 # Solução de R$ 202,13 Bilhões: Como a ASPPIBRA-DAO Pretende Revolucionar o Setor Imobiliário no Brasil
 
-![ASPPIBRA ESCRITURA](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-ESCRITURA.svg)
+![ASPPIBRA ESCRITURA](https://github.com/ASPPIBRA-DAO/Imagens/blob/574ae322178a64c3070386caa0aa7b2078dd1825/Jornal/favela.rj.svg)
 
 ### Introdução
 
@@ -13,7 +13,7 @@ A ASPPIBRA-DAO desempenha um papel fundamental ao liderar a revolução na regul
 
 ## Registro em Blockchain: 
 
-![ASPPIBRA BLOCKCHAIN](https://raw.githubusercontent.com/ASPPIBRA-DAO/Imagens/890ffa9bfb4c79f650c48e627aa2306299c17c4b/Jornal/ASPPIBRA-BLOCKCHAIN.svg)
+![ASPPIBRA BLOCKCHAIN](https://github.com/ASPPIBRA-DAO/Imagens/blob/574ae322178a64c3070386caa0aa7b2078dd1825/Jornal/blockchain.svg)
 
 Na sua segunda fase, a ASPPIBRA-DAO avança oferecendo serviços de digitalização do registro imobiliário em blockchain. Esse passo não apenas promove a acessibilidade da população a tecnologias inovadoras, mas também abre as portas para a participação em serviços financeiros descentralizados, conhecidos como DeFi. Ao unir nossa visão de inclusão digital e financeira com a eficiente digitalização de registros imobiliários, estamos pavimentando o caminho para um futuro mais justo e próspero para todos os brasileiros. Com a tecnologia blockchain, estamos garantindo não apenas a segurança e a transparência dos registros, mas também democratizando o acesso aos recursos financeiros e tecnológicos necessários para construir um país mais justo e igualitário.
 
