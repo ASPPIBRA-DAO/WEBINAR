@@ -71,10 +71,10 @@ Apoie a construção do aplicativo tornando-se membro da ASPPIBRA-DAO e adquirin
 - 🎓 Iniciativas Educacionais
 - 🎁 Incentivos aos Participantes: Airdrop de NFTs e Tokens
 
-**Inscrições:** [Formulário de Inscrição](https://forms.gle/PcSF6MHz78GDxEqb6)
-**Contato:** 📧 suporte@asppibra.com.br | 🟢 [Grupo WhatsApp](https://chat.whatsapp.com/FF6cs4zKS6BGxhLOyaNgu1)
-**GitHub:** [Repositório ASPPIBRA-DAO](https://github.com/ASPPIBRA-DAO)
-
+Para se inscrever, acesse o [Formulário de inscrição](https://forms.gle/UJKDXpdNt3g8SJFs8). 🖋️📲
+- **📧 Email:** suporte@asppibra.com.br
+- **🟢 WhatsApp** [Grupo WhatsApp](https://chat.whatsapp.com/FF6cs4zKS6BGxhLOyaNgu1)
+- **GitHub:** [Repositório ASPPIBRA-DAO](https://github.com/ASPPIBRA-DAO)
 
 Não perca a oportunidade de fazer parte dessa inovação digital e contribuir para o futuro inclusivo do Brasil! 🌐🚀
 
