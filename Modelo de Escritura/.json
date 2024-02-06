@@ -345,344 +345,229 @@
       "Ao fomentar a transparência não apenas nos registros imobiliários, mas também na compreensão e aplicação desses registros, este relatório desempenha um papel crucial na transformação do setor imobiliário brasileiro. Sua contribuição educacional não apenas capacita os profissionais envolvidos, mas também fortalece a confiança e a eficiência do sistema como um todo.",
       "Este trabalho representa, assim, um passo significativo em direção a um registro imobiliário mais seguro, transparente e acessível para todos os envolvidos, marcando um avanço significativo nas práticas inovadoras que moldam o futuro do setor."
     ],
-    "titulo": "Acervo Digital",
-    "subtopicos": [
-      {
-        "titulo": "plans",
-        "subtopicos": [
-          {
-            "titulo": "district_plan",
-            "url": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png"
-          },
-          {
-            "titulo": "situation_plan",
-            "url": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png"
-          },
-          {
-            "titulo": "cadastral_planimetric_plan",
-            "url": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png"
-          },
-          {
-            "titulo": "topographic_plan",
-            "url": "https://"
-          },
-          {
-            "titulo": "zoning_plan",
-            "url": "https://"
-          }
-        ]
-      },
-      {
-        "titulo": "house_plans",
-        "subtopicos": [
-          {
-            "titulo": "value",
-            "descricao": "Description"
-          },
-          {
-            "titulo": "plans",
-            "subtopicos": [
-              {
-                "titulo": "house_plan",
-                "url": "URL to the house plan"
-              },
-              {
-                "titulo": "engineering_plan",
-                "url": [
-                  "https://bafybeif6auu2jcfxeqfjtqnhjm2uwtnjeuulamf5nshy4z5zaleumhjoma.ipfs.w3s.link/%40pl_baixa_01.png",
-                  "https://bafybeiertnlz3obafrprb65qjgsgqqnzvfvodykcia3sqgtznywn4mnbyu.ipfs.w3s.link/%40pl_baixa_02.png"
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "titulo": "photo_report",
-        "subtopicos": [
-          {
-            "titulo": "description",
-            "descricao": "A photo report showcasing the different areas of the property"
-          },
-          {
-            "titulo": "images",
-            "subtopicos": {
-              "Front View": "https://bafybeieier5xq5vj2sxm3467lof7izdzgyb7ts47i4zkzq3dmd5vg5boiy.ipfs.w3s.link/%40casa_01.png",
-              "side view": "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
-              "Backyard": [
-                "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
-                "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png"
-              ],
-              "aerial_photography": [
-                "https://bafybeidvihybjcvnfwvpqafki36urtqhiwwnkdy5xzy7ls2zcnoqon54ge.ipfs.w3s.link/%40air_01.png",
-                "https://bafybeigzemav2aajzgtzp5e4u6yh2su376u3w56lsdtjtotes6ltncktbi.ipfs.w3s.link/%40air_02.png",
-                "https://bafybeifuy46ujrlvzqzu7ibg2cjmnrkmko4mifisne7aakpafjsqgz4mzi.ipfs.w3s.link/%40air_03.png",
-                "https://bafybeicc76eqbhzsl7h7nonw2pem23abfrnyqrcfg56cjghowb6sead5sm.ipfs.w3s.link/Aerofotografia-04.png",
-                "https://bafybeialgnq5eoqh3kynvg7mi4hxmkzfgygq6ckipc4fndxwunzkt7cyli.ipfs.w3s.link/Aerofotografia-05.png",
-                "https://bafybeie3md33s3gxxxnume4gpehs7mqulez3wxfhwebkpmjf3rnicac374.ipfs.w3s.link/Aerofotografia-06.png",
-                "https://bafybeiby54ssfvruoeye4qdd3h7posmgmpqcirfltykezqijlarbdif3o4.ipfs.w3s.link/Aerofotografia-07.png"
+    {
+      "titulo": "Acervo Digital",
+      "subtopicos": [
+        {
+          "titulo": "plantas",
+          "subtopicos": [
+            {
+              "titulo": "plano_distrital",
+              "url": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png"
+            },
+            {
+              "titulo": "plano_situacional",
+              "url": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png"
+            },
+            {
+              "titulo": "plano_cadastral_planimétrico",
+              "url": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png"
+            },
+            {
+              "titulo": "plano_topográfico",
+              "url": "https://"
+            },
+            {
+              "titulo": "plano_de_zoneamento",
+              "url": "https://"
+            }
+          ]
+        },
+        {
+          "titulo": "plantas_da_casa",
+          "subtopicos": [
+            {
+              "titulo": "valor",
+              "descricao": "Descrição"
+            },
+            {
+              "titulo": "plantas",
+              "subtopicos": [
+                {
+                  "titulo": "planta_da_casa",
+                  "url": "URL da planta da casa"
+                },
+                {
+                  "titulo": "planta_de_engenharia",
+                  "url": [
+                    "https://bafybeif6auu2jcfxeqfjtqnhjm2uwtnjeuulamf5nshy4z5zaleumhjoma.ipfs.w3s.link/%40pl_baixa_01.png",
+                    "https://bafybeiertnlz3obafrprb65qjgsgqqnzvfvodykcia3sqgtznywn4mnbyu.ipfs.w3s.link/%40pl_baixa_02.png"
+                  ]
+                }
               ]
             }
-          }
-        ]
-      },
-      {
-        "titulo": "construction_licensing",
-        "subtopicos": [
-          {
-            "titulo": "value",
-            "descricao": "ART"
-          },
-          {
-            "titulo": "electronic_seal",
-            "descricao": "2020210181537"
-          },
-          {
-            "titulo": "link",
-            "url": [
-              "https://bafybeibdq6u4gf26elfx62nntxgrgvidng2vmg5l43j35jgoq6mr67ogy4.ipfs.w3s.link",
-              "https://bafybeigficssrtywgh4mxdyfnxohfaigqzjnrtfdxpmazuas3bhwsszof4.ipfs.w3s.link"
-            ]
-          }
-        ]
-      },
-      {
-        "titulo": "city_hall",
-        "subtopicos": [
-          {
-            "titulo": "address",
-            "subtopicos": {
-              "street": "Av. Presidente Kennedy",
-              "number": "00",
-              "block": "00",
-              "lot": "00",
-              "neighborhood": "Estrela do Norte",
-              "municipality": "São Gonçalo",
-              "state": "Rio de Janeiro (RJ)",
-              "zip_code": "00"
+          ]
+        },
+        {
+          "titulo": "relatório_fotográfico",
+          "subtopicos": [
+            {
+              "titulo": "descrição",
+              "descricao": "Um relatório fotográfico mostrando diferentes áreas da propriedade"
+            },
+            {
+              "titulo": "imagens",
+              "subtopicos": {
+                "Vista Frontal": "https://bafybeieier5xq5vj2sxm3467lof7izdzgyb7ts47i4zkzq3dmd5vg5boiy.ipfs.w3s.link/%40casa_01.png",
+                "Vista Lateral": "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
+                "Quintal": [
+                  "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png",
+                  "https://bafybeihjdmtubrpyxds7muf4f2vlvkji6bdl76s3jowqzzp4civj7zy6by.ipfs.w3s.link/%40casa_02.png"
+                ],
+                "Fotografia Aérea": [
+                  "https://bafybeidvihybjcvnfwvpqafki36urtqhiwwnkdy5xzy7ls2zcnoqon54ge.ipfs.w3s.link/%40air_01.png",
+                  "https://bafybeigzemav2aajzgtzp5e4u6yh2su376u3w56lsdtjtotes6ltncktbi.ipfs.w3s.link/%40air_02.png",
+                  "https://bafybeifuy46ujrlvzqzu7ibg2cjmnrkmko4mifisne7aakpafjsqgz4mzi.ipfs.w3s.link/%40air_03.png",
+                  "https://bafybeicc76eqbhzsl7h7nonw2pem23abfrnyqrcfg56cjghowb6sead5sm.ipfs.w3s.link/Aerofotografia-04.png",
+                  "https://bafybeialgnq5eoqh3kynvg7mi4hxmkzfgygq6ckipc4fndxwunzkt7cyli.ipfs.w3s.link/Aerofotografia-05.png",
+                  "https://bafybeie3md33s3gxxxnume4gpehs7mqulez3wxfhwebkpmjf3rnicac374.ipfs.w3s.link/Aerofotografia-06.png",
+                  "https://bafybeiby54ssfvruoeye4qdd3h7posmgmpqcirfltykezqijlarbdif3o4.ipfs.w3s.link/Aerofotografia-07.png"
+                ]
+              }
             }
-          },
-          {
-            "titulo": "CNPJ",
-            "descricao": "28.636.579/0001-00"
-          }
-        ]
-      },
-      {
-        "titulo": "iptu",
-        "subtopicos": [
-          {
-            "titulo": "enrollment",
-            "descricao": "369835000"
-          },
-          {
-            "titulo": "exercise",
-            "descricao": "2024"
-          },
-          {
-            "titulo": "link",
-            "url": [
-              "https://bafkreifq55wy3n77yn3zahz2i22vjaegdm7tw2zx7sj47vlibvwdfipco4.ipfs.w3s.link",
-              "https://",
-              "https://",
-              "https://"
-            ]
-          }
-        ]
-      },
-      {
-        "titulo": "registry_office",
-        "subtopicos": [
-          {
-            "titulo": "name",
-            "descricao": "Tabelionato De Notas E 3º Ofício De Registro De Imóveis"
-          },
-          {
-            "titulo": "notary_officer",
-            "subtopicos": {
-              "name": "José Expedito Moreira da Cunha",
-              "substitute_name": "Cristiane Mendes Cunha Melo"
+          ]
+        },
+        {
+          "titulo": "licenciamento_construção",
+          "subtopicos": [
+            {
+              "titulo": "valor",
+              "descricao": "ART"
+            },
+            {
+              "titulo": "selo_eletronico",
+              "descricao": "2020210181537"
+            },
+            {
+              "titulo": "link",
+              "url": [
+                "https://bafybeibdq6u4gf26elfx62nntxgrgvidng2vmg5l43j35jgoq6mr67ogy4.ipfs.w3s.link",
+                "https://bafybeigficssrtywgh4mxdyfnxohfaigqzjnrtfdxpmazuas3bhwsszof4.ipfs.w3s.link"
+              ]
             }
-          },
-          {
-            "titulo": "address",
-            "subtopicos": {
-              "street": "Antônio Alves",
-              "number": "99",
-              "block": "00",
-              "lot": "00",
-              "neighborhood": "Alcântara",
-              "municipality": "São Gonçalo",
-              "state": "Rio de Janeiro (RJ)",
-              "zip_code": "24710-390"
+          ]
+        },
+        {
+          "titulo": "prefeitura",
+          "subtopicos": [
+            {
+              "titulo": "endereco",
+              "subtopicos": {
+                "logradouro": "Av. Presidente Kennedy",
+                "numero": "00",
+                "quadra": "00",
+                "lote": "00",
+                "bairro": "Estrela do Norte",
+                "municipio": "São Gonçalo",
+                "estado": "Rio de Janeiro (RJ)",
+                "cep": "00"
+              }
+            },
+            {
+              "titulo": "CNPJ",
+              "descricao": "28.636.579/0001-00"
             }
+          ]
+        },
+        {
+          "titulo": "iptu",
+          "subtopicos": [
+            {
+              "titulo": "matricula",
+              "descricao": "369835000"
+            },
+            {
+              "titulo": "exercicio",
+              "descricao": "2024"
+            },
+            {
+              "titulo": "link",
+              "url": [
+                "https://bafkreifq55wy3n77yn3zahz2i22vjaegdm7tw2zx7sj47vlibvwdfipco4.ipfs.w3s.link",
+                "https://",
+                "https://",
+                "https://"
+              ]
+            }
+          ]
+        },
+        "registro_cartorio": {
+          "nome": "Tabelionato De Notas E 3º Ofício De Registro De Imóveis",
+          "oficial_notas": {
+            "nome": "José Expedito Moreira da Cunha",
+            "nome_substituto": "Cristiane Mendes Cunha Melo"
           },
-          {
-            "titulo": "CNPJ",
-            "descricao": "30.594.527/0001-52"
-          }
-        ]
-      },
-      {
-        "titulo": "onus_reais",
-        "subtopicos": [
-          {
-            "titulo": "book",
-            "descricao": "02"
+          "endereco": {
+            "logradouro": "Antônio Alves",
+            "numero": "99",
+            "quadra": "00",
+            "lote": "00",
+            "bairro": "Alcântara",
+            "municipio": "São Gonçalo",
+            "estado": "Rio de Janeiro (RJ)",
+            "cep": "24710-390"
           },
-          {
-            "titulo": "Registration",
-            "descricao": "4.807"
-          },
-          {
-            "titulo": "date_of_certificate",
-            "descricao": "16/07/2021"
-          },
-          {
-            "titulo": "electronic_seal",
-            "descricao": "EDWG85399"
-          },
-          {
-            "titulo": "random_code",
-            "descricao": "AXN"
-          },
-          {
-            "titulo": "value",
-            "descricao": "Description"
-          },
-          {
-            "titulo": "link",
-            "url": [
-              "https://bafkreidi2pl6ig63g45ccgtjnoyspxydypdxzjykwlyewe55psvtzx7ywa.ipfs.w3s.link",
-              "https://bafkreibegclqbpwj3lmjg2uyrv5flztyxaj5kdeeuiiywrvlx4cgcn73jq.ipfs.w3s.link",
-              "https://bafkreie5cylp3yxkrm3acqe7vkfxwo3zxdnl2lekfxjy3vb6s4w6yo2qay.ipfs.w3s.link",
-              "https://"
-            ]
-          }
-        ]
-      },
-      {
-        "titulo": "Declaration",
-        "subtopicos": [
-          {
-            "titulo": "book",
-            "descricao": "8017"
-          },
-          {
-            "titulo": "sheet",
-            "descricao": "182/183"
-          },
-          {
-            "titulo": "date_of_certificate",
-            "descricao": "13/11/2017"
-          },
-          {
-            "titulo": "electronic_seal",
-            "descricao": "ECIT57306"
-          },
-          {
-            "titulo": "random_code",
-            "descricao": "LRG"
-          },
-          {
-            "titulo": "value",
-            "descricao": "Description"
-          },
-          {
-            "titulo": "link",
-            "url": [
-              "https://",
-              "https://",
-              "https://",
-              "https://bafkreihuzo2uy5cf36s7tk7btxshdykoa5l4pesut7rniosbfhyyguqrr4.ipfs.w3s.link"
-            ]
-          }
-        ]
-      },
-      {
-        "titulo": "notarial_minutes",
-        "subtopicos": [
-          {
-            "titulo": "book",
-            "descricao": "275"
-          },
-          {
-            "titulo": "act",
-            "descricao": "136"
-          },
-          {
-            "titulo": "sheet",
-            "descricao": "155/156"
-          },
-          {
-            "titulo": "date_of_certificate",
-            "descricao": "15/01/2019"
-          },
-          {
-            "titulo": "electronic_seal",
-            "descricao": "ECVY45835"
-          },
-          {
-            "titulo": "random_code",
-            "descricao": "XYA"
-          },
-          {
-            "titulo": "value",
-            "descricao": "Description"
-          },
-          {
-            "titulo": "link",
-            "url": [
-              "https://bafkreiex63y3dncn6tdd5myidx5ui2fc56nr7pr5ximq3aziwapzs3kchu.ipfs.w3s.link",
-              "https://bafkreieabh2qwmnitgvezshasarzfnnodzrvqk3ftf5xxdt5vxcjxxdv3a.ipfs.w3s.link",
-              "https://bafkreiao2tbj5bs7vimievxhos6voytdykxhoa4x5cfzsrzmvhl3p62gd4.ipfs.w3s.link",
-              "https://bafkreibfbzmydlm5b7ttintrn2a2fusnybxq5yaf2m7arnwbvfgrv4ua7a.ipfs.w3s.link"
-            ]
-          }
-        ]
-      },
-      {
-        "titulo": "judicial_note",
-        "subtopicos": [
-          {
-            "titulo": "book",
-            "descricao": "#"
-          },
-          {
-            "titulo": "act",
-            "descricao": "#"
-          },
-          {
-            "titulo": "sheet",
-            "descricao": "#"
-          },
-          {
-            "titulo": "date_of_certificate",
-            "descricao": "00/00/0000"
-          },
-          {
-            "titulo": "electronic_seal",
-            "descricao": "#"
-          },
-          {
-            "titulo": "random_code",
-            "descricao": "#"
-          },
-          {
-            "titulo": "value",
-            "descricao": "Description"
-          },
-          {
-            "titulo": "link",
-            "url": [
-              "https://",
-              "https://",
-              "https://",
-              "https://"
-            ]
-          }
-        ]
-      }
-    ]  
-        
+          "cnpj": "30.594.527/0001-52"
+        },
+        "onus_reais": {
+          "livro": "02",
+          "registro": "4.807",
+          "data_certidao": "16/07/2021",
+          "selo_eletronico": "EDWG85399",
+          "codigo_aleatorio": "AXN",
+          "valor": "Descrição",
+          "link": [
+            "https://bafkreidi2pl6ig63g45ccgtjnoyspxydypdxzjykwlyewe55psvtzx7ywa.ipfs.w3s.link",
+            "https://bafkreibegclqbpwj3lmjg2uyrv5flztyxaj5kdeeuiiywrvlx4cgcn73jq.ipfs.w3s.link",
+            "https://bafkreie5cylp3yxkrm3acqe7vkfxwo3zxdnl2lekfxjy3vb6s4w6yo2qay.ipfs.w3s.link",
+            "https://"
+          ]
+        },
+        "declaracao": {
+          "livro": "8017",
+          "folha": "182/183",
+          "data_certidao": "13/11/2017",
+          "selo_eletronico": "ECIT57306",
+          "codigo_aleatorio": "LRG",
+          "valor": "Descrição",
+          "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://bafkreihuzo2uy5cf36s7tk7btxshdykoa5l4pesut7rniosbfhyyguqrr4.ipfs.w3s.link"
+          ]
+        },
+        "atas_notariais": {
+          "livro": "275",
+          "ato": "136",
+          "folha": "155/156",
+          "data_certidao": "15/01/2019",
+          "selo_eletronico": "ECVY45835",
+          "codigo_aleatorio": "XYA",
+          "valor": "Descrição",
+          "link": [
+            "https://bafkreiex63y3dncn6tdd5myidx5ui2fc56nr7pr5ximq3aziwapzs3kchu.ipfs.w3s.link",
+            "https://bafkreieabh2qwmnitgvezshasarzfnnodzrvqk3ftf5xxdt5vxcjxxdv3a.ipfs.w3s.link",
+            "https://bafkreiao2tbj5bs7vimievxhos6voytdykxhoa4x5cfzsrzmvhl3p62gd4.ipfs.w3s.link",
+            "https://bafkreibfbzmydlm5b7ttintrn2a2fusnybxq5yaf2m7arnwbvfgrv4ua7a.ipfs.w3s.link"
+          ]
+        },
+        "nota_judicial": {
+          "livro": "#",
+          "ato": "#",
+          "folha": "#",
+          "data_certidao": "00/00/0000",
+          "selo_eletronico": "#",
+          "codigo_aleatorio": "#",
+          "valor": "Descrição",
+          "link": [
+            "https://",
+            "https://",
+            "https://",
+            "https://"
+          ]
+        }
+      ]
+    }
+  }            
 }
