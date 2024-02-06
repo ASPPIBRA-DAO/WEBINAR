@@ -194,6 +194,21 @@
           "transporte_publico": true,
           "redes_telefonicas": true
         }
+      },
+      {
+        "detalhes_da_transacao_imobiliaria": {
+          "valor_de_venda": {
+            "preco": "Especifique o valor total da propriedade em R$",    
+            "metodo_de_pagamento": "Especifique o método de pagamento usado na venda (Dinheiro, Transferência Bancária, Financiamento, etc.)",
+            "termos_da_venda": "Especifique quaisquer termos ou condições especiais da venda, se aplicável"   
+          },
+          "valor_do_aluguel": {
+            "preco": "Especifique o preço de anúncio para aluguel da propriedade em R$",    
+            "metodo_de_pagamento": "Especifique o método de pagamento usado no aluguel (Depósito Bancário, Transferência, etc.)",
+            "termos_do_aluguel": "Especifique quaisquer termos ou condições especiais do contrato de aluguel, se aplicável"
+          },
+          "observacoes": "Adicione quaisquer observações ou informações adicionais relevantes aqui."
+        }
       }
     ],    
     "relatorio_topografico": [
