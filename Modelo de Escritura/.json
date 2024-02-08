@@ -9,6 +9,7 @@
     "formato": [".JSON", "PDF", "NFT"],
     "dedicatoria": "Dedicamos este trabalho à ASPPIBRA com profunda gratidão. Sua contribuição crucial e visão estratégica foram fundamentais para o desenvolvimento inovador na Regularização Fundiária Urbana e Rural no Brasil. Expressamos nossa sincera gratidão pelo compromisso em promover uma visão abrangente do registro imobiliário digital, alinhada à legislação atual, especialmente a Lei Nº 13.465, de 11 de Julho de 2017. Este projeto também reflete o total alinhamento com a Lei da Inovação (Lei nº 10.973/2004), destacando os esforços contínuos da ASPPIBRA para impulsionar o desenvolvimento tecnológico. Ao dedicar este documento à ASPPIBRA, reconhecemos e respeitamos a busca constante da organização por avanços na gestão de propriedades no Brasil, um testemunho de seu compromisso exemplar em moldar positivamente o futuro do registro imobiliário no país.",
     "agradecimento": "Com profunda gratidão, expresso meu reconhecimento a Deus, fonte inesgotável de inspiração e guia em todos os momentos. A Ele, atribuo a sabedoria e a força que tornaram possível a criação deste documento. À ASPPIBRA, minha sincera gratidão por seu valioso apoio e dedicação incansável ao longo de todo o processo. A contribuição da ASPPIBRA foi mais do que essencial; representou um compromisso organizacional robusto e um esforço coletivo para atingir os objetivos propostos. Um reconhecimento especial é direcionado à excepcional equipe de topografia, cujo levantamento foi crucial na obtenção de informações cruciais. Agradeço profundamente à dedicada equipe de engenheiros pela meticulosa preparação do plano da propriedade, evidenciando um profissionalismo exemplar. Cada indivíduo envolvido desempenhou um papel significativo, e este documento não teria sido possível sem a colaboração e comprometimento de todos.",
+    "sumario": "descrição",
     "introducao": "Neste documento, preparado pela ASPPIBRA-DAO, é apresentada uma visão abrangente sobre a digitalização do registro imobiliário no cenário digital. O objetivo principal é oferecer uma solução inovadora para a Regularização Fundiária Urbana e Rural no Brasil. A proposta busca garantir a inclusão digital de todos os proprietários e ocupantes de imóveis em todo o país, aderindo à Lei nº 13.465, de 11 de julho de 2017, que trata da regularização fundiária urbana e rural. Além disso, o projeto está alinhado com a Lei nº 10.973 de 2004 (Lei de Inovação), incentivando o desenvolvimento e adoção de tecnologias inovadoras.\n\nA solução apresentada inclui o uso da tecnologia blockchain como uma ferramenta essencial para ampliar o registro imobiliário globalmente. Ao lidar com questões relacionadas à informalidade e transparência no registro de propriedades, o projeto tem como objetivo fornecer acesso a informações descentralizadas e invioláveis. Um destaque importante deste documento é a proposta de criação de um NFT único que representa a propriedade residencial, adicionando uma camada adicional de segurança e autenticidade ao processo.",
     "escopo": [
       {
@@ -145,7 +146,7 @@
     ],
     "memorial_descritivo": [
       {
-        "caracteristicas_propriedade": {
+        "caracteristicas_da_propriedade": {
           "tamanho_total": "1.100,00 m²",
           "confrontacao_lateral_direita": "50,00 m, confrontando com o Lote 01",
           "confrontacao_lateral_esquerda": "50,00 m, confrontando com o Lote 03",
@@ -171,7 +172,7 @@
         }
       },
       {
-        "identificacao_caracterizacao_regiao": {
+        "identificacao_e_caracterizacao_da_regiao": {
           "localizacao_regiao": "Inserida no tecido urbano do Município de São Gonçalo",
           "infraestrutura": {
             "ocupacao_predominante": "Residencial unifamiliar",
@@ -301,6 +302,13 @@
         ]
       }        
     ],    
+    "conclusao": [
+      "A compilação do \"Cadastro Imobiliário Mundial Digital\" em formato .json representa um salto significativo rumo à modernização e transparência no registro imobiliário brasileiro.",
+      "A organização minuciosa dos dados proporciona uma visão abrangente dos imóveis, seus proprietários e dos profissionais envolvidos no processo, evidenciando a tecnologia blockchain como peça-chave para garantir não apenas a segurança, mas também a transparência essencial no registro de propriedades.",
+      "No entanto, este relatório transcende sua função meramente informativa, destacando-se como uma fonte educacional valiosa. A análise detalhada da estrutura dos dados e dos elementos primários contidos no arquivo .json simplifica a compreensão do conteúdo, tornando-o um instrumento poderoso na disseminação do conhecimento sobre práticas inovadoras no contexto do registro imobiliário digital.",
+      "Ao fomentar a transparência não apenas nos registros imobiliários, mas também na compreensão e aplicação desses registros, este relatório desempenha um papel crucial na transformação do setor imobiliário brasileiro. Sua contribuição educacional não apenas capacita os profissionais envolvidos, mas também fortalece a confiança e a eficiência do sistema como um todo.",
+      "Este trabalho representa, assim, um passo significativo em direção a um registro imobiliário mais seguro, transparente e acessível para todos os envolvidos, marcando um avanço significativo nas práticas inovadoras que moldam o futuro do setor."
+    ],
     "normas_tecnicas_referencias_bibliograficas": [
       {
         "organizacao": "IBGE",
@@ -352,13 +360,6 @@
         "ano": "2008",
         "url": "https://bafybeia36jxjlspkwdhwexg2fhn4y7elqykxzt4ge2752suqjdtcxwiigy.ipfs.w3s.link/recom_gps_internet.pdf"
       }
-    ],
-    "conclusao": [
-      "A compilação do \"Cadastro Imobiliário Mundial Digital\" em formato .json representa um salto significativo rumo à modernização e transparência no registro imobiliário brasileiro.",
-      "A organização minuciosa dos dados proporciona uma visão abrangente dos imóveis, seus proprietários e dos profissionais envolvidos no processo, evidenciando a tecnologia blockchain como peça-chave para garantir não apenas a segurança, mas também a transparência essencial no registro de propriedades.",
-      "No entanto, este relatório transcende sua função meramente informativa, destacando-se como uma fonte educacional valiosa. A análise detalhada da estrutura dos dados e dos elementos primários contidos no arquivo .json simplifica a compreensão do conteúdo, tornando-o um instrumento poderoso na disseminação do conhecimento sobre práticas inovadoras no contexto do registro imobiliário digital.",
-      "Ao fomentar a transparência não apenas nos registros imobiliários, mas também na compreensão e aplicação desses registros, este relatório desempenha um papel crucial na transformação do setor imobiliário brasileiro. Sua contribuição educacional não apenas capacita os profissionais envolvidos, mas também fortalece a confiança e a eficiência do sistema como um todo.",
-      "Este trabalho representa, assim, um passo significativo em direção a um registro imobiliário mais seguro, transparente e acessível para todos os envolvidos, marcando um avanço significativo nas práticas inovadoras que moldam o futuro do setor."
     ],
     {
       "titulo": "Acervo Digital",
