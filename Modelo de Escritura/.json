@@ -130,6 +130,7 @@
                 "crea": "Número do CREA do Topógrafo",
                 "rg": "00.000.000-0",
                 "CPF": "000.000.000-00",
+                "nome_fantasia": "Alcance Serviços LTDA",
                 "CNPJ": "18.267.079/0001-87"
             }
         },
@@ -140,6 +141,7 @@
                 "crea": "2021100702 (RJ)",
                 "rg": "00.000.000-0",
                 "CPF": "000.000.000-00",
+                "nome_fantasia": "PHDL Engenharia LTDA",
                 "CNPJ": "40.142.171/0001-70"
             }
         }
@@ -147,28 +149,35 @@
     "memorial_descritivo": [
       {
         "caracteristicas_da_propriedade": {
-          "tamanho_total": "1.100,00 m²",
-          "confrontacao_lateral_direita": "50,00 m, confrontando com o Lote 01",
-          "confrontacao_lateral_esquerda": "50,00 m, confrontando com o Lote 03",
-          "confrontacao_frontal": "22,00 m, confrontando Av. Almirante Amorim do Vale",
-          "confrontacao_fundo": "22,00 m, confrontando com o Lote 05",
-          "perimetro": "142,00 m",
-          "numero_registro_iptu": "369835000",
-          "numero_registro_rgi": "4.807"
-        }
+          "titulo": "terreno urbano",
+          "conteudo": {
+            "tamanho_total": "1.100,00 m²",
+            "confrontacao_lateral_direita": "50,00 m, confrontando com o Lote 01",
+            "confrontacao_lateral_esquerda": "50,00 m, confrontando com o Lote 03",
+            "confrontacao_frontal": "22,00 m, confrontando Av. Almirante Amorim do Vale",
+            "confrontacao_fundo": "22,00 m, confrontando com o Lote 05",
+            "caracterizacao": "plano",
+            "perimetro": "142,00 m",
+            "numero_registro_iptu": "369835000",
+            "numero_registro_rgi": "4.807"
+          },
+          "observacoes": "Adicione quaisquer observações ou informações adicionais relevantes aqui."
+        }                
       },
       {
-        "terreno_urbano": {
-          "numero": "02",
-          "quadra": "37",
-          "caracterizacao": "plano",
-          "registro": "2º Cartório de Registro de Imóveis",
-          "proprietario": "Sr. Julio Cesar da Costa Luis",
+        "caracteristicas_da_propriedade": {
+          "titulo": "imóvel urbano",       
           "detalhes_construcao": {
             "edificio_pavimentos": 1,
             "area_total": "63,82 m²",
+            "area_total": "63,82 m²",
+            "area_total": "63,82 m²",
+            "area_total": "63,82 m²",
+            "area_total": "63,82 m²",
+
             "engenheiro_responsavel": "Engenheiro Civil"
-          }
+          },
+          "observacoes": "Adicione quaisquer observações ou informações adicionais relevantes aqui."        
         }
       },
       {
