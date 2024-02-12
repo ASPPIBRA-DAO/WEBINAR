@@ -156,9 +156,9 @@
             "confrontacao_lateral_esquerda": "50,00 m, confrontando com o Lote 03",
             "confrontacao_frontal": "22,00 m, confrontando Av. Almirante Amorim do Vale",
             "confrontacao_fundo": "22,00 m, confrontando com o Lote 05",
-            "caracterizacao": "plano",
-            "zoneamento": "(Z6) Zona de Estruturação Urbana Secundaria",
             "perimetro": "142,00 m",
+            "caracterizacao": "plano",
+            "zoneamento": "(Z6) Zona de Estruturação Urbana Secundaria",            
             "numero_registro_iptu": "369835000",
             "numero_registro_rgi": "4.807"
           },
@@ -195,7 +195,8 @@
             "acesso_principal": "Rua João de Abreu",
             "intensidade_trafego": "Média",
             "padrao_comercio": "Regular"
-          }
+          },
+          "observacoes": "Descrição."
         }
       },
       {
@@ -220,7 +221,7 @@
             "metodo_de_pagamento": "Especifique o método de pagamento usado no aluguel (Depósito Bancário, Transferência, etc.)",
             "termos_do_aluguel": "Especifique quaisquer termos ou condições especiais do contrato de aluguel, se aplicável"
           },
-          "observacoes": "Adicione quaisquer observações ou informações adicionais relevantes aqui."
+          "observacoes": "Descrição"
         }
       }
     ],    
@@ -377,13 +378,13 @@
       "titulo": "Acervo Digital",
       "subtopicos": [
         {
-          "titulo": "planos_topograficos",
-          "descricao": "Sua descrição exclusiva da área com planos topográficos",
+          "titulo": "Plantas",
+          "descricao": "Sua descrição exclusiva da área com planos",
           "planos": {
             "Plano de Situação": "https://bafybeidabxrfk52ktaucgiubqdtfmr37glfkgqpqd4r2cjhudf5fvl6zji.ipfs.w3s.link/%40pl_situa%C3%A7%C3%A3o.png",
             "Plano Cadastral Planimétrico": "https://bafybeiahak3rmcs4sylyvfdob3vwf27ibxsoe3icjhbd57vyn2bswmxdt4.ipfs.w3s.link/%40cadastral.png",
             "Plano Topográfico": "URL",
-            "Plano de Zoneamento": "URL",
+            "Plano de Zoneamento": "https://bafybeicfi4y6cujcp2ofbu24dpgruds4eqzpqhnrkdvcwoxmwg2mcjlpya.ipfs.w3s.link/zoneamento_SG.jpg",
             "Plano Distrital": "https://bafybeidp6a4u66hs6qu7aiirm4jjdww6y4axsuxaun5ddfdlrqawqfpa6y.ipfs.w3s.link/%40distrito.png"
           }
         },
