@@ -170,14 +170,16 @@
           "detalhes_construcao": {
             "edificio_pavimentos": 1,
             "area_total": "63,82 m²",
-            "area_total": "63,82 m²",
-            "area_total": "63,82 m²",
-            "area_total": "63,82 m²",
-            "area_total": "63,82 m²",
-
-            "engenheiro_responsavel": "Engenheiro Civil"
+            "quarto": "1",
+            "suite": "1",
+            "cozinha": "1",
+            "sala_de_estar": "1",
+            "quintal": "1",
+            "banheiro": "1",
+            "garagem": "1",
+            "area_de_lavar": "1"            
           },
-          "observacoes": "Adicione quaisquer observações ou informações adicionais relevantes aqui."        
+          "observacoes": "Descrição."        
         }
       },
       {
