@@ -157,18 +157,19 @@
             "confrontacao_frontal": "22,00 m, confrontando Av. Almirante Amorim do Vale",
             "confrontacao_fundo": "22,00 m, confrontando com o Lote 05",
             "caracterizacao": "plano",
+            "zoneamento": "(Z6) Zona de Estruturação Urbana Secundaria",
             "perimetro": "142,00 m",
             "numero_registro_iptu": "369835000",
             "numero_registro_rgi": "4.807"
           },
-          "observacoes": "Adicione quaisquer observações ou informações adicionais relevantes aqui."
+          "observacoes": "Descrição."
         }                
       },
       {
         "caracteristicas_da_propriedade": {
           "titulo": "imóvel urbano",       
           "detalhes_construcao": {
-            "edificio_pavimentos": 1,
+            "edificio_pavimentos": 2,
             "area_total": "63,82 m²",
             "quarto": "1",
             "suite": "1",
