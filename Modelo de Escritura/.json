@@ -210,20 +210,21 @@
         }
       },
       {
-        "detalhes_da_transacao_imobiliaria": {
+        "precos_e_cotacoes": {
           "valor_de_venda": {
-            "preco": "Especifique o valor total da propriedade em R$",    
-            "metodo_de_pagamento": "Especifique o método de pagamento usado na venda (Dinheiro, Transferência Bancária, Financiamento, etc.)",
-            "termos_da_venda": "Especifique quaisquer termos ou condições especiais da venda, se aplicável"   
+            "preco": 180000,
+            "metodo_de_pagamento": "Moeda corrente fiduciária brasileira (Real)",
+            "termos_da_venda": "Especifique quaisquer termos ou condições especiais da venda, se aplicável"
           },
           "valor_do_aluguel": {
-            "preco": "Especifique o preço de anúncio para aluguel da propriedade em R$",    
-            "metodo_de_pagamento": "Especifique o método de pagamento usado no aluguel (Depósito Bancário, Transferência, etc.)",
+            "preco": 1200,
+            "metodo_de_pagamento": "Moeda corrente fiduciária brasileira (Real)",
             "termos_do_aluguel": "Especifique quaisquer termos ou condições especiais do contrato de aluguel, se aplicável"
           },
           "observacoes": "Descrição"
         }
       }
+      
     ],    
     "relatorio_topografico": [
       {
