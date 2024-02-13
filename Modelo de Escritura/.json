@@ -434,13 +434,13 @@
           "prefeitura": {
             "endereco": {
               "logradouro": "Av. Presidente Kennedy",
-              "numero": "00",
+              "numero": "765",
               "quadra": "00",
               "lote": "00",
               "bairro": "Estrela do Norte",
               "municipio": "São Gonçalo",
               "estado": "Rio de Janeiro (RJ)",
-              "cep": "00"
+              "cep": "24.445-795"
             },
             "CNPJ": {
               "titulo": "CNPJ",
