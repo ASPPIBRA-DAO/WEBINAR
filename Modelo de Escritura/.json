@@ -127,7 +127,8 @@
             "tipo": "topografo",
             "detalhes": {
                 "nome": "Alexsander da Silva Menezes",
-                "crea": "Número do CREA do Topógrafo",
+                "cft": "Número do CFT do Topógrafo",
+                "crea": "Número do CREA do Topógrafo",                
                 "rg": "00.000.000-0",
                 "CPF": "000.000.000-00",
                 "nome_fantasia": "Alcance Serviços LTDA",
@@ -138,6 +139,7 @@
             "tipo": "engenheiro_civil",
             "detalhes": {
                 "nome": "Daiana da Silva de Lima",
+                "cft": "Número do CFT",
                 "crea": "2021100702 (RJ)",
                 "rg": "00.000.000-0",
                 "CPF": "000.000.000-00",
