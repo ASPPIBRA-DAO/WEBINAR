@@ -1,4 +1,4 @@
-{       
+{
   "documento": {
     "titulo": "Registro Imobiliário Digital",
     "autor": "ASPPIBRA-DAO",
@@ -128,7 +128,7 @@
             "detalhes": {
                 "nome": "Alexsander da Silva Menezes",
                 "cft": "Número do CFT do Topógrafo",
-                "crea": "Número do CREA do Topógrafo",                
+                "crea": "Número do CREA do Topógrafo",
                 "rg": "00.000.000-0",
                 "CPF": "000.000.000-00",
                 "nome_fantasia": "Alcance Serviços LTDA",
@@ -160,16 +160,16 @@
             "confrontacao_fundo": "22,00 m, confrontando com o Lote 05",
             "perimetro": "142,00 m",
             "caracterizacao": "plano",
-            "zoneamento": "(Z6) Zona de Estruturação Urbana Secundaria",            
+            "zoneamento": "(Z6) Zona de Estruturação Urbana Secundaria",
             "numero_registro_iptu": "369835000",
             "numero_registro_rgi": "4.807"
           },
           "observacoes": "Descrição."
-        }                
+        }
       },
       {
         "caracteristicas_da_propriedade": {
-          "titulo": "imóvel urbano",       
+          "titulo": "imóvel urbano",
           "detalhes_construcao": {
             "edificio_pavimentos": 2,
             "area_total": "63,82 m²",
@@ -180,9 +180,9 @@
             "quintal": "1",
             "banheiro": "1",
             "garagem": "1",
-            "area_de_lavar": "1"            
+            "area_de_lavar": "1"
           },
-          "observacoes": "Descrição."        
+          "observacoes": "Descrição."
         }
       },
       {
@@ -226,8 +226,8 @@
           "observacoes": "Descrição"
         }
       }
-      
-    ],    
+
+    ],
     "relatorio_topografico": [
       {
         "titulo": "Termos e Definições",
@@ -299,7 +299,7 @@
         "subtopicos": [
           "Após a implantação das referências planialtimétricas, realizamos o levantamento em campo utilizando equipamento do tipo estação total, com precisão angular de 2 graus, por meio do método de irradiação de pontos. Durante este processo, coletamos os pontos notáveis do terreno, edificações, calçadas, soleiras, sarjetas, meio-fio, caixas de passagens, elementos de drenagem, esgoto, árvores (incluindo diâmetro) e demais pontos que julgamos necessários para a completa caracterização do imóvel objeto deste levantamento."
         ]
-      },        
+      },
       {
         "titulo": "Processamento de Dados no Escritório",
         "subtopicos": [
@@ -316,8 +316,8 @@
           "Software de Desenho: AutoCAD, Versão 2013",
           "Plotadora: HP DesignJet 800"
         ]
-      }        
-    ],    
+      }
+    ],
     "conclusao": [
       "A compilação do \"Cadastro Imobiliário Mundial Digital\" em formato .json representa um salto significativo rumo à modernização e transparência no registro imobiliário brasileiro.",
       "A organização minuciosa dos dados proporciona uma visão abrangente dos imóveis, seus proprietários e dos profissionais envolvidos no processo, evidenciando a tecnologia blockchain como peça-chave para garantir não apenas a segurança, mas também a transparência essencial no registro de propriedades.",
@@ -377,8 +377,8 @@
         "url": "https://bafybeia36jxjlspkwdhwexg2fhn4y7elqykxzt4ge2752suqjdtcxwiigy.ipfs.w3s.link/recom_gps_internet.pdf"
       }
     ],
+    "acervo_digital":
     {
-      "titulo": "Acervo Digital",
       "subtopicos": [
         {
           "titulo": "Plantas",
@@ -431,7 +431,7 @@
             "https://bafybeibdq6u4gf26elfx62nntxgrgvidng2vmg5l43j35jgoq6mr67ogy4.ipfs.w3s.link",
             "https://bafybeigficssrtywgh4mxdyfnxohfaigqzjnrtfdxpmazuas3bhwsszof4.ipfs.w3s.link"
           ]
-        },           
+        },
         {
           "prefeitura": {
             "endereco": {
@@ -449,7 +449,7 @@
               "descricao": "28.636.579/0001-00"
             }
           },
-          "plano_diretor": {            
+          "plano_diretor": {
             "exercicio": "2018",
             "link": [
               "https://bafybeiac4d46g5v3avi35oc4qbmdrkpsjqhe3hpk5evvzpmsk7mqqhzlly.ipfs.w3s.link/pmsg_l_858_2018.pdf",
@@ -468,7 +468,7 @@
               "https://"
             ]
           }
-        },                   
+        },
         {
           "documentos": {
             "cartorio": {
@@ -490,7 +490,7 @@
               "CNPJ": {
                 "titulo": "CNPJ",
                 "descricao": "30.594.527/0001-52"
-              }              
+              }
             },
             "onus_reais": {
               "livro": "02",
@@ -551,8 +551,8 @@
               ]
             }
           }
-        }                
+        }
       ]
     }
-  }            
+  }
 }
