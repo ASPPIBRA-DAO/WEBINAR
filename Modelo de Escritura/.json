@@ -146,6 +146,18 @@
                 "nome_fantasia": "PHDL Engenharia LTDA",
                 "CNPJ": "40.142.171/0001-70"
             }
+        },
+        {
+          "tipo": "advogado",
+          "detalhes": {
+              "nome": "Meiry Assunção Ribeiro",
+              "cft": "Número do CFT",
+              "aob": "137987 (RJ)",
+              "rg": "00.000.000-0",
+              "CPF": "000.341.565-05",
+              "nome_fantasia": "********",
+              "CNPJ": "00.000.000/0000-00"
+          }
         }
     ],
     "memorial_descritivo": [
